@@ -15,7 +15,7 @@
     <div id="loader-wrapper">
         <div id="loader-title">EqualStreetNames.Leipzig</div>
         <div id="loader"></div>
-        <div id="loader-status">Loading...</div>
+        <div id="loader-status">Laden...</div>
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
@@ -30,7 +30,7 @@
                 <li class="nav-item">
                     <a class="nav-link" class="btn btn-primary" data-toggle="modal" href="#contact">
                         <i class="fas fa-envelope"></i>
-                        Contact
+                        Kontakt
                     </a>
                 </li>
                 <li class="nav-item">
@@ -56,27 +56,23 @@
             <div id="gender-chart">
                 <table id="gender-chart-legend" class="table table-borderless table-sm">
                     <tbody>
-                        <tr class="gender-chart-label" data-gender="m">
-                            <td class="text-center"><i class="fas fa-lg fa-mars"></i></td>
-                            <td>Male (cis)</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
-                        </tr>
                         <tr class="gender-chart-label" data-gender="f">
-                            <td class="text-center"><i class="fas fa-lg fa-venus"></i></td>
-                            <td>Female (cis)</td>
-                            <td class="text-right gender-chart-count"></td>
-                            <td class="text-right gender-chart-pct"></td>
-                        </tr>
-                        <tr class="gender-chart-label" data-gender="mx">
-                            <td class="text-center"><i class="fas fa-lg fa-transgender-alt"></i></td>
-                            <td>Male (trans)</td>
+                            <td>Weiblich (cis)</td>
                             <td class="text-right gender-chart-count"></td>
                             <td class="text-right gender-chart-pct"></td>
                         </tr>
                         <tr class="gender-chart-label" data-gender="fx">
-                            <td class="text-center"><i class="fas fa-lg fa-transgender-alt"></i></td>
-                            <td>Female (trans)</td>
+                            <td>Weiblich (trans)</td>
+                            <td class="text-right gender-chart-count"></td>
+                            <td class="text-right gender-chart-pct"></td>
+                        </tr>
+                        <tr class="gender-chart-label" data-gender="m">
+                            <td>Männlich (cis)</td>
+                            <td class="text-right gender-chart-count"></td>
+                            <td class="text-right gender-chart-pct"></td>
+                        </tr>
+                        <tr class="gender-chart-label" data-gender="mx">
+                            <td>Männlich (trans)</td>
                             <td class="text-right gender-chart-count"></td>
                             <td class="text-right gender-chart-pct"></td>
                         </tr>
@@ -128,23 +124,6 @@
         app.style = "mapbox://styles/mapbox/dark-v10";
         app.init();
     </script>
-    <!-- Fathom - simple website analytics - https://usefathom.com -->
-    <script>
-        (function (f, a, t, h, o, m) {
-            a[h] = a[h] || function () {
-                (a[h].q = a[h].q || []).push(arguments)
-            };
-            o = f.createElement('script'),
-                m = f.getElementsByTagName('script')[0];
-            o.async = 1; o.src = t; o.id = 'fathom-script';
-            m.parentNode.insertBefore(o, m)
-        })(document, window, 'https://cdn.usefathom.com/tracker.js', 'fathom');
-        if (process.env.FATHOM_TOKEN) {
-            fathom('set', 'siteId', process.env.FATHOM_TOKEN);
-            fathom('trackPageview');
-        }
-    </script>
-    <!-- / Fathom -->
 </body>
 
 </html>
