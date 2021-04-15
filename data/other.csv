@@ -1,4 +1,5 @@
 name,gender,wikidata,type
+Amazonstraße,,Q3884,way
 "An der Alten Mühle",,Q180997,way
 "An der Autobahn",,Q46622,way
 BMW-Allee,,Q26678,way
@@ -21,6 +22,7 @@ Gudrunstraße,,Q1257834,way
 Gutsweg,,Q12292478,way
 Heimdallstraße,,Q131196,way
 "Hohe Heide",,Q1313431,way
+"Holzhäuser Straße",,Q1625540,way
 Hotherstraße,,Q204900,way
 Idunweg,,Q204691,way
 Kastanienstraße,,Q129324,way
@@ -28,6 +30,7 @@ Kornweg,,Q12117,way
 Kranichweg,,Q4764,way
 Kriemhildstraße,,Q1257834,way
 Kuckucksweg,,Q18845,way
+"Lausicker Straße",,Q10739,way
 Lermastraße,,Q54998954,way
 Lermontowstraße,,Q18399418,way
 Les-Epesses-Straße,,Q288657,way
@@ -36,6 +39,7 @@ Lindengasse,,Q127849,way
 Messe-Allee,,Q57305,way
 Michaelisstraße,,Q45581,way
 Mühlgrabenweg,,Q736691,way
+"Naunhofer Straße",,Q10771,way
 "Plaußiger Weg",,Q2098961,way
 "Podelwitzer Weg",,Q2100222,way
 Posastraße,,Q63487053,way
@@ -58,7 +62,6 @@ Adelgunde-Gottsched-Weg,,,way
 Adenauerallee,,,way
 Adlershelmstraße,,,way
 Adolf-Koppe-Straße,,,way
-Adolph-Menzel-Straße,,,way
 Agnesstraße,,,way
 Agricolastraße,,,way
 Ahlfeldstraße,,,way
@@ -74,7 +77,6 @@ Albrecht-Dürer-Straße,,,way
 Albrecht-Dürer-Weg,,,way
 "Albrechtshainer Straße",,,way
 Alexanderstraße,,,way
-Alfred-Frank-Straße,,,way
 Alfred-Schurig-Straße,,,way
 "Alte Baumschule",,,way
 "Alte Burghausener Straße",,,way
@@ -216,7 +218,6 @@ Alfred-Schurig-Straße,,,way
 "Am langen Teiche",,,way
 Amalie-Winter-Platz,,,way
 Amalienstraße,,,way
-Amazonstraße,,,way
 Amboldweg,,,way
 Ameisenstraße,,,way
 Ammernplatz,,,way
@@ -343,7 +344,6 @@ Auerbachplatz,,,way
 Auerhahnsteig,,,way
 "Auf dem Colmberg",,,way
 "Auf der Höhe",,,way
-August-Bebel-Siedlung,,,way
 August-Knauer-Straße,,,way
 August-Scheibe-Straße,,,way
 Auguste-Schulze-Straße,,,way
@@ -364,7 +364,6 @@ Außenweg,,,way
 Azaleenstraße,,,way
 Azaleenweg,,,way
 "BMW Teststrecke",,,way
-Baaderstraße,,,way
 "Baalsdorfer Anger",,,way
 "Baalsdorfer Straße",,,way
 Bachenpfad,,,way
@@ -409,7 +408,6 @@ Begonienweg,,,way
 Beipertstraße,,,way
 Benedekring,,,way
 Benediktusstraße,,,way
-Benedixstraße,,,way
 Bennigsenstraße,,,way
 Berberitzenstraße,,,way
 Bergahornstraße,,,way
@@ -465,7 +463,6 @@ Blumenbogen,,,way
 Blumenstraße,,,way
 Blumenweg,,,way
 Blümleinsteg,,,way
-Blümnerstraße,,,way
 Blüthnersteg,,,way
 Blüthnerstraße,,,way
 "Bochumer Straße",,,way
@@ -516,7 +513,6 @@ Brentanostraße,,,way
 "Breslauer Straße",,,way
 Bretschneiderstraße,,,way
 Breunsdorffstraße,,,way
-Brockhausstraße,,,way
 "Brodauer Weg",,,way
 Brombeerweg,,,way
 Brösigkestraße,,,way
@@ -568,14 +564,12 @@ Charlottenweg,,,way
 "Chemnitzer Straße",,,way
 Cheruskerstraße,,,way
 Christian-Ferkel-Straße,,,way
-Christian-Grunert-Straße,,,way
 Christian-Schmid-Straße,,,way
 Christian-Wille-Weg,,,way
 Christoph-Probst-Straße,,,way
 Christoph-Schubert-Straße,,,way
 Chrysanthemenweg,,,way
 Clara-Zetkin-Straße,,,way
-Claudiusstraße,,,way
 Clausewitzstraße,,,way
 Claußbruchstraße,,,way
 "Cletzener Weg",,,way
@@ -586,9 +580,7 @@ Cocciusstraße,,,way
 Colmbergsiedlung,,,way
 Colmblick,,,way
 "Connewitzer Straße",,,way
-Coppiplatz,,,way
 Coppistraße,,,way
-Corinthstraße,,,way
 Corkscrew,,,way
 "Cöthner Straße",,,way
 Cottaweg,,,way
@@ -615,7 +607,6 @@ Dammstraße,,,way
 Dammteichweg,,,way
 Dankwartstraße,,,way
 Dantestraße,,,way
-Daumierstraße,,,way
 Däumlingsweg,,,way
 Defoestraße,,,way
 Deiwitzweg,,,way
@@ -638,11 +629,9 @@ Diderotstraße,,,way
 Dieselstraße,,,way
 Dieskaustraße,,,way
 Diesterwegstraße,,,way
-Dietzgenstraße,,,way
 Diezmannstraße,,,way
 Dimpfelstraße,,,way
 Dinkelweg,,,way
-Dinterstraße,,,way
 Dittrichstraße,,,way
 "Döbelner Straße",,,way
 Dohnaweg,,,way
@@ -685,7 +674,6 @@ Eberlestraße,,,way
 Eberpfad,,,way
 Edlichstraße,,,way
 Edmond-Kaiser-Straße,,,way
-Eduard-von-Hartmann-Straße,,,way
 Eduardstraße,,,way
 "Eferdinger Straße",,,way
 Egelstraße,,,way
@@ -761,7 +749,6 @@ Eschenweg,,,way
 "Espenhainer Straße",,,way
 Espenweg,,,way
 "Essener Straße",,,way
-Etkar-André-Straße,,,way
 Etzelstraße,,,way
 Eulenweg,,,way
 "Eutritzscher Markt",,,relation
@@ -806,7 +793,6 @@ Finkengrund,,,way
 Finkensteig,,,way
 Finkenweg,,,way
 Fischersteg,,,way
-Fleißnerstraße,,,way
 Fliederhof,,,way
 Fliederweg,,,way
 "Flöhaer Straße",,,way
@@ -822,9 +808,7 @@ Fortunabadstraße,,,way
 "Frankenheimer Weg",,,way
 Frankenweg,,,way
 Franz-Flemming-Straße,,,way
-Franz-Mehring-Straße,,,way
 Franz-Schlobach-Straße,,,way
-Franz-Schubert-Weg,,,way
 Franzosenallee,,,way
 Franzosenfeld,,,way
 Frau-Holle-Weg,,,way
@@ -845,7 +829,6 @@ Friedrich-Kram-Weg,,,way
 Friedrich-List-Straße,,,way
 Friedrich-Naumann-Straße,,,way
 Friedrich-Schmidt-Straße,,,way
-Friedrich-Wolf-Straße,,,way
 "Friedrichshafner Straße",,,way
 Friesensteg,,,way
 Friesenstraße,,,way
@@ -856,7 +839,6 @@ Fritz-Reuter-Straße,,,way
 Fritz-Schmenkel-Straße,,,way
 Fritz-Seger-Straße,,,way
 Fritz-Simonis-Straße,,,way
-Fritz-Zalisz-Straße,,,way
 "Frohburger Straße",,,way
 Froschkönigweg,,,way
 Froschweg,,,way
@@ -963,7 +945,6 @@ Gottlaßstraße,,,way
 "Gottleubaer Straße",,,way
 Gottlieb-Schöne-Weg,,,way
 Gottschalkstraße,,,way
-Gottschallstraße,,,way
 Gottschedstraße,,,way
 "Gottscheinaer Landstraße",,,way
 "Gottscheinaer Weg",,,way
@@ -1062,10 +1043,8 @@ Hanns-Eisler-Straße,,,way
 Hans-Beimler-Straße,,,way
 Hans-Driesch-Straße,,,way
 Hans-Grade-Straße,,,way
-Hans-Oster-Straße,,,way
 Hans-Poeche-Straße,,,way
 Hans-Schlenker-Weg,,,way
-Hans-Scholl-Straße,,,way
 Hans-Weigel-Straße,,,way
 Hänselweg,,,way
 Happweg,,,way
@@ -1088,7 +1067,6 @@ Hauptstraße,,,way
 Hauptweg,,,way
 "Hauptweg zur großen Eiche",,,way
 Hauschildstraße,,,way
-Hausdorffweg,,,way
 Häuslergasse,,,way
 Häußerstraße,,,way
 Haußmannstraße,,,way
@@ -1097,7 +1075,6 @@ Haydnstraße,,,way
 Hebelstraße,,,way
 Heckenweg,,,way
 Hedwig-Burgheim-Straße,,,way
-Hegelstraße,,,way
 Heidegraben,,,way
 Heidelbeerweg,,,way
 "Heidelberger Straße",,,way
@@ -1107,7 +1084,6 @@ Heilemannstraße,,,way
 Heimteichstraße,,,way
 Heinickestraße,,,way
 Heinkstraße,,,way
-Heinrich-Budde-Straße,,,way
 Heinrich-Heine-Straße,,,way
 Heinrich-Kaps-Straße,,,way
 Heinrich-Mann-Straße,,,way
@@ -1177,14 +1153,11 @@ Hohenthalstraße,,,way
 Hohentichelnstraße,,,way
 "Hohle Gasse",,,way
 Hohmannstraße,,,way
-Holbeinstraße,,,way
 Holbergstraße,,,way
-Hölderlinstraße,,,way
 Holteistraße,,,way
 Holunderbogen,,,way
 Holunderweg,,,way
 "Holzhausener Straße",,,way
-"Holzhäuser Straße",,,way
 Hopfenbergstraße,,,way
 Hopfengarten,,,way
 Hopfenweg,,,way
@@ -1387,7 +1360,6 @@ Kolmstraße,,,way
 Koloniestraße,,,way
 Kolonnadenstraße,,,way
 Kolpingweg,,,way
-Kommandant-Prendel-Allee,,,way
 "Kömmlitzer Weg",,,way
 Königshauspassage,,,way
 Königsteinstraße,,,way
@@ -1461,7 +1433,6 @@ Laurentiusstraße,,,way
 "Lausener Bogen",,,way
 "Lausener Dorfplatz",,,way
 "Lausener Straße",,,way
-"Lausicker Straße",,,way
 "Lausner Weg",,,way
 Lautensteg,,,way
 Lavendelweg,,,way
@@ -1597,11 +1568,9 @@ Martinshöhe,,,way
 Mathiesenstraße,,,way
 Mathildenstraße,,,way
 Matthäikirchhof,,,way
-Matthissonstraße,,,way
 Maulbeerweg,,,way
 Maulwurfweg,,,way
 Max-Borsdorf-Straße,,,way
-Max-Liebermann-Straße,,,way
 Max-Metzger-Straße,,,way
 Max-Seyfert-Straße,,,way
 Maximilianallee,,,way
@@ -1673,7 +1642,6 @@ Moosbeerweg,,,way
 Moränenweg,,,way
 Morellenweg,,,way
 Morgensternstraße,,,way
-Mörikestraße,,,way
 Morungenstraße,,,way
 Moschelesstraße,,,way
 Mosenthinstraße,,,way
@@ -1710,7 +1678,6 @@ Naturlehrpfad,,,way
 "Naumburger Straße",,,way
 Naundörfchen,,,way
 "Naunhofer Landstraße",,,way
-"Naunhofer Straße",,,way
 Nelkenweg,,,way
 Neptunweg,,,way
 "Nerchauer Straße",,,way
@@ -1737,7 +1704,6 @@ Niederkirchnerbrücke,,,way
 Niemeyerstraße,,,way
 Nienborgstraße,,,way
 Nieritzstraße,,,way
-Nietzschestraße,,,way
 Nikischstraße,,,way
 Nikolai-Rumjanzew-Straße,,,way
 Nikolaikirchhof,,,relation
@@ -1770,10 +1736,8 @@ Odermannstraße,,,way
 "Oelßners Hof",,,way
 Oelßnerstraße,,,way
 Oertgering,,,way
-Oeserstraße,,,way
 "Offenburger Straße",,,way
 "Olbernhauer Straße",,,way
-Olbrichtstraße,,,way
 "Olchinger Straße",,,way
 "Oldenburger Straße",,,way
 Oleanderweg,,,way
@@ -2070,7 +2034,6 @@ Rundkapellenweg,,,way
 "Rundweg Gondwanaland",,,way
 Russenstraße,,,way
 Ruststraße,,,way
-Ruth-Pfau-Straße,,,way
 "S-Bahnhof MDR",,,relation
 "S-Bahnhof Wahren",,,relation
 "Saalecker Straße",,,way
@@ -2151,7 +2114,6 @@ Schneeballweg,,,way
 Schneewittchenweg,,,way
 Schneiderstraße,,,way
 Schnittergasse,,,way
-Schnorrstraße,,,way
 Schomburgkstraße,,,way
 "Schönauer Landstraße",,,way
 "Schönauer Ring",,,way
@@ -2270,7 +2232,6 @@ Starenweg,,,way
 Starweg,,,way
 Stauffacherweg,,,way
 Stefan-Zweig-Straße,,,way
-Steffensstraße,,,way
 "Steig F",,,relation
 Steinbachweg,,,way
 "Steinberger Straße",,,way
@@ -2350,7 +2311,6 @@ Theodor-Heuss-Straße,,,way
 Theodor-Neubauer-Straße,,,way
 Theodor-Voigt-Straße,,,way
 Theresienstraße,,,way
-Thiemstraße,,,way
 "Thierbacher Straße",,,way
 Thieriotstraße,,,way
 Thietmarstraße,,,way
