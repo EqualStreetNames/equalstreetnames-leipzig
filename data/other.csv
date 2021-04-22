@@ -1,2653 +1,2624 @@
-name,gender,wikidata,type
-Amazonstraße,,Q3884,way
-"An der Alten Mühle",,Q180997,way
-"An der Autobahn",,Q46622,way
-BMW-Allee,,Q26678,way
-Bäckergasse,,Q160131,way
-Balderstraße,,Q131658,way
-Bergweg,,Q8502,way
-Bernadotteweg,,Q65097240,way
-Birkengasse,,Q25243,way
-Brunhildstraße,,Q850506,way
-Buchengasse,,Q25403,way
-"Dingolfinger Straße",,Q225909,way
-Dohlenweg,,Q25345384,way
-Don-Carlos-Straße,,Q50764148,way
-Donarstraße,,Q42952,way
-Forsetistraße,,Q62548,way
-Fullaweg,,Q847429,way
-"Göbschelwitzer Straße",,Q1559171,way
-Grimmweg,,Q2793;Q6701;Q6714,way
-Gudrunstraße,,Q1257834,way
-Gutsweg,,Q12292478,way
-Heimdallstraße,,Q131196,way
-"Hohe Heide",,Q1313431,way
-"Holzhäuser Straße",,Q1625540,way
-Hotherstraße,,Q204900,way
-Idunweg,,Q204691,way
-Kastanienstraße,,Q129324,way
-Kornweg,,Q12117,way
-Kranichweg,,Q4764,way
-Kriemhildstraße,,Q1257834,way
-Kuckucksweg,,Q18845,way
-"Lausicker Straße",,Q10739,way
-Lermastraße,,Q54998954,way
-Lermontowstraße,,Q18399418,way
-Les-Epesses-Straße,,Q288657,way
-Lindengasse,,Q127849,way
-"Merkwitzer Straße",,Q22693034,way
-Messe-Allee,,Q57305,way
-Michaelisstraße,,Q45581,way
-Mühlgrabenweg,,Q736691,way
-"Naunhofer Straße",,Q10771,way
-"Plaußiger Weg",,Q2098961,way
-"Podelwitzer Weg",,Q2100222,way
-Posastraße,,Q63487053,way
-"Regensburger Straße",,Q2978,way
-Schulgasse,,Q3914,way
-Schwalbenweg,,Q39861,way
-"Seehausener Allee",,Q2264934,way
-Seeweg,,Q85842470,way
-Siegfriedplatz,,Q537554,way
-Siegfriedstraße,,Q537554,way
-Storchenweg,,Q28507,way
-Wodanstraße,,Q43610,way
-"Aachener Straße",,,way
-Abrahamstraße,,,way
-"Abtnaundorfer Straße",,,way
-Achatstraße,,,way
-Ackerweg,,,way
-Addis-Abeba-Platz,,,way
-Adelgunde-Gottsched-Weg,,,way
-Adenauerallee,,,way
-Adlershelmstraße,,,way
-Adolf-Koppe-Straße,,,way
-Agnesstraße,,,way
-Agricolastraße,,,way
-Ahlfeldstraße,,,way
-Ahorngasse,,,way
-Ahornstraße,,,way
-Akazienweg,,,way
-Akeleiweg,,,way
-"Albersdorfer Straße",,,way
-"Albersdorfer Weg",,,way
-Albert-Schweitzer-Straße,,,way
-Albert-Vollsack-Straße,,,way
-Albrecht-Dürer-Straße,,,way
-Albrecht-Dürer-Weg,,,way
-"Albrechtshainer Straße",,,way
-Alexanderstraße,,,way
-Alfred-Schurig-Straße,,,way
-"Alte Baumschule",,,way
-"Alte Burghausener Straße",,,way
-"Alte Dorfstraße",,,way
-"Alte Dübener Landstraße",,,relation
-"Alte Gärtnerei",,,way
-"Alte Hohe Straße",,,way
-"Alte Holzhausener Straße",,,way
-"Alte Messe",,,way
-"Alte Parkstraße",,,way
-"Alte Salzstraße",,,way
-"Alte Seehausener Straße",,,way
-"Alte Straße",,,way
-"Alte Tauchaer Straße",,,way
-"Alte Theklaer Straße",,,way
-"Altenburger Straße",,,way
-"Alter Amtshof",,,way
-"Alter Hauptweg",,,way
-"Alter Kirchweg",,,way
-"Alter Marktweg",,,way
-"Altes Dorf",,,way
-"Althener Anger",,,way
-"Althener Straße",,,way
-"Altranstädter Straße",,,way
-"Am Alten Bahnhof",,,way
-"Am Alten Flugfeld",,,way
-"Am Alten Mühlgraben",,,way
-"Am Anger",,,way
-"Am Angerteich",,,way
-"Am Auenwald",,,way
-"Am Bahndamm",,,way
-"Am Bahnhof",,,way
-"Am Barnecker Gut",,,way
-"Am Bauernsteg",,,way
-"Am Bauernteich",,,way
-"Am Bildersaal",,,way
-"Am Bischofsholz",,,way
-"Am Bogen",,,way
-"Am Börnchen",,,way
-"Am Brunnen",,,way
-"Am Doppeladler",,,way
-"Am Dorfplatz",,,way
-"Am Dorfteich",,,way
-"Am Eichberg",,,way
-"Am Eichenbogen",,,way
-"Am Eichwinkel",,,way
-"Am Elsterbogen",,,way
-"Am Elsterwehr",,,way
-"Am Eselshaus",,,way
-"Am Eulengraben",,,way
-"Am Exer",,,way
-"Am Exerzierplatz",,,way
-"Am Feld",,,way
-"Am Feldrain",,,way
-"Am Fischerhaus",,,way
-"Am Flößgen",,,way
-"Am Flügelrad",,,way
-"Am Freibad",,,way
-"Am Fuchsbau",,,way
-"Am Gänseanger",,,way
-"Am Gartenverein",,,way
-"Am Geleinholz",,,way
-"Am Gothischen Bad",,,way
-"Am Grund",,,way
-"Am Gundorfer Teich",,,way
-"Am Güterring",,,way
-"Am Gutspark",,,way
-"Am Hallischen Tor",,,way
-"Am Hasenberg",,,way
-"Am Hasengraben",,,way
-"Am Hirtenhaus",,,way
-"Am Hohen Graben",,,way
-"Am Hohlweg",,,way
-"Am Hufeisen",,,way
-"Am Jägerhaus",,,way
-"Am Kellerberg",,,way
-"Am Keulenberg",,,way
-"Am Kirschberg",,,way
-"Am Klosterfeld",,,way
-"Am Klucksgraben",,,way
-"Am Künstlerbogen",,,way
-"Am Lindenhof",,,way
-"Am Lösegraben",,,way
-"Am Luppedeich",,,way
-"Am Meilenstein",,,way
-"Am Mückenschlößchen",,,way
-"Am Mühlgraben",,,way
-"Am Niederholz",,,way
-"Am Ochsenwinkel",,,way
-"Am Osthang",,,way
-"Am Parkteich",,,way
-"Am Pfarrfelde",,,way
-"Am Pfefferbrückchen",,,way
-"Am Pfingstanger",,,way
-"Am Pösgraben",,,way
-"Am Rain",,,way
-"Am Rennsteig",,,way
-"Am Ring",,,way
-"Am Ritterschlößchen",,,way
-"Am Rodeland",,,way
-"Am Röschenhof",,,way
-"Am Russischen Garten",,,way
-"Am Sandberg",,,way
-"Am Schäferhügel",,,way
-"Am Schaukelgraben",,,way
-"Am Schenkberg",,,way
-"Am Schwalbennest",,,way
-"Am Silo",,,way
-"Am Sommerfeld",,,way
-"Am Sonneneck",,,way
-"Am Sonnenwinkel",,,way
-"Am Sperrtor",,,way
-"Am Sportforum",,,way
-"Am Sportpark",,,way
-"Am Stausee",,,way
-"Am Tanzplan",,,way
-"Am Teich",,,way
-"Am Teilungswehr",,,way
-"Am Tore",,,way
-"Am Turnplatz",,,way
-"Am Übergang",,,way
-"Am Viadukt",,,way
-"Am Volksgut",,,way
-"Am Vorwerk",,,way
-"Am Wachauer Wäldchen",,,way
-"Am Wassergraben",,,way
-"Am Wasserschloß",,,way
-"Am Wasserturm",,,way
-"Am Wasserwerk",,,way
-"Am Wegekreuz",,,way
-"Am Wiesenblick",,,way
-"Am Wolfswinkel",,,way
-"Am Zuckmantel",,,way
-"Am alten Flughafen",,,way
-"Am alten Gasthof",,,way
-"Am kleinen Feld",,,way
-"Am krummen Graben",,,way
-"Am langen Felde",,,way
-"Am langen Teiche",,,way
-Amalie-Winter-Platz,,,way
-Amalienstraße,,,way
-Amboldweg,,,way
-Ameisenstraße,,,way
-Ammernplatz,,,way
-Ammernweg,,,way
-"Amorbacher Straße",,,way
-Amselgrund,,,way
-Amselhöhe,,,way
-Amselnest,,,way
-Amselstraße,,,way
-Amselweg,,,way
-"Amstetter Weg",,,way
-"An den Birken",,,way
-"An den Krutschen",,,way
-"An den Linden",,,way
-"An den Pferdnerkabeln",,,way
-"An den Platanen",,,way
-"An den Theklafeldern",,,way
-"An den Tierkliniken",,,way
-"An der Alten Post",,,way
-"An der Bahn",,,way
-"An der Brauerei",,,way
-"An der Brücke",,,way
-"An der Burgaue",,,way
-"An der Eisenbahn",,,way
-"An der Elster",,,way
-"An der Fasanerie",,,way
-"An der Feuerwache",,,way
-"An der Feuerwehr",,,way
-"An der Friedenseiche",,,way
-"An der Gänseweide",,,way
-"An der Gärtnerei",,,way
-"An der Grundschule",,,way
-"An der Hainkirche",,,way
-"An der Hauptstraße",,,way
-"An der Hebemärchte",,,way
-"An der Hufschmiede",,,way
-"An der Kaninchenfarm",,,way
-"An der Kegelbahn",,,way
-"An der Kirche",,,way
-"An der Kirchgasse",,,way
-"An der Kirschallee",,,way
-"An der Kotsche",,,way
-"An der Lautsche",,,way
-"An der Lehde",,,way
-"An der Luppe",,,way
-"An der Märchenwiese",,,way
-"An der Meusdorfer Höhe",,,way
-"An der Milchinsel",,,way
-"An der Mühle",,,way
-"An der Mühlpleiße",,,way
-"An der Parthe",,,way
-"An der Querbreite",,,way
-"An der Rehwiese",,,way
-"An der Salzstraße",,,way
-"An der Sandgrube",,,way
-"An der Schäferei",,,way
-"An der Schule",,,way
-"An der Siedlung",,,way
-"An der Spitze",,,way
-"An der Streuobstwiese",,,way
-"An der Tabaksmühle",,,way
-"An der Teichmühle",,,way
-"An der Telle",,,way
-"An der Trift",,,way
-"An der Verfassungslinde",,,way
-"An der Vogelweide",,,way
-"An der Weide",,,way
-"An der Wendeschleife",,,way
-"An der Wiese",,,way
-"An der Windmühle",,,way
-Andersenweg,,,way
-Andreasstraße,,,way
-Andromedaweg,,,way
-Anemonenweg,,,way
-Angersiedlung,,,way
-Angerstraße,,,way
-"Anhalter Straße",,,way
-"Anlage 3 - Mittelgang",,,way
-"Annaberger Straße",,,way
-Annenstraße,,,way
-"Ansbacher Straße",,,way
-Anton-Bruckner-Allee,,,way
-Anton-Zickmantel-Straße,,,way
-Antonienstraße,,,way
-Anzengruberstraße,,,way
-"Apels Garten",,,way
-Apelsteinweg,,,way
-Apelstraße,,,way
-Apfelweg,,,way
-Apitzschgasse,,,way
-"Apoldaer Weg",,,way
-Apostelstraße,,,way
-Aprikosenweg,,,way
-Arlandbogen,,,way
-Arminiushof,,,way
-"Arndts Hufen",,,way
-Arndtstraße,,,way
-Arnikaweg,,,way
-Arno-Nitzsche-Straße,,,way
-Arnoldplatz,,,way
-Arnoldstraße,,,way
-"Arnstädter Kehre",,,way
-Arthur-Hausmann-Straße,,,way
-Arthur-Heidrich-Platz,,,way
-Arthur-Hoffmann-Straße,,,way
-Arthur-Nagel-Straße,,,way
-Arthur-Polenz-Straße,,,way
-Arthur-Thiele-Weg,,,way
-Arthur-Winkler-Straße,,,way
-"Aschaffenburger Straße",,,way
-Aschenbrödelweg,,,way
-Asternweg,,,way
-Atriumstraße,,,way
-Audorfstraße,,,way
-Aue,,,way
-Auenblick,,,way
-Auenblickstraße,,,way
-Auengrund,,,way
-"Auenhainer Straße",,,way
-Auenseestraße,,,way
-Auenstraße,,,way
-Auenweg,,,way
-Auerbachplatz,,,way
-Auerhahnsteig,,,way
-"Auf dem Colmberg",,,way
-"Auf der Höhe",,,way
-August-Knauer-Straße,,,way
-August-Scheibe-Straße,,,way
-Auguste-Schulze-Straße,,,way
-Augustenstraße,,,way
-Augustinerstraße,,,way
-Augustusplatz,,,way
-Aurelienstraße,,,way
-"Auschwitzer Straße",,,way
-Ausgang,,,way
-Außenring,,,way
-Außenweg,,,way
-"Äußere Auenblickstraße",,,way
-"Äußere Friedrich-Naumann-Straße",,,way
-"Äußere Mühlenstraße",,,way
-"Äußere Raustraße",,,way
-"Äußerer Zeisigweg",,,way
-"Autohof Leipzig Nord",,,way
-Azaleenstraße,,,way
-Azaleenweg,,,way
-"BMW Teststrecke",,,way
-"Baalsdorfer Anger",,,way
-"Baalsdorfer Straße",,,way
-Bachenpfad,,,way
-Bachstelzenweg,,,way
-Badergasse,,,way
-Badeweg,,,way
-Bahnhofsallee,,,way
-Bahnhofstraße,,,way
-Bahnstraße,,,way
-"Bamberger Straße",,,way
-Barbarastraße,,,way
-Barbussestraße,,,way
-Barclayweg,,,way
-Bärenburgrundgang,,,way
-"Bärenfelser Weg",,,way
-Barfußgäßchen,,,way
-Barfußpfad,,,way
-Bärlauchweg,,,way
-"Barnecker Steg",,,way
-"Barnecker Straße",,,way
-"Barthels Hof",,,way
-Basilikumweg,,,way
-Basteistraße,,,way
-Bästleinstraße,,,way
-Bauerngrabenstraße,,,way
-Bauhofstraße,,,way
-Baumannstraße,,,way
-Baumeister-Günther-Straße,,,way
-Baumeyerstraße,,,way
-Baumgarten-Crusius-Straße,,,way
-Baumschulenweg,,,way
-"Baumwipfelpfad mit Hängebrücken",,,way
-Baumwipfelweg,,,way
-Bausestraße,,,way
-"Bautzner Straße",,,way
-"Bayreuther Straße",,,way
-"Bayrischer Platz",,,way
-Beckerstraße,,,way
-Beethovenstraße,,,relation
-Begonienweg,,,way
-"Bei der Krähenhütte",,,way
-Beipertstraße,,,way
-Benedekring,,,way
-Benediktusstraße,,,way
-Bennigsenstraße,,,way
-Berberitzenstraße,,,way
-Bergahornstraße,,,way
-Bergerstraße,,,way
-Berggartenstraße,,,way
-Berggartenweg,,,way
-Bergstraße,,,way
-"Berkaer Weg",,,way
-Berlichingenweg,,,way
-"Berliner Straße",,,way
-"Bernburger Straße",,,way
-Bernhard-Göring-Straße,,,way
-Bernhard-Kellermann-Straße,,,way
-Bernhardstraße,,,way
-Bernsteinstraße,,,way
-Berthastraße,,,way
-"Beuchaer Straße",,,way
-Beuthstraße,,,way
-Beyerleinstraße,,,way
-Biberpfad,,,way
-"Bibraer Weg",,,way
-Bielastraße,,,way
-Bienenweg,,,way
-Bienenwinkel,,,way
-Bienerstraße,,,way
-Bienitzblick,,,way
-Bienitzstraße,,,way
-Binsengrund,,,way
-"Binzer Straße",,,way
-Birkenpilzweg,,,way
-Birkenring,,,way
-Birkenstraße,,,way
-Birkenwald,,,relation
-Birkenwäldchen,,,way
-Birkenweg,,,way
-Birkhahnsteig,,,way
-Bisamstraße,,,way
-Bischofstraße,,,way
-Bismarckstraße,,,way
-"Bitterfelder Straße",,,way
-Björneborgstraße,,,way
-Blanchardweg,,,way
-"Blankenburger Straße",,,way
-"Blauer Hecht",,,way
-Blaufichtenweg,,,way
-Blausternweg,,,way
-Bleichertstraße,,,way
-Blindengarten,,,way
-Blochmannstraße,,,way
-Blochstraße,,,way
-Blücherstraße,,,way
-Blumenbogen,,,way
-Blumenstraße,,,way
-Blumenweg,,,way
-Blümleinsteg,,,way
-Blüthnersteg,,,way
-Blüthnerstraße,,,way
-"Bochumer Straße",,,way
-Bodenreformweg,,,way
-Bogenweg,,,way
-Bogislawstraße,,,way
-"Böhlitzer Mühle",,,way
-Böhmestraße,,,way
-Bonhoefferstraße,,,way
-"Borkumer Weg",,,way
-"Bornaer Straße",,,way
-"Bornaische Straße",,,way
-Borngasse,,,way
-"Borsdorfer Straße",,,way
-"Bösdorfer Ring",,,way
-"Bösdorfer Straße",,,way
-Bosestraße,,,way
-Bothestraße,,,way
-Böttcherweg,,,way
-Böttgerstraße,,,way
-Bowmanstraße,,,way
-Brackestraße,,,way
-Brahestraße,,,way
-"Brambacher Straße",,,way
-"Brandenburger Straße",,,way
-Brandensteinstraße,,,way
-Brandesweg,,,way
-"Brandiser Straße",,,way
-Brandstraße,,,way
-Brandvorwerkstraße,,,way
-Brauereistraße,,,way
-"Braunschweiger Straße",,,way
-Braunstraße,,,way
-Braustraße,,,way
-Braustraßenbrücke,,,way
-Brehmestraße,,,way
-Breisgaustraße,,,way
-"Breite Allee",,,way
-"Breite Straße",,,way
-"Breitenfelder Straße",,,way
-"Breiter Weg",,,way
-Breiteweg,,,way
-Breitscheidstraße,,,way
-Breitschuhstraße,,,way
-"Bremer Straße",,,way
-"Bremer Weg",,,way
-Brentanostraße,,,way
-"Breslauer Straße",,,way
-Bretschneiderstraße,,,way
-Breunsdorffstraße,,,way
-"Brodauer Weg",,,way
-Brombeerweg,,,way
-Brösigkestraße,,,way
-Brücke,,,way
-Brückenstraße,,,way
-Brückwaldstraße,,,way
-Brüderstraße,,,way
-Brüderweg,,,way
-Brühl,,,way
-Brühl-Arkade,,,way
-Brunnenstraße,,,way
-Brunnenweg,,,way
-"Brünner Straße",,,way
-"Buchener Straße",,,way
-Buchenwaldstraße,,,way
-Buchenweg,,,way
-Buchfinkenweg,,,way
-Bucksdorffstraße,,,way
-Buckyweg,,,way
-Bühringstraße,,,way
-Bülowviertel,,,relation
-Bünaustraße,,,way
-Burgauenstraße,,,way
-"Burghausener Straße",,,way
-Burgplatz,,,relation
-"Burgstädter Straße",,,way
-Burgstraße,,,way
-Burgundenstraße,,,way
-"Bus Stop",,,way
-Buschenaustraße,,,way
-Bussardweg,,,way
-Buttergasse,,,way
-Büttnerstraße,,,way
-Büttnerweg,,,way
-Cäcilienstraße,,,way
-Calaustraße,,,way
-Calvisiusstraße,,,way
-Campestraße,,,way
-Cannaweg,,,way
-Carl-Hampel-Platz,,,way
-Carl-Hinné-Straße,,,way
-Carl-Meyer-Straße,,,way
-Carl-Munde-Straße,,,way
-Carl-Weichelt-Straße,,,way
-Carusbrücke,,,way
-Carusstraße,,,way
-Charlottenstraße,,,way
-Charlottenweg,,,way
-"Chemnitzer Straße",,,way
-Cheruskerstraße,,,way
-Christian-Ferkel-Straße,,,way
-Christian-Schmid-Straße,,,way
-Christian-Wille-Weg,,,way
-Christoph-Probst-Straße,,,way
-Christoph-Schubert-Straße,,,way
-Chrysanthemenweg,,,way
-Clara-Zetkin-Straße,,,way
-Clausewitzstraße,,,way
-Claußbruchstraße,,,way
-"Cletzener Weg",,,way
-"Cleudner Straße",,,way
-"Coblenzer Straße",,,way
-Cocciusstraße,,,way
-"Colberger Weg",,,way
-Colmbergsiedlung,,,way
-Colmblick,,,way
-"Connewitzer Straße",,,way
-Coppistraße,,,way
-Corkscrew,,,way
-"Cöthner Straße",,,way
-Cottaweg,,,way
-"Cradefelder Straße",,,way
-Cranachstraße,,,way
-Credéstraße,,,way
-Crednerstraße,,,way
-"Crensitzer Weg",,,way
-Creuzigerstraße,,,way
-"Cröbener Weg",,,way
-"Cröberner Straße",,,way
-"Crottendorfer Straße",,,way
-"Cunnersdorfer Straße",,,way
-Curiestraße,,,way
-"Curve di Lesmo",,,way
-"Dachauer Straße",,,way
-Dachsstraße,,,way
-Dahlienstraße,,,way
-Dahlienweg,,,way
-Dähnhardtstraße,,,way
-Damaschkestraße,,,way
-Damaschkeweg,,,way
-Dammstraße,,,way
-Dammteichweg,,,way
-Dankwartstraße,,,way
-Dantestraße,,,way
-Däumlingsweg,,,way
-Defoestraße,,,way
-Deiwitzweg,,,way
-"Delitzscher Landstraße",,,way
-"Delitzscher Straße",,,way
-Demetriusweg,,,way
-Demmeringstraße,,,way
-Denkmalsallee,,,way
-Denkmalsblick,,,way
-Denkmalsweg,,,way
-"Dennewitzer Straße",,,way
-"Dessauer Straße",,,way
-"Deutsche Einheit",,,way
-"Deutscher Platz",,,way
-"Deutsches Heim",,,way
-Diakonissenstraße,,,way
-Diamantstraße,,,way
-Diderotstraße,,,way
-"Die Linie",,,way
-Dieselstraße,,,way
-Dieskaustraße,,,way
-Diesterwegstraße,,,way
-Diezmannstraße,,,way
-Dimpfelstraße,,,way
-Dinkelweg,,,way
-Dittrichstraße,,,way
-"Döbelner Straße",,,way
-Dohnaweg,,,way
-"Dölitzer Straße",,,way
-Döllingstraße,,,way
-"Dölziger Straße",,,way
-"Dölziger Weg",,,way
-Dorettenring,,,way
-Dorfplatz,,,way
-"Dorfplatz Stünz",,,relation
-Dorfstraße,,,way
-Döringstraße,,,way
-"Dornburger Weg",,,way
-Dornröschenweg,,,way
-Dorotheenplatz,,,way
-Dorotheenring,,,way
-Dörrienstraße,,,way
-Dorstigstraße,,,way
-"Dortmunder Straße",,,way
-"Dösner Straße",,,way
-"Dösner Weg",,,way
-Dr.-Hermann-Duncker-Straße,,,way
-Dreiecksweg,,,way
-Dreilindenstraße,,,way
-Drescherweg,,,way
-"Dresdner Straße",,,way
-Drosselgrund,,,way
-Drosselhang,,,way
-Drosselnest,,,way
-Drosselweg,,,way
-Druckereistraße,,,way
-"Dübener Landstraße",,,way
-"Dudweiler Straße",,,way
-"Durch die Felder",,,way
-"Dürnsteiner Weg",,,way
-"Dürrenberger Straße",,,way
-Ebenholzweg,,,way
-Ebereschenweg,,,way
-Eberlestraße,,,way
-Eberpfad,,,way
-Edlichstraße,,,way
-Edmond-Kaiser-Straße,,,way
-Eduardstraße,,,way
-"Eferdinger Straße",,,way
-Egelstraße,,,way
-"Ehrenberger Straße",,,way
-Eibenweg,,,way
-Eichbergstraße,,,way
-Eichelbaumstraße,,,way
-Eichhörnchenweg,,,way
-Eidechsenweg,,,way
-"Eigene Scholle",,,way
-Eigenheimstraße,,,way
-"Eilenburger Straße",,,way
-Einsteinstraße,,,way
-"Eisenacher Straße",,,way
-Eisenbahnstraße,,,way
-"Eisenberger Ring",,,way
-Eisenschmidtplatz,,,way
-Elchweg,,,way
-Elfenweg,,,way
-Elisabeth-Schumacher-Straße,,,way
-Elisabethstraße,,,way
-Ellernweg,,,way
-Elli-Voigt-Straße,,,way
-Elsastraße,,,way
-Elsbethstraße,,,way
-Elsteraue,,,way
-Elsterberg,,,way
-Elsterblick,,,way
-Elstergarten,,,way
-Elstermühlweg,,,way
-Elsterstraße,,,way
-Elsterweg,,,way
-Emil-Altner-Weg,,,way
-Emil-Fuchs-Straße,,,way
-Emil-Kluge-Straße,,,way
-Emil-März-Straße,,,way
-Emil-Schubert-Straße,,,way
-Emil-Teich-Straße,,,way
-Emilienstraße,,,way
-Emmausstraße,,,way
-Endersstraße,,,way
-Endnerstraße,,,way
-"Engelsdorfer Park",,,way
-"Engelsdorfer Straße",,,way
-"Engelsdorfer Weg",,,way
-Engertstraße,,,way
-Entenhausen,,,way
-Entsbergerstraße,,,way
-Enzianweg,,,way
-Erdmannstraße,,,way
-"Erfurter Straße",,,way
-Erhardstraße,,,way
-Erich-Köhn-Straße,,,way
-Erich-Thiele-Straße,,,way
-Erich-Weinert-Straße,,,way
-Erich-Zeigner-Allee,,,way
-Erika-von-Brockdorff-Straße,,,way
-Erikenbrücke,,,way
-Erikenstraße,,,way
-Erkelweg,,,way
-Erkerhof,,,way
-"Erlanger Straße",,,way
-Erlenstraße,,,way
-Erlenzeisigweg,,,way
-Erlkönigweg,,,way
-Ernst-Hasse-Straße,,,way
-Ernst-Keil-Straße,,,way
-Ernst-Kießig-Straße,,,way
-Ernst-Meier-Straße,,,way
-Ernst-Mey-Straße,,,way
-"Erweiterungsfläche bei Großveranstaltungen",,,way
-Eschenweg,,,way
-"Espenhainer Straße",,,way
-Espenweg,,,way
-"Essener Straße",,,way
-Etzelstraße,,,way
-Eulenweg,,,way
-"Eutritzscher Markt",,,relation
-"Eutritzscher Straße",,,way
-Exotenweg,,,way
-Expressweg,,,way
-"Eythraer Straße",,,way
-"Eythraer Weg",,,way
-Eythstraße,,,way
-Fabrikstraße,,,way
-Falkensteinstraße,,,way
-Falkenweg,,,way
-Falladabrücke,,,way
-Falladastraße,,,way
-Falterstraße,,,way
-Faradaystraße,,,way
-Färberstraße,,,way
-Farnweg,,,way
-Fasanenhöhe,,,way
-Fasanenhügel,,,way
-Fasanenpfad,,,way
-Fasanenweg,,,way
-Fechnerstraße,,,way
-"Fehmarner Straße",,,way
-Feldahornweg,,,way
-Feldblumenweg,,,way
-Feldhasenweg,,,relation
-Feldlerchenweg,,,way
-Feldstraße,,,way
-Feldweg,,,way
-Felsenbirnenstraße,,,way
-Felsenkellerstraße,,,way
-Fenchelweg,,,way
-Ferdinand-Gruner-Straße,,,way
-Ferdinand-Jost-Straße,,,way
-Ferdinand-Rhode-Straße,,,way
-Feuchtwangerstraße,,,way
-Feuerbachstraße,,,way
-Fichtenstraße,,,way
-Fichtesiedlung,,,way
-Finkengrund,,,way
-Finkensteig,,,way
-Finkenweg,,,way
-Fischersteg,,,way
-Fliederhof,,,way
-Fliederweg,,,way
-"Flöhaer Straße",,,way
-Florian-Geyer-Platz,,,way
-Flößenstraße,,,way
-Floßplatz,,,way
-Fockestraße,,,way
-Fontanestraße,,,way
-"Forchheimer Straße",,,way
-Forststraße,,,way
-Forstweg,,,way
-Fortunabadstraße,,,way
-"Frankenheimer Weg",,,way
-Frankenweg,,,way
-Franz-Flemming-Straße,,,way
-Franz-Schlobach-Straße,,,way
-Franzosenallee,,,way
-Franzosenfeld,,,way
-Frau-Holle-Weg,,,way
-Fregesteg,,,way
-Fregestraße,,,way
-"Freiberger Straße",,,way
-"Freirodaer Straße",,,way
-"Freirodaer Weg",,,way
-"Freisinger Weg",,,way
-Frettchenweg,,,way
-Freundschaftsring,,,way
-Friedensstraße,,,way
-Friedhofstraße,,,way
-Friedhofsweg,,,way
-Friedrich-Bosse-Straße,,,way
-Friedrich-Ebert-Straße,,,way
-Friedrich-Kram-Weg,,,way
-Friedrich-List-Straße,,,way
-Friedrich-Naumann-Straße,,,way
-Friedrich-Schmidt-Straße,,,way
-"Friedrichshafner Straße",,,way
-Friesensteg,,,way
-Friesenstraße,,,way
-Friesenweg,,,way
-Fritz-Hanschmann-Straße,,,way
-Fritz-Krebs-Straße,,,way
-Fritz-Reuter-Straße,,,way
-Fritz-Schmenkel-Straße,,,way
-Fritz-Seger-Straße,,,way
-Fritz-Simonis-Straße,,,way
-"Frohburger Straße",,,way
-Froschkönigweg,,,way
-Froschweg,,,way
-"Fuchshainer Straße",,,way
-Fuchspfad,,,way
-Fucikstraße,,,way
-Fuggerstraße,,,way
-Führring,,,relation
-Funkenburgstraße,,,way
-Furnierweg,,,way
-"Fürther Straße",,,way
-Galileistraße,,,way
-Gambrinusstraße,,,way
-Gänseblümchenweg,,,way
-Garskestraße,,,way
-Gartenbogen,,,way
-Gartengrund,,,way
-Gartenstraße,,,way
-Gartenweg,,,way
-Gartenwinkel,,,way
-Gärtnereiweg,,,way
-Gärtnergasse,,,way
-Gärtnerstraße,,,way
-Gärtnerweg,,,way
-"Gaschwitzer Straße",,,way
-Gaswerksweg,,,way
-Gaudigplatz,,,way
-Gaußstraße,,,way
-Gebrüder-Weber-Weg,,,way
-Gedikestraße,,,way
-Geibelstraße,,,way
-Geißblattstraße,,,way
-"Geithainer Straße",,,way
-Gellertplatz,,,way
-Gellertstraße,,,way
-Gemeindeamtsstraße,,,way
-Georg-Fischer-Straße,,,way
-Georg-Große-Straße,,,way
-Georg-Herwegh-Straße,,,way
-Georg-Reichardt-Straße,,,way
-"Georg-Schumann-/Lindenthaler Straße",,,way
-Georg-Schumann-Straße,,,way
-Georg-Schwarz-Straße,,,way
-Georgplatz,,,way
-"Geraer Straße",,,way
-Geranienweg,,,way
-Gerberstraße,,,way
-Gerhardstraße,,,way
-Gerichtsweg,,,way
-Gerlindeweg,,,way
-Germannstraße,,,way
-Gerstäckerstraße,,,way
-Gerstenweg,,,way
-Gerte,,,way
-Geschwister-Scholl-Straße,,,way
-Getreidegasse,,,way
-"Getzelauer Straße",,,way
-Gewandgäßchen,,,way
-Geyerstraße,,,way
-Giebnerstraße,,,way
-Gießerstraße,,,way
-Gimpelweg,,,way
-Ginsterstraße,,,way
-Giordano-Bruno-Straße,,,way
-Girlitzweg,,,way
-Gladiolenweg,,,way
-Glafeystraße,,,way
-Gleisstraße,,,way
-Gleitsmannstraße,,,way
-"Glesiener Straße",,,way
-Gletschersteinstraße,,,way
-Glockenstraße,,,way
-Glockenweg,,,way
-"Gmundener Weg",,,way
-"Göbschelwitzer Weg",,,way
-Gockelpfad,,,way
-Goetheplatz,,,way
-Goethestraße,,,way
-Goetheweg,,,way
-Goetzstraße,,,way
-"Gohliser Straße",,,way
-"Göhrenzer Straße",,,way
-"Göhrenzer Weg",,,way
-"Goldacher Straße",,,way
-Goldammerweg,,,way
-"Goldene Hufe",,,way
-Goldglöckchenstraße,,,way
-Goldpeppingweg,,,way
-Goldrutenweg,,,way
-Goldschmidtstraße,,,way
-Goldsternstraße,,,way
-Goldulmenweg,,,way
-Gontardweg,,,way
-Gontscharowstraße,,,way
-"Gorbitzer Straße",,,way
-"Görlitzer Straße",,,way
-"Goslarer Straße",,,way
-"Göteborger Straße",,,way
-Gotenstraße,,,way
-"Gothaer Straße",,,way
-Gottfried-Jähnichen-Weg,,,way
-Gottfried-Rentzsch-Weg,,,way
-Gottlaßstraße,,,way
-"Gottleubaer Straße",,,way
-Gottlieb-Schöne-Weg,,,way
-Gottschalkstraße,,,way
-Gottschedstraße,,,way
-"Gottscheinaer Landstraße",,,way
-"Gottscheinaer Weg",,,way
-Gotzkowskystraße,,,way
-Grabaustraße,,,way
-Gräfestraße,,,way
-Graffstraße,,,way
-Grasmückenweg,,,way
-Grasweg,,,way
-"Graßdorfer Straße",,,way
-Grauwackeweg,,,way
-Gravensteinerweg,,,way
-Gregor-Fuchs-Straße,,,way
-Gregoriusstraße,,,way
-Grenzstraße,,,way
-Grenzweg,,,way
-Gretelweg,,,way
-Gretschelstraße,,,way
-Grillenstraße,,,way
-"Grimmaische Straße",,,way
-"Grimmaischer Steinweg",,,way
-"Groitzscher Straße",,,way
-Gröpplerstraße,,,way
-"Großbeerener Straße",,,way
-"Große Fleischergasse",,,way
-"Große Gartensiedlung",,,way
-"Großer Brockhaus",,,way
-"Großer Joachimsthal",,,way
-"Großer Marktweg",,,way
-"Großer Stern",,,way
-Großmannstraße,,,way
-"Großmiltitzer Straße",,,way
-"Großpösnaer Straße",,,way
-"Großsteinberger Straße",,,way
-Grünau-Ost,,,relation
-"Grünauer Allee",,,way
-"Grünbacher Weg",,,way
-Grundstraße,,,way
-"Grüne Gasse",,,way
-"Grüner Bogen",,,way
-"Grüner Weg",,,way
-"Grüner Winkel",,,way
-Grunertstraße,,,way
-Grünfinkenweg,,,way
-"Grünzug Grüne Gasse",,,way
-"Güldengossaer Straße",,,way
-Gundermannstraße,,,way
-"Gundorfer Kirchweg",,,way
-"Gundorfer Straße",,,way
-Gundoweg,,,way
-Günselstraße,,,way
-"Güntheritzer Weg",,,way
-Güntherstraße,,,way
-Gustav-Adolf-Allee,,,way
-Gustav-Esche-Straße,,,way
-Gustav-Feilotter-Straße,,,way
-Gustav-Freytag-Straße,,,way
-Gustav-Kühn-Straße,,,way
-Gustav-Mahler-Straße,,,way
-Gustav-Scheibe-Straße,,,way
-Gustav-Schmoller-Straße,,,way
-Gutberletstraße,,,way
-Güterbahnhofstraße,,,way
-GutsMuthsstraße,,,way
-Gutshofstraße,,,way
-Gutsparkstraße,,,way
-Gypsbergstraße,,,way
-Hafenstraße,,,way
-Hafentor,,,way
-Haferkornstraße,,,way
-Haferring,,,way
-Hafisweg,,,way
-Hagebuttenweg,,,way
-Hahnekamm,,,way
-Hähnelstraße,,,way
-Hahnemannstraße,,,way
-Hainbuchenstraße,,,way
-"Hainburger Weg",,,way
-Hainstraße,,,way
-Hainveilchenweg,,,way
-Hainweg,,,way
-"Halberstädter Straße",,,way
-"Hallbergmooser Straße",,,way
-"Hallesche Straße",,,way
-"Hamburger Straße",,,way
-Hammerstraße,,,way
-Hammstraße,,,way
-Handelsring,,,way
-Handelsstraße,,,way
-Händelstraße,,,way
-Handwerker-Passage,,,way
-Handwerkerhof,,,way
-Hängebrücke,,,way
-"Hannoversche Straße",,,way
-Hanns-Eisler-Straße,,,way
-Hans-Beimler-Straße,,,way
-Hans-Driesch-Straße,,,way
-Hans-Grade-Straße,,,way
-Hans-Poeche-Straße,,,way
-Hans-Schlenker-Weg,,,way
-Hans-Weigel-Straße,,,way
-Hänselweg,,,way
-Happweg,,,way
-Harnischstraße,,,way
-"Harpstedter Straße",,,way
-Härtelstraße,,,way
-"Hartmannsdorfer Straße",,,way
-Hartriegelstraße,,,way
-Hartzstraße,,,way
-Haselnussweg,,,way
-Haselstraße,,,way
-Haselweg,,,way
-Hasenheide,,,way
-Hasenholzweg,,,way
-Hasenkopfweg,,,way
-Hasenpfad,,,way
-Hasenweg,,,way
-Hauckstraße,,,way
-Hauptstraße,,,way
-Hauptweg,,,way
-"Hauptweg zur großen Eiche",,,way
-Hauschildstraße,,,way
-Häuslergasse,,,way
-Häußerstraße,,,way
-Haußmannstraße,,,way
-Haydnstraße,,,way
-"Haynaer Weg",,,way
-Hebelstraße,,,way
-Heckenweg,,,way
-Hedwig-Burgheim-Straße,,,way
-Heidegraben,,,way
-Heidelbeerweg,,,way
-"Heidelberger Straße",,,way
-Heideweg,,,way
-"Heilbronner Straße",,,way
-Heilemannstraße,,,way
-Heimteichstraße,,,way
-Heinickestraße,,,way
-Heinkstraße,,,way
-Heinrich-Heine-Straße,,,way
-Heinrich-Kaps-Straße,,,way
-Heinrich-Mann-Straße,,,way
-Heinrich-Oelerich-Straße,,,way
-Heinrich-Schmidt-Straße,,,way
-Heinrothstraße,,,way
-Heinz-Kapelle-Straße,,,way
-Heinzelmannweg,,,way
-Heiterblickallee,,,way
-Heiterblickstraße,,,way
-Helenenstraße,,,way
-"Helgoländer Weg",,,way
-Hellerstraße,,,way
-Helmertstraße,,,way
-Helmholtzstraße,,,way
-Hempelstraße,,,way
-Hendelweg,,,way
-Henricistraße,,,way
-Henriettenstraße,,,way
-Hentschelweg,,,way
-Herbert-Thiele-Straße,,,way
-Herloßsohnstraße,,,way
-Hermann-Brade-Straße,,,way
-Hermann-Dorner-Straße,,,way
-Hermann-Keller-Straße,,,way
-Hermann-Müller-Platz,,,relation
-Hermann-Sander-Straße,,,way
-Hermannstraße,,,way
-Hermelinplatz,,,way
-Hermelinstraße,,,way
-Hermundurenstraße,,,way
-Herrmann-Meyer-Straße,,,way
-"Herrnhuter Straße",,,way
-"Hersvelder Straße",,,way
-Herwigstraße,,,way
-"Herzberger Straße",,,way
-Herzliyaplatz,,,way
-Hessenstraße,,,way
-Hettelweg,,,way
-Heuweg,,,way
-Hickmannstraße,,,way
-Hildburgstraße,,,way
-Hildegardstraße,,,way
-Hildeweg,,,way
-Hilligerstraße,,,way
-Himbeerweg,,,way
-"Hinter dem Dorf",,,way
-"Hinter dem Zuckelhausener Ring",,,way
-"Hinter den Gärten",,,way
-"Hinter der Kirche",,,way
-Hinterforstweg,,,way
-"Hirschfelder Flur",,,way
-"Hirschfelder Straße",,,way
-Hirschsprung,,,way
-Hirseweg,,,way
-Hirtenholzstraße,,,way
-Hirtenweg,,,way
-Hirzelstraße,,,way
-Hoepnerstraße,,,way
-"Hofer Straße",,,way
-"Hohe Straße",,,way
-"Hohenheidaer Straße",,,way
-"Hohenheidaer Weg",,,way
-"Hohenossiger Weg",,,way
-"Hohenrodaer Weg",,,way
-Hohenthalstraße,,,way
-Hohentichelnstraße,,,way
-"Hohle Gasse",,,way
-Hohmannstraße,,,way
-Holbergstraße,,,way
-Holteistraße,,,way
-Holunderbogen,,,way
-Holunderweg,,,way
-"Holzhausener Straße",,,way
-Hopfenbergstraße,,,way
-Hopfengarten,,,way
-Hopfenweg,,,way
-"Horburger Straße",,,way
-Hornissenwinkel,,,way
-Hornstraße,,,way
-Hornweg,,,way
-Horst-Fritsche-Weg,,,way
-Horst-Heilmann-Straße,,,way
-Hortensienweg,,,way
-Hoyerstraße,,,way
-Huberstraße,,,way
-Hubertusstraße,,,way
-Hubmaierweg,,,way
-Huchstraße,,,way
-Hüfferstraße,,,way
-Hüfnerstraße,,,way
-Hügelweg,,,way
-Hugo-Aurig-Straße,,,way
-Hugo-Junkers-Straße,,,way
-Hugo-Krone-Platz,,,way
-Hummelstraße,,,way
-Hünerfeldstraße,,,way
-Hussitenstraße,,,way
-Huttenstraße,,,way
-Huygensplatz,,,way
-Huygensstraße,,,way
-Hyazinthenweg,,,way
-Idastraße,,,way
-Igelstraße,,,way
-Igelweg,,,way
-"Ilmenauer Weg",,,way
-Iltispfad,,,way
-"Im Birkengrund",,,way
-"Im Blumengrund",,,way
-"Im Dölitzer Holz",,,way
-"Im Lindengrund",,,way
-"Im Tannengrund",,,way
-"Im Weidengrund",,,way
-"Im Winkel",,,way
-"Im Zipfel",,,way
-Immenstraße,,,way
-Immischweg,,,way
-Industriestraße,,,way
-Ingwerweg,,,way
-Innenring,,,way
-Inselstraße,,,way
-Irisweg,,,way
-Jack-London-Weg,,,way
-Jacobstraße,,,way
-Jadassohnstraße,,,way
-Jadebogen,,,way
-Jägerhofpassage,,,way
-Jägerstraße,,,way
-Jahnallee,,,way
-Jakobiwinkel,,,way
-Jakobspilgerweg,,,way
-Jasminweg,,,way
-Jaspisstraße,,,way
-"Jenaer Straße",,,way
-Jöcherstraße,,,way
-Jochmontagestraße,,,way
-Johann-Adolf-Straße,,,way
-Johannaparkweg,,,way
-Johannastraße,,,way
-Johannes-Kärner-Straße,,,way
-Johannes-R.-Becher-Straße,,,way
-Johannes-Weyrauch-Platz,,,way
-Johannisallee,,,way
-Johannisgasse,,,way
-Johannishöhe,,,way
-Johannisplatz,,,way
-"Jöhstädter Straße",,,way
-"Jonsdorfer Straße",,,way
-Jordanstraße,,,way
-Jörgen-Schmidtchen-Weg,,,way
-Josephinenstraße,,,way
-Josephstraße,,,way
-"Juister Weg",,,way
-Julius-Krause-Straße,,,way
-Juliusstraße,,,way
-Jungfernstiege,,,way
-Junghanßstraße,,,way
-Jungmannstraße,,,way
-Jupiterstraße,,,way
-Jupp-Müller-Straße,,,way
-Juridicum-Passage,,,way
-Kahlhoffweg,,,way
-"Kalter Feldweg",,,way
-Kamelpfad,,,way
-"Kamenzer Straße",,,way
-Kamillenweg,,,way
-Kanalstraße,,,way
-Kaninchensteig,,,way
-Kaninchenweg,,,way
-Kantatenweg,,,way
-Kantor-Andrä-Straße,,,way
-Kantor-Hase-Straße,,,way
-Kantor-Schmidt-Weg,,,way
-Kapellenstraße,,,way
-Karl-Ferlemann-Straße,,,way
-Karl-Friedrich-Straße,,,way
-Karl-Härting-Straße,,,way
-Karl-Heft-Straße,,,way
-Karl-Heine-Straße,,,way
-Karl-Helbig-Straße,,,way
-Karl-Liebknecht-Straße,,,way
-Karl-Mannsfeld-Straße,,,way
-Karl-Marx-Platz,,,way
-Karl-Marx-Straße,,,way
-Karl-Moor-Weg,,,way
-Karl-Schurz-Straße,,,way
-Karl-Tauchnitz-Straße,,,way
-Karl-Vogel-Straße,,,way
-Karl-Winkler-Straße,,,way
-"Karlsruher Straße",,,way
-"Karlstädter Straße",,,way
-Karlstraße,,,way
-Karolusstraße,,,way
-Kärrnerstraße,,,way
-Kärrnerweg,,,way
-Karussell,,,way
-"Kasseler Straße",,,way
-Kastanienallee,,,way
-Kastanienring,,,way
-Kastanienweg,,,way
-Kastorweg,,,way
-Katharinenstraße,,,way
-Käthe-Kollwitz-Straße,,,way
-Katzenbuckelbrücke,,,way
-Katzmannstraße,,,way
-Käuzchenweg,,,way
-Kehrwieder,,,way
-Kelbestraße,,,way
-Keplerstraße,,,way
-Kerbelweg,,,way
-Kernstraße,,,way
-Kesselgrund,,,way
-Kickerlingsberg,,,way
-Kiebitzstraße,,,way
-Kiefernweg,,,way
-"Kieler Straße",,,way
-Kiesgrubenstraße,,,way
-Kiesweg,,,way
-Kietzstraße,,,way
-"Kiewer Straße",,,way
-Kilometerweg,,,way
-Kindstraße,,,way
-"Kipsdorfer Weg",,,way
-Kirchplatz,,,way
-Kirchstraße,,,way
-Kirchweg,,,way
-Kirschbergstraße,,,way
-Kirschgartenweg,,,way
-"Kissinger Straße",,,way
-Klarastraße,,,way
-Kleeweg,,,way
-Kleiberweg,,,way
-"Kleine Bergstraße",,,way
-"Kleine Fleischergasse",,,way
-"Kleine Gartensiedlung",,,way
-"Kleine Gartenstraße",,,way
-"Kleine Promenade",,,way
-"Kleiner Poetenweg",,,way
-"Kleiner Zipfel",,,way
-"Kleines Joachimsthal",,,way
-Kleinmesseplatz,,,way
-"Kleinpösnaer Anger",,,way
-"Kleinpösnaer Straße",,,way
-Kleiststraße,,,way
-Klenaustraße,,,way
-Klettenstraße,,,way
-Klingenstraße,,,way
-"Klingenthaler Straße",,,way
-Klingerhainbrücke,,,way
-Klingerweg,,,way
-Klipphausenstraße,,,way
-Klopstockstraße,,,way
-Klostergasse,,,way
-"Klosterneuburger Weg",,,way
-Kloßstraße,,,way
-Klucksgraben,,,way
-Knaurstraße,,,way
-"Knauthainer Straße",,,way
-"Knautnaundorfer Anger",,,way
-"Knautnaundorfer Straße",,,way
-Knesebeckstraße,,,way
-Knöflerstraße,,,way
-Knopstraße,,,way
-Knuthstraße,,,way
-"Koburger Brücke",,,way
-"Koburger Straße",,,way
-Kohlenstraße,,,way
-Kohlgartenstraße,,,way
-Kohlgartenweg,,,way
-Kohlweg,,,way
-"Kohrener Straße",,,way
-Kolbestraße,,,way
-Kolmstraße,,,way
-Koloniestraße,,,way
-Kolonnadenstraße,,,way
-Kolpingweg,,,way
-"Kömmlitzer Weg",,,way
-Königshauspassage,,,way
-Königsteinstraße,,,way
-Könneritzbrücke,,,way
-Könneritzstraße,,,way
-Konrad-Hagen-Platz,,,way
-Konstantinstraße,,,way
-Kornblumenweg,,,way
-Körnerplatz,,,way
-Körnerweg,,,way
-Kosakenweg,,,way
-"Kösner Straße",,,way
-"Kossaer Straße",,,way
-"Köstritzer Straße",,,way
-"Kötzschauer Straße",,,way
-Krähenweg,,,way
-"Krakauer Straße",,,way
-Krätzbergstraße,,,way
-Krautbreite,,,way
-Krautgartenweg,,,way
-"Kremser Weg",,,way
-Kresseweg,,,way
-"Kretschmanns Hof",,,way
-Kreuzdornstraße,,,way
-Kreuzstraße,,,way
-Kröbelstraße,,,way
-Krokerstraße,,,way
-Krokusweg,,,way
-Krönerstraße,,,way
-"Krostitzer Weg",,,way
-Krystallpalaststraße,,,way
-Kuchengartenstraße,,,way
-Küchenholzallee,,,way
-Kuckuckweg,,,way
-Kuhturmallee,,,way
-Kuhturmstraße,,,way
-"Kulkwitzer Straße",,,way
-"Kulmbacher Straße",,,way
-Kümmelweg,,,way
-Kunadstraße,,,way
-Kuntzschmannstraße,,,way
-Kunzestraße,,,way
-Kupfergasse,,,way
-"Kursdorfer Weg",,,way
-Kurt-Eisner-Straße,,,way
-Kurt-Hänselmann-Weg,,,way
-Kurt-Krah-Straße,,,way
-Kurt-Kresse-Straße,,,way
-Kurt-Masur-Platz,,,way
-"Kurze Straße",,,way
-Kutschbachweg,,,way
-Kutscherweg,,,way
-Kutschweg,,,way
-"Labyrinth Leipzig",,,way
-Lagerhofstraße,,,way
-Lähnestraße,,,way
-Lampebrücke,,,way
-Landhausstraße,,,way
-"Landsberger Straße",,,way
-Landwaisenhausstraße,,,way
-"Lange Reihe",,,way
-"Lange Straße",,,way
-"Lange Trift",,,way
-Lärchenweg,,,way
-Laternenweg,,,way
-Laubestraße,,,way
-"Lauchstädter Straße",,,way
-"Lauerscher Weg",,,relation
-Laurentiusstraße,,,way
-"Lauschaer Weg",,,way
-"Lausener Bogen",,,way
-"Lausener Dorfplatz",,,way
-"Lausener Straße",,,way
-"Lausner Weg",,,way
-Lautensteg,,,way
-Lavendelweg,,,way
-Lehdenweg,,,way
-Lehrpfad,,,way
-Leibnitzstraße,,,way
-Leidholdstraße,,,way
-Leinestraße,,,way
-Leinewinkel,,,way
-"Leipziger Straße",,,way
-"Leisniger Straße",,,way
-"Lemseler Weg",,,way
-Lenaustraße,,,way
-"Lengefelder Straße",,,way
-Leonhard-Frank-Straße,,,way
-Leonhardtstraße,,,way
-Leopoldstraße,,,way
-Leplaystraße,,,way
-Lerchengrund,,,way
-Lercheninsel,,,way
-Lerchenrain,,,way
-Lerchenweg,,,way
-Lessingweg,,,way
-"Leutzscher Allee",,,way
-"Leutzscher Straße",,,way
-Lewienstraße,,,way
-Libellenstraße,,,way
-Libellenweg,,,way
-Libertastraße,,,way
-"Lichtenfelser Straße",,,way
-Lidicestraße,,,way
-"Liebensteiner Weg",,,way
-"Liebertwolkwitzer Markt",,,way
-"Liebertwolkwitzer Straße",,,way
-Liebfrauenstraße,,,way
-Ligusterweg,,,way
-Liliensteinstraße,,,way
-Lilienstraße,,,way
-Lilienweg,,,way
-Limburgerstraße,,,way
-Lindenallee,,,way
-"Lindenauer Markt",,,way
-"Lindenauer Straße",,,way
-"Lindennaundorfer Weg",,,way
-Lindenpark,,,way
-Lindenstraße,,,way
-"Lindenthaler Hauptstraße",,,way
-"Lindenthaler Straße",,,way
-Linkelstraße,,,way
-Lintacherstraße,,,way
-Lionstraße,,,way
-Lipinskistraße,,,way
-"Lippendorfer Straße",,,way
-"Liprandisdorfer Straße",,,way
-Lise-Meitner-Straße,,,way
-Liselotte-Herrmann-Straße,,,way
-"Löbauer Straße",,,way
-Lobelienweg,,,way
-"Lobensteiner Straße",,,way
-"Lobstädter Straße",,,way
-Lochmannstraße,,,way
-Loews,,,way
-Logauweg,,,way
-Löhrstraße,,,way
-Lorenzstraße,,,way
-"Lößniger Straße",,,way
-Lotzestraße,,,way
-Louis-Fürnberg-Straße,,,way
-Louise-Otto-Peters-Allee,,,way
-Löwenzahnweg,,,way
-Luchspfad,,,way
-"Luckaer Straße",,,way
-Lucknerstraße,,,way
-Lüderstraße,,,way
-Ludwig-Beck-Straße,,,way
-Ludwig-Hupfeld-Straße,,,way
-Ludwig-Jahn-Straße,,,way
-"Ludwigsburger Straße",,,way
-Ludwigstraße,,,way
-Luftschiffstraße,,,way
-Lukasstraße,,,way
-Lupinenweg,,,way
-Luppenaue,,,way
-Luppenstraße,,,way
-Luppesteg,,,way
-"Lurgensteins Steg",,,way
-Lutherstraße,,,way
-"Lützner Plan",,,way
-"Lützner Straße",,,way
-Lützowstraße,,,way
-"Lützschenaer Straße",,,way
-"Lyoner Straße",,,way
-"Macherner Straße",,,way
-Mädlerpassage,,,way
-Magazingasse,,,way
-Magdalenenstraße,,,way
-"Magdeborner Straße",,,way
-"Magdeburger Straße",,,way
-Magnusstraße,,,way
-Mahlmannstraße,,,way
-Maienweg,,,way
-Maiglöckchenweg,,,way
-Maikäferweg,,,way
-"Mainzer Straße",,,way
-Malachitstraße,,,way
-Malteserstraße,,,way
-Malvenweg,,,way
-"Mannheimer Straße",,,way
-Marbachstraße,,,way
-"Marcher Straße",,,way
-Marcusgasse,,,way
-Margaretenstraße,,,way
-Margeritenweg,,,way
-Maria-Grollmuß-Straße,,,way
-Mariannenpark,,,way
-"Marienberger Straße",,,way
-Marienbrunnenstraße,,,way
-Marienplatz,,,way
-Marienweg,,,way
-Markgrafenstraße,,,way
-"Markkleeberger Straße",,,way
-"Markranstädter Straße",,,way
-Markt,,,relation
-Marktgalerie,,,way
-Marktstraße,,,way
-Marpergerstraße,,,way
-Marschnerstraße,,,way
-Marsweg,,,way
-Martin-Drucker-Straße,,,way
-Martin-Herrmann-Straße,,,way
-Martinsbogen,,,way
-Martinshöhe,,,way
-Mathiesenstraße,,,way
-Mathildenstraße,,,way
-Matthäikirchhof,,,way
-Maulbeerweg,,,way
-Maulwurfweg,,,way
-Max-Borsdorf-Straße,,,way
-Max-Metzger-Straße,,,way
-Max-Seyfert-Straße,,,way
-Maximilianallee,,,way
-Mechlerstraße,,,way
-"Mecklenburger Straße",,,way
-"Meininger Ring",,,way
-Meisenweg,,,way
-"Meißner Straße",,,way
-Melanchthonstraße,,,way
-Melchiorstraße,,,way
-Melchthalweg,,,way
-Melissenweg,,,way
-"Melker Weg",,,way
-"Melscher Straße",,,way
-Menckestraße,,,way
-Mendelejewstraße,,,way
-Mendelssohnufer,,,way
-Menzingenweg,,,way
-"Merkwitzer Landstraße",,,way
-"Merseburger Straße",,,way
-Messehofpassage,,,way
-"Meusdorfer Straße",,,way
-"Meyer'sche Häuser Kleinzschocher",,,relation
-Michael-Kazmierczak-Straße,,,way
-Miekeweg,,,way
-Mierendorffstraße,,,way
-Milanweg,,,way
-Milchgasse,,,way
-"Miltenberger Straße",,,way
-"Miltitzer Allee",,,way
-"Miltitzer Dorfstraße",,,way
-"Miltitzer Straße",,,way
-"Mistelbacher Weg",,,way
-Mistelbogen,,,way
-Mitschurinring,,,way
-Mittelgasse,,,way
-Mittelring,,,way
-Mittelstraße,,,way
-Mittelweg,,,way
-"Mobile 1 S",,,way
-"Mockauer Ring",,,way
-"Mockauer Straße",,,way
-"Möckernsche Allee",,,way
-"Möckernsche Straße",,,way
-"Möckernscher Weg",,,way
-"Modul 10: Bunkerüberfahrten",,,way
-"Modul 11: Erdstrecke",,,way
-"Modul 12: Hügellandschaft",,,way
-"Modul 12: Panzerbrücke",,,way
-"Modul 13: Schlammweg",,,way
-"Modul 14: Knüppeldamm",,,way
-"Modul 1: Schotterstrecke",,,way
-"Modul 2: Sandstrecke",,,way
-"Modul 3: Baumstammsimulation",,,way
-"Modul 4: Extremrampe",,,way
-"Modul 5: Grabenquerung",,,way
-"Modul 6: Steintreppe",,,way
-"Modul 7: Walddurchfahrt",,,way
-"Modul 8: Schräghangbahn",,,way
-"Modul 9: Wallüberfahrt",,,way
-Mohnweg,,,way
-"Mölkauer Dorfplatz",,,way
-"Mölkauer Straße",,,way
-Moltkestraße,,,way
-Moltrechtstraße,,,way
-Mommsenstraße,,,way
-Monarchenhügel,,,way
-Moosbeerweg,,,way
-Moränenweg,,,way
-Morellenweg,,,way
-Morgensternstraße,,,way
-Morungenstraße,,,way
-Moschelesstraße,,,way
-Mosenthinstraße,,,way
-Mothesstraße,,,way
-Mottelerstraße,,,way
-"Mückenhainer Weg",,,way
-Mückensteg,,,way
-Mühlbergsiedlung,,,way
-Mühlenplatz,,,way
-Mühlenstraße,,,way
-Mühlenweg,,,way
-"Mühlhäuser Ring",,,way
-Mühlholzgasse,,,way
-Mühlholzsteg,,,way
-Mühligstraße,,,way
-Mühlparkweg,,,way
-Mühlstraße,,,way
-Mühlweg,,,way
-Muldentalstraße,,,way
-Müllerring,,,way
-Münzgasse,,,way
-Nachtigallenhain,,,way
-Nachtigallenweg,,,way
-Nagelstraße,,,way
-Nahlesteg,,,way
-"Narsdorfer Straße",,,way
-Narzissenweg,,,way
-Naschmarkt,,,relation
-Natalienstraße,,,way
-Nathanaelstraße,,,way
-Nathusiusstraße,,,way
-Natonekstraße,,,way
-Naturlehrpfad,,,way
-"Naumburger Straße",,,way
-Naundörfchen,,,way
-"Naunhofer Landstraße",,,way
-Nelkenweg,,,way
-Neptunweg,,,way
-"Nerchauer Straße",,,way
-Nernststraße,,,way
-Neubauernstraße,,,way
-"Neuburghausener Weg",,,way
-Neudorfgasse,,,way
-"Neue Hallesche Straße",,,way
-"Neue Leipziger Straße",,,way
-"Neue Linie",,,way
-"Neue Straße",,,way
-"Neuenburger Weg",,,way
-"Neuer Ring",,,way
-"Neuer Weg",,,way
-Neumarkt,,,way
-"Neunkirchener Straße",,,way
-"Neuscherbitzer Gasse",,,way
-"Neustädter Markt",,,way
-"Neustädter Straße",,,way
-"Neutzscher Straße",,,way
-Nibelungenring,,,way
-Nickelmannweg,,,way
-Niederkirchnerbrücke,,,way
-Niemeyerstraße,,,way
-Nienborgstraße,,,way
-Nieritzstraße,,,way
-Nikischstraße,,,way
-Nikolai-Rumjanzew-Straße,,,way
-Nikolaikirchhof,,,relation
-Nikolaistraße,,,way
-Nimrodstraße,,,way
-Nixenweg,,,way
-Nollendorfstraße,,,way
-Nonnenmühlgasse,,,way
-Nonnenstraße,,,way
-Nonnenweg,,,way
-Nord-Weg,,,way
-"Norderneyer Weg",,,way
-"Nordhäuser Weg",,,way
-Nordplatz,,,way
-Nordstraße,,,way
-Nordweg,,,way
-"Nürnberger Straße",,,way
-Nußbaumallee,,,way
-Nußbaumweg,,,way
-Oberdorfstraße,,,way
-"Obere Mühlenstraße",,,way
-"Obere Nordstraße",,,way
-"Oberhofer Weg",,,way
-Oberholzstraße,,,way
-Oberläuterstraße,,,way
-"Obernaundorfer Straße",,,way
-Ochsenweg,,,way
-Odermannstraße,,,way
-"Oelsnitzer Straße",,,way
-"Oelßners Hof",,,way
-Oelßnerstraße,,,way
-Oertgering,,,way
-"Offenburger Straße",,,way
-"Olbernhauer Straße",,,way
-"Olchinger Straße",,,way
-"Oldenburger Straße",,,way
-Oleanderweg,,,way
-Ölhafenstraße,,,way
-Onckenstraße,,,way
-Opalstraße,,,way
-Opferweg,,,way
-Orchideenweg,,,way
-"Orenburger Weg",,,way
-Ortrunweg,,,way
-"Oschatzer Straße",,,way
-Oskar-Calov-Straße,,,way
-Ost-Weg,,,way
-Ostende,,,way
-Österreicherweg,,,way
-Ostheimstraße,,,way
-Osthöhe,,,way
-Ostplatz,,,way
-Oststraße,,,way
-Ostwaldstraße,,,way
-Oswald-Kahnt-Ring,,,way
-Otterstraße,,,way
-Otto-Adam-Straße,,,way
-Otto-Heinze-Straße,,,way
-Otto-Militzer-Straße,,,way
-Otto-Schmiedt-Straße,,,way
-Otto-Thiele-Straße,,,way
-Packhofstraße,,,way
-Pahlenweg,,,way
-Palmengartenbrücke,,,way
-Panitzstraße,,,way
-Pansastraße,,,way
-Papiermühlstraße,,,way
-"Papitzer Straße",,,way
-Pappelblick,,,way
-Pappelhof,,,way
-Pappelweg,,,way
-Parabolica,,,way
-Parkallee,,,way
-"Parkbogen Ost",,,way
-Parkring,,,way
-Parkstraße,,,way
-Parkweg,,,way
-Parthenstraße,,,way
-Pater-Aurelius-Platz,,,way
-Pater-Gordian-Straße,,,way
-Paul-Ermler-Weg,,,way
-Paul-Ernst-Straße,,,way
-Paul-Flechsig-Straße,,,way
-Paul-Herbst-Weg,,,way
-Paul-Klöpsch-Straße,,,way
-Paul-Küstner-Straße,,,way
-Paul-Langheinrich-Straße,,,way
-Paul-Michael-Straße,,,way
-Paul-Schneider-Straße,,,way
-Paulinengrund,,,way
-Paulinenstraße,,,way
-Paulinerweg,,,way
-"Paunsdorfer Allee",,,way
-"Paunsdorfer Straße",,,way
-Paußnitzsteg,,,way
-Paußnitzstraße,,,way
-Peilickestraße,,,way
-Pelzgasse,,,way
-Penckstraße,,,way
-Perlpilzweg,,,way
-Perrestraße,,,way
-Pestalozzistraße,,,way
-Peter-Breuer-Weg,,,way
-Peterskirchhof,,,way
-Peterssteg,,,way
-Peterssteinweg,,,way
-Petersstraße,,,way
-Pettenkoferstraße,,,way
-Petunienweg,,,way
-"Petzscher Straße",,,way
-"Pfaffendorfer Straße",,,way
-Pfaffensteinstraße,,,way
-Pfaffenweg,,,way
-Pfarrer-Paul-Straße,,,way
-Pfarrholzstraße,,,way
-Pfarrweg,,,way
-Pfeilstraße,,,way
-Pferdnerstraße,,,way
-Pfingstweide,,,way
-Pflaumenallee,,,way
-Pflaumestraße,,,way
-Pflugkstraße,,,way
-Philipp-Reis-Straße,,,way
-Phoenixweg,,,way
-Pilzanger,,,way
-Pirolweg,,,way
-Pistorisstraße,,,way
-Pitschkestraße,,,way
-Pittlerstraße,,,way
-Plantagenweg,,,way
-Platanenstraße,,,way
-Platanenweg,,,way
-Platnerstraße,,,way
-Platostraße,,,way
-"Platz des 20. Juli 1944",,,way
-"Plauensche Straße",,,way
-"Plaußiger Dorfstraße",,,way
-"Plaußiger Straße",,,way
-Plautstraße,,,way
-"Plösener Straße",,,way
-Ploßstraße,,,way
-"Plovdiver Straße",,,way
-"Podelwitzer Straße",,,way
-Poetenweg,,,way
-Pögnerstraße,,,way
-Pohlentzstraße,,,way
-Pohlestraße,,,way
-Polenweg,,,way
-Pölitzstraße,,,way
-Polluxweg,,,way
-Polygraphplatz,,,way
-Pommernstraße,,,way
-Poniatowskiplan,,,way
-Ponickaustraße,,,way
-Popitzweg,,,way
-Porschestraße,,,way
-"Pörstener Straße",,,way
-"Portitzer Allee",,,way
-"Portitzer Straße",,,way
-"Portitzer Winkel",,,way
-Portitzmühlweg,,,way
-Porzcikstraße,,,way
-Posadowskyanlagen,,,way
-Pösgraben,,,way
-"Pösnaer Straße",,,way
-Postreitergasse,,,way
-Poststraße,,,way
-Potschkaustraße,,,way
-"Pötzschker Weg",,,way
-"Prager Straße",,,way
-Preiselbeerweg,,,way
-Preußenstraße,,,way
-Preußergäßchen,,,way
-Prießnitzstraße,,,way
-Primavesistraße,,,way
-Primelweg,,,way
-Prinzenweg,,,way
-Probsteistraße,,,way
-"Probstheidaer Straße",,,way
-Promenade,,,way
-"Pröttitzer Weg",,,way
-Prünstraße,,,way
-"Püchauer Straße",,,way
-Pufendorfstraße,,,way
-Quartiersplatz,,,way
-"Quasnitzer Höhe",,,way
-"Quasnitzer Weg",,,way
-Queckstraße,,,way
-"Quedlinburger Straße",,,way
-Querbahnsteig,,,relation
-Quermaße,,,way
-Querstraße,,,way
-Querweg,,,way
-Quittenweg,,,way
-Rabenerstraße,,,way
-Rabensteinplatz,,,way
-Rabenweg,,,way
-Rabet,,,way
-"Rackwitzer Straße",,,way
-"Radefelder Allee",,,way
-"Radefelder Straße",,,way
-"Radefelder Weg",,,way
-Radiusstraße,,,way
-Raiffeisenstraße,,,way
-Raimundstraße,,,way
-"Ranstädter Steinweg",,,way
-"Räpitzer Straße",,,way
-Rapsweg,,,way
-Rapunzelweg,,,way
-"Raschwitzer Straße",,,way
-Rasenweg,,,way
-Rathausring,,,way
-Rathausstraße,,,way
-Rathenaustraße,,,way
-Ratsfreischulstraße,,,way
-Ratzelstraße,,,way
-Raustraße,,,way
-Rebhuhnsteig,,,way
-Regenbogen,,,way
-Reginenstraße,,,way
-"Rehbacher Anger",,,way
-"Rehbacher Straße",,,way
-Rehpfad,,,way
-Rehwagenstraße,,,way
-"Reichenberger Straße",,,way
-Reichsbahnerstraße,,,way
-Reichsstraße,,,way
-Reiherweg,,,way
-Reineckeplatz,,,way
-Reineckestraße,,,way
-Reinhardtstraße,,,way
-Reinhold-Krüger-Straße,,,way
-Reinhold-Schulze-Straße,,,way
-Reinmuthweg,,,way
-Reiterallee,,,way
-Renetteweg,,,way
-Renftstraße,,,way
-Renkwitzstraße,,,way
-Rennbahnweg,,,way
-Renoirstraße,,,way
-Resedaweg,,,way
-Residenzstraße,,,way
-"Reudnitzer Straße",,,way
-Reuningstraße,,,way
-Richard-Dittrich-Straße,,,way
-Richard-Lehmann-Straße,,,way
-Richard-Leisebein-Straße,,,way
-Richard-Springer-Weg,,,way
-Richard-Wagner-Platz,,,relation
-Riebeckstraße,,,way
-Riemannstraße,,,way
-"Riesaer Straße",,,way
-Riesenweg,,,way
-Rietschelstraße,,,way
-Rietzschkebogen,,,way
-Rietzschkegrund,,,way
-Rietzschkeweg,,,way
-Rietzschkewiesen,,,way
-Rinckartstraße,,,way
-Ringelnatzweg,,,way
-Ringstraße,,,way
-Ringweg,,,way
-Rippachtalstraße,,,way
-Ritter-Pflugk-Straße,,,way
-Rittergutsstraße,,,way
-Ritterlingsweg,,,way
-Ritterpassage,,,way
-Ritterspornweg,,,way
-Ritterstraße,,,way
-Robert-Hanf-Weg,,,way
-Robert-Koch-Straße,,,way
-Robinienweg,,,way
-Rochlitzstraße,,,way
-"Röckener Straße",,,way
-Rodelandstraße,,,way
-Rodelbahn,,,way
-Rödelstraße,,,way
-Roggenring,,,way
-Rohrteichstraße,,,way
-Rolf-Axen-Straße,,,way
-Rollerweg,,,way
-Romain-Rolland-Weg,,,way
-"Römhilder Weg",,,way
-Röntgenstraße,,,way
-Rosa-Luxemburg-Straße,,,way
-Roscherstraße,,,way
-Roseggerweg,,,way
-Rosenapfelweg,,,way
-Rosenbaumstraße,,,way
-Rosenholzweg,,,way
-Rosenmüllerstraße,,,way
-Rosenowstraße,,,way
-Rosenstraße,,,way
-Rosentalgasse,,,way
-Rosenweg,,,way
-Rosestraße,,,way
-Rosmarinweg,,,way
-"Rostocker Straße",,,way
-"Roßlauer Straße",,,way
-Roßmarkt,,,way
-Roßmarktstraße,,,way
-Roßplatz,,,way
-Roßstraße,,,way
-Rotbuchenweg,,,way
-Rotdornstraße,,,way
-Roteichenallee,,,way
-Rotfuchsstraße,,,way
-"Rothenburger Straße",,,way
-Rotheplatz,,,way
-"Röthische Straße",,,way
-Rotkäppchenweg,,,way
-Rotkehlchenweg,,,way
-Rotkleeweg,,,way
-Rotschwänzechenweg,,,way
-Rousseaustraße,,,way
-Rübezahlweg,,,way
-Rubinstraße,,,way
-Rückertstraße,,,way
-"Rückmarsdorfer Straße",,,way
-Rudi-Opitz-Straße,,,way
-Rudolf-Breitscheid-Straße,,,way
-Rudolph-Herrmann-Straße,,,way
-Rudolph-Sack-Straße,,,way
-Rudolphstraße,,,way
-"Rügener Straße",,,way
-Ruheplatz,,,way
-Rundkapellenweg,,,way
-"Rundweg Gondwanaland",,,way
-Russenstraße,,,way
-Ruststraße,,,way
-"S-Bahnhof MDR",,,relation
-"S-Bahnhof Wahren",,,relation
-"Saalecker Straße",,,way
-"Saalfelder Straße",,,way
-Saarbrückenstraße,,,way
-"Saarländer Straße",,,way
-"Saarlouiser Straße",,,way
-Sabinenstraße,,,way
-Sachsenbrücke,,,way
-Sachsenhöhe,,,way
-Sachsenseite,,,way
-Sachsenstraße,,,way
-Safranweg,,,way
-Salamanderstraße,,,way
-Salbeiweg,,,way
-Salomonstraße,,,way
-Salzhandelsstraße,,,way
-Salzmannstraße,,,way
-Salzstraße,,,way
-Salzweg,,,way
-Samuel-Lampel-Straße,,,way
-Sandberg,,,way
-Sanddornweg,,,way
-Sandgrube,,,way
-Sandgrubenweg,,,way
-Sandmännchenweg,,,way
-Sandweg,,,way
-Saphirstraße,,,way
-Sasstraße,,,relation
-Sattelhofstraße,,,way
-Sattlerweg,,,way
-Saturnstraße,,,way
-Saxoniastraße,,,way
-Schacherstraße,,,way
-Schachtstraße,,,way
-Schadowstraße,,,way
-Schäferweg,,,way
-"Schandauer Weg",,,way
-Scharnhorststraße,,,way
-Schatzweg,,,way
-Schauerstraße,,,way
-Schellingstraße,,,way
-Schenderleinstraße,,,way
-Scheumannstraße,,,way
-Schiebestraße,,,way
-"Schildberger Weg",,,way
-Schillerplatz,,,way
-Schillersteg,,,way
-Schillerweg,,,way
-Schillingstraße,,,way
-Schinkelstraße,,,way
-Schirmerstraße,,,way
-"Schkeitbarer Weg",,,way
-"Schkeuditzer Straße",,,way
-"Schkorlopper Straße",,,way
-"Schladitzer Straße",,,way
-Schlehdornweg,,,way
-Schlehenweg,,,way
-Schlesierstraße,,,way
-"Schleußiger Weg",,,way
-Schlippe,,,way
-Schlößchenweg,,,way
-Schloßgasse,,,way
-Schloßweg,,,way
-Schlotterbeckstraße,,,way
-"Schmaler Weg",,,way
-"Schmalkaldener Weg",,,way
-Schmetterlingsweg,,,way
-Schmidstraße,,,way
-Schmidt-Rühl-Straße,,,way
-"Schmiedeberger Straße",,,way
-Schmiedegasse,,,way
-Schmiedestraße,,,way
-Schmutzlerstraße,,,way
-Schneeballweg,,,way
-"Schneeberger Straße",,,way
-"Schneedeponie Vorfeld 4",,,way
-Schneewittchenweg,,,way
-Schneiderstraße,,,way
-Schnittergasse,,,way
-Schomburgkstraße,,,way
-"Schönauer Landstraße",,,way
-"Schönauer Ring",,,way
-"Schönauer Straße",,,way
-"Schönauer Weg",,,way
-"Schönauer Welle",,,way
-Schönauer/Ratzelstraße,,,way
-Schönbachstraße,,,way
-Schönbergstraße,,,way
-"Schönefelder Allee",,,way
-"Schönefelder Straße",,,way
-Schongauerstraße,,,way
-Schopenhauerstraße,,,way
-Schorlemmerstraße,,,way
-"Schorndorfer Weg",,,way
-Schrägweg,,,way
-Schrammsteinstraße,,,way
-Schreberstraße,,,way
-Schreiberstraße,,,way
-Schreinerweg,,,way
-Schröderstraße,,,way
-Schubarthstraße,,,way
-Schubertstraße,,,way
-Schuhmachergäßchen,,,way
-Schulstraße,,,way
-Schulweg,,,way
-Schützenhausstraße,,,way
-Schützenstraße,,,way
-Schützstraße,,,way
-"Schwabacher Straße",,,way
-Schwägrichenstraße,,,way
-Schwanenweg,,,way
-Schwartzestraße,,,way
-Schwarzackerstraße,,,way
-Schwarzdornweg,,,way
-"Schwarze Brücke",,,way
-"Schwarzer Weg",,,way
-Schwedenstraße,,,way
-"Schweinfurter Straße",,,way
-Schweizerbogen,,,way
-Schwindstraße,,,way
-Schwylststraße,,,way
-Scipiostraße,,,way
-"Seebenischer Straße",,,way
-Seebogen,,,way
-Seeburgweg,,,way
-"Seegeritzer Straße",,,way
-"Seegeritzer Weg",,,way
-"Seehausener Straße",,,way
-Seelenbinderstraße,,,way
-Seffnerstraße,,,way
-Seidengasse,,,way
-"Seifertshainer Straße",,,way
-"Seiffener Straße",,,way
-Seilerweg,,,way
-Seitengasse,,,way
-Seitenstraße,,,way
-Seitenweg,,,way
-"Sellerhäuser Straße",,,way
-"Selliner Passage",,,way
-"Selliner Straße",,,way
-Senefelderstraße,,,way
-"Sesenheimer Straße",,,way
-Seumestraße,,,way
-Shakespeareplatz,,,way
-Siedlereck,,,way
-Siedlerweg,,,way
-Siemensstraße,,,way
-Siemeringstraße,,,way
-Sigebandweg,,,way
-Sigismundstraße,,,way
-Silcherstraße,,,way
-Singdrosselweg,,,way
-Siriusweg,,,way
-Sittichweg,,,way
-Slevogtstraße,,,way
-Smaragdstraße,,,way
-"Sommerfelder Straße",,,way
-"Sommerfelder Weg",,,way
-Sommerlindenstraße,,,way
-"Sonneberger Weg",,,way
-Sonnenblumenweg,,,way
-Sonnengasse,,,way
-Sonnenweg,,,way
-Sonnenwinkel,,,way
-Sophienstraße,,,way
-Sorbenstraße,,,way
-"Sosaer Straße",,,way
-Spalierweg,,,way
-Spatzenweg,,,way
-Spechtweg,,,way
-Sperlingsgasse,,,way
-Sperlingsgrund,,,way
-Sperontesstraße,,,way
-Spetlakstraße,,,way
-"Spielplatz Zingster Straße",,,way
-Spinnereistraße,,,way
-Spittastraße,,,way
-Spitzwegstraße,,,way
-Sporergäßchen,,,way
-Sportplatzstraße,,,way
-Sportplatzweg,,,way
-Sprikkenweg,,,way
-Sprikkenwinkel,,,way
-Springerstraße,,,way
-Staffelsteinstraße,,,way
-"Stahmelner Allee",,,way
-"Stahmelner Anger",,,way
-"Stahmelner Höhe",,,way
-"Stahmelner Straße",,,way
-Stallbaumstraße,,,way
-Stammerstraße,,,way
-"Stammgleis PX",,,way
-Stannebeinplatz,,,way
-Starenweg,,,way
-Starweg,,,way
-Stauffacherweg,,,way
-Stefan-Zweig-Straße,,,way
-"Steig F",,,relation
-Steinbachweg,,,way
-"Steinberger Straße",,,way
-Steinbergstraße,,,way
-Steingartenweg,,,way
-Steinpilzweg,,,way
-Steinweg,,,way
-Stentzlerstraße,,,way
-Sternbachstraße,,,way
-Sternenstraße,,,way
-Sternenwinkel,,,way
-Sterntalerweg,,,way
-Sternwartenstraße,,,way
-Sternwartenweg,,,way
-Steyberweg,,,way
-Stieglitzweg,,,way
-Stifterstraße,,,way
-Stiftsstraße,,,way
-Stockartstraße,,,way
-Stöckelstraße,,,way
-Stockmannstraße,,,way
-Stockstraße,,,way
-"Stollberger Straße",,,way
-Stollestraße,,,way
-"Störmthaler Straße",,,way
-"Stötteritzer Landstraße",,,way
-"Stötteritzer Straße",,,way
-Stoyestraße,,,way
-"Stralsunder Straße",,,way
-"Straße am Park",,,way
-"Straße am See",,,way
-"Straße der 53",,,way
-"Straße der Einheit",,,way
-"Straße des 17. Juni",,,relation
-"Straße des 18. Oktober",,,way
-"Strelitzer Straße",,,way
-Strohsackpassage,,,way
-"Stünz-Mölkauer Weg",,,way
-"Stünzer Straße",,,way
-"Stünzer Weg",,,way
-"Stuttgarter Allee",,,way
-Südblick,,,way
-Süderhexweg,,,way
-Südplatz,,,way
-Südstraße,,,way
-Südtangente,,,way
-"Suhler Straße",,,way
-"Sulzbacher Straße",,,way
-"Sunset Bend",,,way
-"Suntory Corner",,,way
-"Suzuka S",,,way
-Swiftstraße,,,way
-"Sylter Straße",,,way
-Syrakusweg,,,way
-Talstraße,,,way
-Talweg,,,way
-Tannenwaldstraße,,,way
-Tannenweg,,,way
-"Täschners Garten",,,way
-Täschnerstraße,,,way
-Täubchenweg,,,way
-Taubenbergweg,,,way
-"Tauchaer Straße",,,way
-Taurusweg,,,way
-Teerosenweg,,,way
-Teichmannstraße,,,way
-Teichstraße,,,way
-Teichweg,,,way
-Tellweg,,,way
-"Tennstedter Weg",,,way
-Thaerstraße,,,way
-Thärigenstraße,,,way
-Theaterpassage,,,way
-"Theklaer Straße",,,way
-Theobald-Beer-Straße,,,way
-Theodor-Heuss-Straße,,,way
-Theodor-Neubauer-Straße,,,way
-Theodor-Voigt-Straße,,,way
-Theresienstraße,,,way
-"Thierbacher Straße",,,way
-Thieriotstraße,,,way
-Thietmarstraße,,,way
-Thomas-Wagner-Straße,,,way
-Thomasgasse,,,way
-Thomasiusstraße,,,way
-Thomaskirchhof,,,way
-"Thonberger Straße",,,way
-"Threnaer Straße",,,way
-Thümmelstraße,,,way
-Thünenstraße,,,way
-"Thüringer Straße",,,way
-Thymianweg,,,way
-"Tiefe Straße",,,way
-Tintlingsweg,,,way
-Tirolerweg,,,way
-Titaniaweg,,,way
-Topasstraße,,,way
-Töpferstraße,,,way
-Töpferweg,,,way
-"Torgauer Platz",,,way
-"Torgauer Straße",,,way
-Torstensonring,,,way
-Torweg,,,way
-Toskastraße,,,way
-Tränkengraben,,,way
-"Trattendorfer Weg",,,way
-Traubengasse,,,way
-"Travniker Straße",,,way
-Tresckowstraße,,,way
-Triftsiedlung,,,way
-Triftstraße,,,way
-Triftweg,,,way
-Trinitatisplatz,,,way
-Trinitatisstraße,,,way
-Trögelweg,,,way
-Tröndlinring,,,way
-Trötzschelstraße,,,way
-"Trusetaler Weg",,,way
-Tschechenbogen,,,way
-Tucholskystraße,,,way
-Tulpenweg,,,way
-Türkisstraße,,,way
-Turmalinstraße,,,way
-Turmgutstraße,,,way
-Turmweg,,,way
-Turnerstraße,,,way
-Uferstraße,,,way
-Uferweg,,,way
-Uhlandstraße,,,way
-Uhlandweg,,,way
-Uhrigstraße,,,way
-Uhuweg,,,way
-Ulmenweg,,,way
-"Ulmer Straße",,,way
-Ulrichstraße,,,way
-Undinenweg,,,way
-Ungerstraße,,,way
-Universitätsstraße,,,way
-"Untere Mühlenstraße",,,way
-"Untere Nordstraße",,,way
-"Unterer Sandweg",,,way
-Unterführung,,,way
-Untergeschoss,,,relation
-Uranusstraße,,,way
-"Usedomer Straße",,,way
-Veilchenweg,,,way
-Verkehrsgarten,,,way
-"Verlängerte Max-Liebermann-Straße",,,way
-"Verlängerte Schwedenstraße",,,way
-"Verlängerte Wilhelmstraße",,,way
-"Verlauf der ehem. Start- und Landebahn 07/25",,,way
-"Verlauf ehem. Parkposition",,,way
-"Verlauf ehem. Prakposition",,,way
-"Verlauf ehem. Rollweg",,,way
-Verrinaweg,,,way
-"Vetters Hof",,,way
-Viaduktweg,,,way
-"Victoria Turn",,,way
-Vierackerwiesen,,,way
-Viertelsweg,,,way
-Vierzehn-Bäume-Weg,,,way
-Virchowstraße,,,way
-Vivaldistraße,,,way
-Vlamenstraße,,,way
-Voigtstraße,,,way
-Volbedingstraße,,,way
-Volckmarstraße,,,way
-Volksgartenstraße,,,way
-Vollhardtstraße,,,way
-Voltairestraße,,,way
-"Vor dem Hospitaltore",,,way
-"Vordere Schlobachstraße",,,way
-"Wachauer Straße",,,way
-Wachberg,,,way
-Wachbergallee,,,way
-Wacholderweg,,,way
-Wachsmuthstraße,,,way
-Wachtelsteig,,,way
-Wächtersteg,,,way
-"Wahrener Straße",,,way
-Waldbaurstraße,,,way
-Waldblick,,,way
-Waldemar-Götze-Straße,,,way
-Waldkerbelstraße,,,way
-Waldmeisterweg,,,way
-Waldrebenweg,,,way
-Waldstraße,,,way
-Waldweg,,,way
-Waldwinkel,,,way
-Waldzieststraße,,,way
-"Wall of fame",,,way
-Walnußweg,,,way
-Walter-Albrecht-Weg,,,way
-Walter-Cramer-Straße,,,way
-Walter-Günther-Weg,,,way
-Walter-Heinze-Straße,,,way
-Walter-Heise-Straße,,,way
-Walter-Markov-Ring,,,way
-"Wangerooger Weg",,,way
-Wartenburgstraße,,,way
-Wärterweg,,,way
-Wassertorbrücke,,,way
-Wasserturmstraße,,,way
-Wasserturmweg,,,way
-Wasserwerkstraße,,,way
-"Wasunger Straße",,,way
-Watestraße,,,way
-Watzdorfstraße,,,way
-Weberknechtstraße,,,way
-"Webers Hof",,,way
-"Weg der Weisheit",,,way
-"Weg der alten Kameraden",,,way
-Wegastraße,,,way
-Weheweg,,,way
-Wehrmannstraße,,,way
-Weidenbachplan,,,way
-Weidenhof,,,way
-Weidenhofweg,,,way
-Weidenweg,,,way
-Weidlichstraße,,,way
-Weidmannstraße,,,way
-Weidmannweg,,,way
-Weigandtweg,,,way
-Weigelienstraße,,,way
-"Weimarer Straße",,,way
-Weinberg,,,way
-Weinbergstraße,,,way
-Weinligstraße,,,way
-Weißdornstraße,,,way
-Weißdornweg,,,way
-"Weiße Brücke",,,way
-"Weißenfelser Straße",,,way
-Weizenweg,,,way
-Wendelin-Hipler-Weg,,,way
-Wendlerstraße,,,way
-Werkstättenstraße,,,way
-Werkstättenweg,,,way
-Werkstraße,,,way
-"Wertheimer Straße",,,way
-West-Weg,,,way
-Weststraße,,,way
-"Wettiner Straße",,,way
-Wetzelweg,,,way
-Wiebelstraße,,,way
-"Wiederitzscher Landstraße",,,way
-"Wiederitzscher Straße",,,way
-"Wiederitzscher Weg",,,way
-Wielandstraße,,,way
-Wieselsteig,,,way
-Wieselstraße,,,way
-Wiesenblumenweg,,,way
-Wiesengrund,,,way
-Wiesenrain,,,way
-Wiesenring,,,way
-Wiesenstraße,,,way
-Wiesenweg,,,way
-Wiesenwinkel,,,way
-Wigandstraße,,,way
-Wildbuschweg,,,way
-Wildentensteig,,,way
-Wildschweinpfad,,,way
-Wilhelm-Busch-Straße,,,way
-Wilhelm-Leuschner-Platz,,,way
-Wilhelm-Michel-Straße,,,way
-Wilhelm-Pfennig-Straße,,,way
-Wilhelm-Plesse-Straße,,,way
-Wilhelm-Sammet-Straße,,,way
-Wilhelm-Seyfferth-Straße,,,way
-Wilhelm-Wild-Straße,,,way
-Wilhelm-Winkler-Straße,,,way
-Wilhelminenstraße,,,way
-Wilhelmsteg,,,way
-Wilhelmstraße,,,way
-Willi-Bredel-Straße,,,way
-William-Zipperer-Straße,,,way
-Willmar-Schwabe-Ring,,,way
-Willmar-Schwabe-Straße,,,way
-Willy-Brandt-Platz,,,way
-"Wilsnacker Straße",,,way
-Wincklerstraße,,,way
-Windmühlenstraße,,,way
-Windmühlenweg,,,way
-"Windorfer Straße",,,way
-"Windsheimer Straße",,,way
-Wingertgasse,,,way
-Winkelweg,,,way
-Wintergartenstraße,,,way
-Winzerweg,,,way
-Wiprechtstraße,,,way
-Wiskenstraße,,,way
-"Wittenberger Straße",,,way
-Witzgallstraße,,,way
-Witzlebenstraße,,,way
-"Wöbbeliner Straße",,,way
-"Wognaundorfer Gasse",,,way
-Wohlgemuthstraße,,,way
-"Wohnkomplex 1",,,relation
-"Wohnkomplex 2",,,relation
-"Wohnkomplex 3",,,relation
-"Wohnkomplex 4",,,relation
-"Wohnkomplex 5.1",,,relation
-"Wohnkomplex 7",,,relation
-"Wohnkomplex 8",,,relation
-"Wolfener Straße",,,way
-Wolffstraße,,,way
-Wolfgang-Heinze-Straße,,,way
-"Wolfshainer Straße",,,way
-"Wölkauer Weg",,,way
-Wolkenweg,,,way
-Wollkämmereistraße,,,way
-Wöllnerstraße,,,way
-"Wolteritzer Weg",,,way
-"Wörlitzer Straße",,,way
-Wundtstraße,,,way
-Würkertstraße,,,way
-"Würzburger Straße",,,way
-"Wurzner Straße",,,way
-Wustmannstraße,,,way
-Yorck-Diebitsch-Straße,,,way
-Yorckstraße,,,way
-Yuccaweg,,,way
-Zauberweg,,,way
-Zaucheblick,,,way
-Zaucheweg,,,way
-Zaunkönigweg,,,way
-Zedernholzweg,,,way
-Zehmenstraße,,,way
-Zeisigweg,,,way
-"Zeitzer Straße",,,way
-Zentralstraße,,,way
-Zeppelinweg,,,way
-"Zerbster Straße",,,way
-Ziegeleiweg,,,way
-Ziegelstraße,,,way
-Ziegensteg,,,way
-Zillstraße,,,way
-Zimmerstraße,,,way
-Zimmerweg,,,way
-"Zingster Straße",,,way
-Zinnienweg,,,way
-Zirkonstraße,,,way
-"Zittauer Straße",,,way
-Ziustraße,,,way
-Zollikoferstraße,,,way
-Zollschuppenstraße,,,way
-Zoo-Rundweg,,,way
-Zschampertaue,,,way
-"Zschochersche Allee",,,way
-"Zschochersche Straße",,,way
-"Zschölkauer Weg",,,way
-"Zschopauer Straße",,,way
-"Zschortauer Straße",,,way
-"Zu den Bruchwiesen",,,way
-"Zu den Drei Kugeln",,,way
-"Zu den Gärten",,,way
-"Zu den Wiesen",,,way
-"Zuckelhausener Ring",,,way
-"Zuckelhäuser Straße",,,way
-"Zugang Parkhaus",,,way
-"Zugangsweg Kleingarten",,,way
-"Zum Alten Seebad",,,way
-"Zum Alten Wasserwerk",,,way
-"Zum Althener Sportplatz",,,way
-"Zum Apelstein",,,way
-"Zum Auwald",,,way
-"Zum Bahnhof",,,way
-"Zum Birkenwäldchen",,,way
-"Zum Denkmal",,,way
-"Zum Dölitzer Schacht",,,way
-"Zum Feld",,,way
-"Zum Förderturm",,,way
-"Zum Forstgut",,,way
-"Zum Frischemarkt",,,way
-"Zum Graben",,,way
-"Zum Gut",,,way
-"Zum Haksch",,,way
-"Zum Harfenacker",,,way
-"Zum Kalten Born",,,way
-"Zum Kleewinkel",,,way
-"Zum Kleingartenpark",,,way
-"Zum Leutzscher Holz",,,way
-"Zum Lippenplan",,,way
-"Zum Rosengarten",,,way
-"Zum Schwinderplan",,,way
-"Zum Sonnenblick",,,way
-"Zum Wald",,,way
-"Zum Waldbad",,,way
-"Zum Wäldchen",,,way
-"Zum Wasserturm",,,way
-"Zum Winkel",,,way
-"Zur Alten Bäckerei",,,way
-"Zur Alten Brauerei",,,way
-"Zur Alten Mühle",,,way
-"Zur Alten Schmiede",,,way
-"Zur Alten Weintraube",,,way
-"Zur Bauernwiese",,,way
-"Zur Grünen Ecke",,,way
-"Zur Heide",,,way
-"Zur Lehmbahn",,,way
-"Zur Lindenhöhe",,,way
-"Zur Loberaue",,,way
-"Zur Reitbahn",,,way
-"Zur Rodelbahn",,,way
-"Zur Sägemühle",,,way
-"Zur Schule",,,way
-"Zur Waldenau",,,way
-"Zur Weißen Mark",,,way
-"Zur Ziegelei",,,way
-Zusestraße,,,way
-"Zweenfurther Straße",,,way
-Zweifelstraße,,,way
-"Zweinaundorfer Straße",,,way
-"Zwenkauer Straße",,,way
-Zwergasternweg,,,way
-Zwergenweg,,,way
-Zwergmispelstraße,,,way
-Zwetschgenweg,,,way
-"Zwickauer Straße",,,way
-Zwiebelweg,,,way
+name,source,gender,wikidata,type
+Amazonstraße,wikidata,,Q3884,way
+"An der Alten Mühle",wikidata,,Q180997,way
+"An der Autobahn",wikidata,,Q46622,way
+BMW-Allee,wikidata,,Q26678,way
+Bäckergasse,wikidata,,Q160131,way
+Balderstraße,wikidata,,Q131658,way
+Bergweg,wikidata,,Q8502,way
+Bernadotteweg,wikidata,,Q65097240,way
+Birkengasse,wikidata,,Q25243,way
+Brunhildstraße,wikidata,,Q850506,way
+Buchengasse,wikidata,,Q25403,way
+"Dingolfinger Straße",wikidata,,Q225909,way
+Dohlenweg,wikidata,,Q25345384,way
+Don-Carlos-Straße,wikidata,,Q50764148,way
+Donarstraße,wikidata,,Q42952,way
+Forsetistraße,wikidata,,Q62548,way
+Fullaweg,wikidata,,Q847429,way
+"Göbschelwitzer Straße",wikidata,,Q1559171,way
+Grimmweg,wikidata,,Q2793;Q6701;Q6714,way
+Gudrunstraße,wikidata,,Q1257834,way
+Gutsweg,wikidata,,Q12292478,way
+Heimdallstraße,wikidata,,Q131196,way
+"Hohe Heide",wikidata,,Q1313431,way
+"Holzhäuser Straße",wikidata,,Q1625540,way
+Hotherstraße,wikidata,,Q204900,way
+Idunweg,wikidata,,Q204691,way
+Kastanienstraße,wikidata,,Q129324,way
+Kornweg,wikidata,,Q12117,way
+Kranichweg,wikidata,,Q4764,way
+Kriemhildstraße,wikidata,,Q1257834,way
+Kuckucksweg,wikidata,,Q18845,way
+"Lausicker Straße",wikidata,,Q10739,way
+Lermastraße,wikidata,,Q54998954,way
+Lermontowstraße,wikidata,,Q18399418,way
+Les-Epesses-Straße,wikidata,,Q288657,way
+Lindengasse,wikidata,,Q127849,way
+"Merkwitzer Straße",wikidata,,Q22693034,way
+Messe-Allee,wikidata,,Q57305,way
+Michaelisstraße,wikidata,,Q45581,way
+Mühlgrabenweg,wikidata,,Q736691,way
+"Naunhofer Straße",wikidata,,Q10771,way
+"Platz des 20. Juli 1944",wikidata,,Q105570,way
+"Plaußiger Weg",wikidata,,Q2098961,way
+"Podelwitzer Weg",wikidata,,Q2100222,way
+Posastraße,wikidata,,Q63487053,way
+"Regensburger Straße",wikidata,,Q2978,way
+Schulgasse,wikidata,,Q3914,way
+Schwalbenweg,wikidata,,Q39861,way
+"Seehausener Allee",wikidata,,Q2264934,way
+Seeweg,wikidata,,Q85842470,way
+Siegfriedplatz,wikidata,,Q537554,way
+Siegfriedstraße,wikidata,,Q537554,way
+Storchenweg,wikidata,,Q28507,way
+Wodanstraße,wikidata,,Q43610,way
+"Aachener Straße",,,,way
+Abrahamstraße,,,,way
+"Abtnaundorfer Straße",,,,way
+Achatstraße,,,,way
+Ackerweg,,,,way
+Addis-Abeba-Platz,,,,way
+Adelgunde-Gottsched-Weg,,,,way
+Adenauerallee,,,,way
+Adlershelmstraße,,,,way
+Adolf-Koppe-Straße,,,,way
+Agnesstraße,,,,way
+Agricolastraße,,,,way
+Ahlfeldstraße,,,,way
+Ahorngasse,,,,way
+Ahornstraße,,,,way
+Akazienweg,,,,way
+Akeleiweg,,,,way
+"Albersdorfer Straße",,,,way
+"Albersdorfer Weg",,,,way
+Albert-Schweitzer-Straße,,,,way
+Albert-Vollsack-Straße,,,,way
+Albrecht-Dürer-Straße,,,,way
+Albrecht-Dürer-Weg,,,,way
+"Albrechtshainer Straße",,,,way
+Alexanderstraße,,,,way
+Alfred-Schurig-Straße,,,,way
+"Alte Baumschule",,,,way
+"Alte Burghausener Straße",,,,way
+"Alte Dorfstraße",,,,way
+"Alte Dübener Landstraße",,,,relation
+"Alte Gärtnerei",,,,way
+"Alte Hohe Straße",,,,way
+"Alte Holzhausener Straße",,,,way
+"Alte Messe",,,,way
+"Alte Parkstraße",,,,way
+"Alte Salzstraße",,,,way
+"Alte Seehausener Straße",,,,way
+"Alte Straße",,,,way
+"Alte Tauchaer Straße",,,,way
+"Alte Theklaer Straße",,,,way
+"Altenburger Straße",,,,way
+"Alter Amtshof",,,,way
+"Alter Hauptweg",,,,way
+"Alter Kirchweg",,,,way
+"Alter Marktweg",,,,way
+"Altes Dorf",,,,way
+"Althener Anger",,,,way
+"Althener Straße",,,,way
+"Altranstädter Straße",,,,way
+"Am Alten Bahnhof",,,,way
+"Am Alten Flugfeld",,,,way
+"Am Alten Mühlgraben",,,,way
+"Am Anger",,,,way
+"Am Angerteich",,,,way
+"Am Auenwald",,,,way
+"Am Bahndamm",,,,way
+"Am Bahnhof",,,,way
+"Am Barnecker Gut",,,,way
+"Am Bauernsteg",,,,way
+"Am Bauernteich",,,,way
+"Am Bildersaal",,,,way
+"Am Bischofsholz",,,,way
+"Am Bogen",,,,way
+"Am Börnchen",,,,way
+"Am Brunnen",,,,way
+"Am Doppeladler",,,,way
+"Am Dorfplatz",,,,way
+"Am Dorfteich",,,,way
+"Am Eichberg",,,,way
+"Am Eichenbogen",,,,way
+"Am Eichwinkel",,,,way
+"Am Elsterbogen",,,,way
+"Am Elsterwehr",,,,way
+"Am Eselshaus",,,,way
+"Am Eulengraben",,,,way
+"Am Exer",,,,way
+"Am Exerzierplatz",,,,way
+"Am Feld",,,,way
+"Am Feldrain",,,,way
+"Am Fischerhaus",,,,way
+"Am Flößgen",,,,way
+"Am Flügelrad",,,,way
+"Am Freibad",,,,way
+"Am Fuchsbau",,,,way
+"Am Gänseanger",,,,way
+"Am Gartenverein",,,,way
+"Am Geleinholz",,,,way
+"Am Gothischen Bad",,,,way
+"Am Grund",,,,way
+"Am Gundorfer Teich",,,,way
+"Am Güterring",,,,way
+"Am Gutspark",,,,way
+"Am Hallischen Tor",,,,way
+"Am Hasenberg",,,,way
+"Am Hasengraben",,,,way
+"Am Hirtenhaus",,,,way
+"Am Hohen Graben",,,,way
+"Am Hohlweg",,,,way
+"Am Hufeisen",,,,way
+"Am Jägerhaus",,,,way
+"Am Kellerberg",,,,way
+"Am Keulenberg",,,,way
+"Am Kirschberg",,,,way
+"Am Klosterfeld",,,,way
+"Am Klucksgraben",,,,way
+"Am Künstlerbogen",,,,way
+"Am Lindenhof",,,,way
+"Am Lösegraben",,,,way
+"Am Luppedeich",,,,way
+"Am Meilenstein",,,,way
+"Am Mückenschlößchen",,,,way
+"Am Mühlgraben",,,,way
+"Am Niederholz",,,,way
+"Am Ochsenwinkel",,,,way
+"Am Osthang",,,,way
+"Am Parkteich",,,,way
+"Am Pfarrfelde",,,,way
+"Am Pfefferbrückchen",,,,way
+"Am Pfingstanger",,,,way
+"Am Pösgraben",,,,way
+"Am Rain",,,,way
+"Am Rennsteig",,,,way
+"Am Ring",,,,way
+"Am Ritterschlößchen",,,,way
+"Am Rodeland",,,,way
+"Am Röschenhof",,,,way
+"Am Russischen Garten",,,,way
+"Am Sandberg",,,,way
+"Am Schäferhügel",,,,way
+"Am Schaukelgraben",,,,way
+"Am Schenkberg",,,,way
+"Am Schwalbennest",,,,way
+"Am Silo",,,,way
+"Am Sommerfeld",,,,way
+"Am Sonneneck",,,,way
+"Am Sonnenwinkel",,,,way
+"Am Sperrtor",,,,way
+"Am Sportforum",,,,way
+"Am Sportpark",,,,way
+"Am Stausee",,,,way
+"Am Tanzplan",,,,way
+"Am Teich",,,,way
+"Am Teilungswehr",,,,way
+"Am Tore",,,,way
+"Am Turnplatz",,,,way
+"Am Übergang",,,,way
+"Am Viadukt",,,,way
+"Am Volksgut",,,,way
+"Am Vorwerk",,,,way
+"Am Wachauer Wäldchen",,,,way
+"Am Wassergraben",,,,way
+"Am Wasserschloß",,,,way
+"Am Wasserturm",,,,way
+"Am Wasserwerk",,,,way
+"Am Wegekreuz",,,,way
+"Am Wiesenblick",,,,way
+"Am Wolfswinkel",,,,way
+"Am Zuckmantel",,,,way
+"Am alten Flughafen",,,,way
+"Am alten Gasthof",,,,way
+"Am kleinen Feld",,,,way
+"Am krummen Graben",,,,way
+"Am langen Felde",,,,way
+"Am langen Teiche",,,,way
+Amalie-Winter-Platz,,,,way
+Amalienstraße,,,,way
+Amboldweg,,,,way
+Ameisenstraße,,,,way
+Ammernplatz,,,,way
+Ammernweg,,,,way
+"Amorbacher Straße",,,,way
+Amselgrund,,,,way
+Amselhöhe,,,,way
+Amselnest,,,,way
+Amselstraße,,,,way
+Amselweg,,,,way
+"Amstetter Weg",,,,way
+"An den Birken",,,,way
+"An den Krutschen",,,,way
+"An den Linden",,,,way
+"An den Pferdnerkabeln",,,,way
+"An den Platanen",,,,way
+"An den Theklafeldern",,,,way
+"An den Tierkliniken",,,,way
+"An der Alten Post",,,,way
+"An der Bahn",,,,way
+"An der Brauerei",,,,way
+"An der Brücke",,,,way
+"An der Burgaue",,,,way
+"An der Eisenbahn",,,,way
+"An der Elster",,,,way
+"An der Fasanerie",,,,way
+"An der Feuerwache",,,,way
+"An der Feuerwehr",,,,way
+"An der Friedenseiche",,,,way
+"An der Gänseweide",,,,way
+"An der Gärtnerei",,,,way
+"An der Grundschule",,,,way
+"An der Hainkirche",,,,way
+"An der Hauptstraße",,,,way
+"An der Hebemärchte",,,,way
+"An der Hufschmiede",,,,way
+"An der Kaninchenfarm",,,,way
+"An der Kegelbahn",,,,way
+"An der Kirche",,,,way
+"An der Kirchgasse",,,,way
+"An der Kirschallee",,,,way
+"An der Kotsche",,,,way
+"An der Lautsche",,,,way
+"An der Lehde",,,,way
+"An der Luppe",,,,way
+"An der Märchenwiese",,,,way
+"An der Meusdorfer Höhe",,,,way
+"An der Milchinsel",,,,way
+"An der Mühle",,,,way
+"An der Mühlpleiße",,,,way
+"An der Parthe",,,,way
+"An der Querbreite",,,,way
+"An der Rehwiese",,,,way
+"An der Salzstraße",,,,way
+"An der Sandgrube",,,,way
+"An der Schäferei",,,,way
+"An der Schule",,,,way
+"An der Siedlung",,,,way
+"An der Spitze",,,,way
+"An der Streuobstwiese",,,,way
+"An der Tabaksmühle",,,,way
+"An der Teichmühle",,,,way
+"An der Telle",,,,way
+"An der Trift",,,,way
+"An der Verfassungslinde",,,,way
+"An der Vogelweide",,,,way
+"An der Weide",,,,way
+"An der Wendeschleife",,,,way
+"An der Wiese",,,,way
+"An der Windmühle",,,,way
+Andersenweg,,,,way
+Andreasstraße,,,,way
+Andromedaweg,,,,way
+Anemonenweg,,,,way
+Angersiedlung,,,,way
+Angerstraße,,,,way
+"Anhalter Straße",,,,way
+"Anlage 3 - Mittelgang",,,,way
+"Annaberger Straße",,,,way
+Annenstraße,,,,way
+"Ansbacher Straße",,,,way
+Anton-Bruckner-Allee,,,,way
+Anton-Zickmantel-Straße,,,,way
+Antonienstraße,,,,way
+Anzengruberstraße,,,,way
+"Apels Garten",,,,way
+Apelsteinweg,,,,way
+Apelstraße,,,,way
+Apfelweg,,,,way
+Apitzschgasse,,,,way
+"Apoldaer Weg",,,,way
+Apostelstraße,,,,way
+Aprikosenweg,,,,way
+Arlandbogen,,,,way
+Arminiushof,,,,way
+"Arndts Hufen",,,,way
+Arndtstraße,,,,way
+Arnikaweg,,,,way
+Arno-Nitzsche-Straße,,,,way
+Arnoldplatz,,,,way
+Arnoldstraße,,,,way
+"Arnstädter Kehre",,,,way
+Arthur-Hausmann-Straße,,,,way
+Arthur-Heidrich-Platz,,,,way
+Arthur-Hoffmann-Straße,,,,way
+Arthur-Nagel-Straße,,,,way
+Arthur-Polenz-Straße,,,,way
+Arthur-Thiele-Weg,,,,way
+Arthur-Winkler-Straße,,,,way
+"Aschaffenburger Straße",,,,way
+Aschenbrödelweg,,,,way
+Asternweg,,,,way
+Atriumstraße,,,,way
+Audorfstraße,,,,way
+Aue,,,,way
+Auenblick,,,,way
+Auenblickstraße,,,,way
+Auengrund,,,,way
+"Auenhainer Straße",,,,way
+Auenseestraße,,,,way
+Auenstraße,,,,way
+Auenweg,,,,way
+Auerbachplatz,,,,way
+Auerhahnsteig,,,,way
+"Auf dem Colmberg",,,,way
+"Auf der Höhe",,,,way
+August-Knauer-Straße,,,,way
+August-Scheibe-Straße,,,,way
+Auguste-Schulze-Straße,,,,way
+Augustenstraße,,,,way
+Augustinerstraße,,,,way
+Augustusplatz,,,,way
+Aurelienstraße,,,,way
+"Auschwitzer Straße",,,,way
+Ausgang,,,,way
+Außenring,,,,way
+Außenweg,,,,way
+"Äußere Auenblickstraße",,,,way
+"Äußere Friedrich-Naumann-Straße",,,,way
+"Äußere Mühlenstraße",,,,way
+"Äußere Raustraße",,,,way
+"Äußerer Zeisigweg",,,,way
+"Autohof Leipzig Nord",,,,way
+Azaleenstraße,,,,way
+Azaleenweg,,,,way
+"BMW Teststrecke",,,,way
+"Baalsdorfer Anger",,,,way
+"Baalsdorfer Straße",,,,way
+Bachenpfad,,,,way
+Bachstelzenweg,,,,way
+Badergasse,,,,way
+Badeweg,,,,way
+Bahnhofsallee,,,,way
+Bahnhofstraße,,,,way
+Bahnstraße,,,,way
+"Bamberger Straße",,,,way
+Barbarastraße,,,,way
+Barbussestraße,,,,way
+Barclayweg,,,,way
+Bärenburgrundgang,,,,way
+"Bärenfelser Weg",,,,way
+Barfußgäßchen,,,,way
+Barfußpfad,,,,way
+Bärlauchweg,,,,way
+"Barnecker Steg",,,,way
+"Barnecker Straße",,,,way
+"Barthels Hof",,,,way
+Basilikumweg,,,,way
+Basteistraße,,,,way
+Bästleinstraße,,,,way
+Bauerngrabenstraße,,,,way
+Bauhofstraße,,,,way
+Baumannstraße,,,,way
+Baumeister-Günther-Straße,,,,way
+Baumeyerstraße,,,,way
+Baumschulenweg,,,,way
+"Baumwipfelpfad mit Hängebrücken",,,,way
+Baumwipfelweg,,,,way
+Bausestraße,,,,way
+"Bautzner Straße",,,,way
+"Bayreuther Straße",,,,way
+"Bayrischer Platz",,,,way
+Beckerstraße,,,,way
+Beethovenstraße,,,,relation
+Begonienweg,,,,way
+"Bei der Krähenhütte",,,,way
+Beipertstraße,,,,way
+Benedekring,,,,way
+Benediktusstraße,,,,way
+Bennigsenstraße,,,,way
+Berberitzenstraße,,,,way
+Bergahornstraße,,,,way
+Bergerstraße,,,,way
+Berggartenstraße,,,,way
+Berggartenweg,,,,way
+Bergstraße,,,,way
+"Berkaer Weg",,,,way
+Berlichingenweg,,,,way
+"Berliner Straße",,,,way
+"Bernburger Straße",,,,way
+Bernhard-Göring-Straße,,,,way
+Bernhard-Kellermann-Straße,,,,way
+Bernhardstraße,,,,way
+Bernsteinstraße,,,,way
+Berthastraße,,,,way
+"Beuchaer Straße",,,,way
+Beuthstraße,,,,way
+Beyerleinstraße,,,,way
+Biberpfad,,,,way
+"Bibraer Weg",,,,way
+Bielastraße,,,,way
+Bienenweg,,,,way
+Bienenwinkel,,,,way
+Bienerstraße,,,,way
+Bienitzblick,,,,way
+Bienitzstraße,,,,way
+Binsengrund,,,,way
+"Binzer Straße",,,,way
+Birkenpilzweg,,,,way
+Birkenring,,,,way
+Birkenstraße,,,,way
+Birkenwald,,,,relation
+Birkenwäldchen,,,,way
+Birkenweg,,,,way
+Birkhahnsteig,,,,way
+Bisamstraße,,,,way
+Bischofstraße,,,,way
+Bismarckstraße,,,,way
+"Bitterfelder Straße",,,,way
+Björneborgstraße,,,,way
+Blanchardweg,,,,way
+"Blankenburger Straße",,,,way
+"Blauer Hecht",,,,way
+Blaufichtenweg,,,,way
+Blausternweg,,,,way
+Bleichertstraße,,,,way
+Blindengarten,,,,way
+Blochmannstraße,,,,way
+Blochstraße,,,,way
+Blücherstraße,,,,way
+Blumenbogen,,,,way
+Blumenstraße,,,,way
+Blumenweg,,,,way
+Blümleinsteg,,,,way
+Blüthnersteg,,,,way
+"Bochumer Straße",,,,way
+Bodenreformweg,,,,way
+Bogenweg,,,,way
+Bogislawstraße,,,,way
+"Böhlitzer Mühle",,,,way
+Böhmestraße,,,,way
+Bonhoefferstraße,,,,way
+"Borkumer Weg",,,,way
+"Bornaer Straße",,,,way
+"Bornaische Straße",,,,way
+Borngasse,,,,way
+"Borsdorfer Straße",,,,way
+"Bösdorfer Ring",,,,way
+"Bösdorfer Straße",,,,way
+Bosestraße,,,,way
+Bothestraße,,,,way
+Böttcherweg,,,,way
+Böttgerstraße,,,,way
+Bowmanstraße,,,,way
+Brackestraße,,,,way
+Brahestraße,,,,way
+"Brambacher Straße",,,,way
+"Brandenburger Straße",,,,way
+Brandensteinstraße,,,,way
+Brandesweg,,,,way
+"Brandiser Straße",,,,way
+Brandstraße,,,,way
+Brandvorwerkstraße,,,,way
+Brauereistraße,,,,way
+"Braunschweiger Straße",,,,way
+Braunstraße,,,,way
+Braustraße,,,,way
+Braustraßenbrücke,,,,way
+Brehmestraße,,,,way
+Breisgaustraße,,,,way
+"Breite Allee",,,,way
+"Breite Straße",,,,way
+"Breitenfelder Straße",,,,way
+"Breiter Weg",,,,way
+Breiteweg,,,,way
+Breitscheidstraße,,,,way
+Breitschuhstraße,,,,way
+"Bremer Straße",,,,way
+"Bremer Weg",,,,way
+Brentanostraße,,,,way
+"Breslauer Straße",,,,way
+Bretschneiderstraße,,,,way
+Breunsdorffstraße,,,,way
+"Brodauer Weg",,,,way
+Brombeerweg,,,,way
+Brösigkestraße,,,,way
+Brücke,,,,way
+Brückenstraße,,,,way
+Brückwaldstraße,,,,way
+Brüderstraße,,,,way
+Brüderweg,,,,way
+Brühl,,,,way
+Brühl-Arkade,,,,way
+Brunnenstraße,,,,way
+Brunnenweg,,,,way
+"Brünner Straße",,,,way
+"Buchener Straße",,,,way
+Buchenwaldstraße,,,,way
+Buchenweg,,,,way
+Buchfinkenweg,,,,way
+Bucksdorffstraße,,,,way
+Buckyweg,,,,way
+Bühringstraße,,,,way
+Bülowviertel,,,,relation
+Bünaustraße,,,,way
+Burgauenstraße,,,,way
+"Burghausener Straße",,,,way
+Burgplatz,,,,relation
+"Burgstädter Straße",,,,way
+Burgstraße,,,,way
+Burgundenstraße,,,,way
+"Bus Stop",,,,way
+Buschenaustraße,,,,way
+Bussardweg,,,,way
+Buttergasse,,,,way
+Büttnerstraße,,,,way
+Büttnerweg,,,,way
+Cäcilienstraße,,,,way
+Calaustraße,,,,way
+Calvisiusstraße,,,,way
+Campestraße,,,,way
+Cannaweg,,,,way
+Carl-Hampel-Platz,,,,way
+Carl-Hinné-Straße,,,,way
+Carl-Meyer-Straße,,,,way
+Carl-Munde-Straße,,,,way
+Carl-Weichelt-Straße,,,,way
+Carusbrücke,,,,way
+Carusstraße,,,,way
+Charlottenstraße,,,,way
+Charlottenweg,,,,way
+"Chemnitzer Straße",,,,way
+Cheruskerstraße,,,,way
+Christian-Ferkel-Straße,,,,way
+Christian-Schmid-Straße,,,,way
+Christian-Wille-Weg,,,,way
+Christoph-Probst-Straße,,,,way
+Christoph-Schubert-Straße,,,,way
+Chrysanthemenweg,,,,way
+Clara-Zetkin-Straße,,,,way
+Clausewitzstraße,,,,way
+Claußbruchstraße,,,,way
+"Cletzener Weg",,,,way
+"Cleudner Straße",,,,way
+"Coblenzer Straße",,,,way
+Cocciusstraße,,,,way
+"Colberger Weg",,,,way
+Colmbergsiedlung,,,,way
+Colmblick,,,,way
+"Connewitzer Straße",,,,way
+Coppistraße,,,,way
+Corkscrew,,,,way
+"Cöthner Straße",,,,way
+Cottaweg,,,,way
+"Cradefelder Straße",,,,way
+Cranachstraße,,,,way
+Credéstraße,,,,way
+Crednerstraße,,,,way
+"Crensitzer Weg",,,,way
+Creuzigerstraße,,,,way
+"Cröbener Weg",,,,way
+"Cröberner Straße",,,,way
+"Crottendorfer Straße",,,,way
+"Cunnersdorfer Straße",,,,way
+Curiestraße,,,,way
+"Curve di Lesmo",,,,way
+"Dachauer Straße",,,,way
+Dachsstraße,,,,way
+Dahlienstraße,,,,way
+Dahlienweg,,,,way
+Dähnhardtstraße,,,,way
+Damaschkestraße,,,,way
+Damaschkeweg,,,,way
+Dammstraße,,,,way
+Dammteichweg,,,,way
+Dankwartstraße,,,,way
+Dantestraße,,,,way
+Däumlingsweg,,,,way
+Defoestraße,,,,way
+Deiwitzweg,,,,way
+"Delitzscher Landstraße",,,,way
+"Delitzscher Straße",,,,way
+Demetriusweg,,,,way
+Demmeringstraße,,,,way
+Denkmalsallee,,,,way
+Denkmalsblick,,,,way
+Denkmalsweg,,,,way
+"Dennewitzer Straße",,,,way
+"Dessauer Straße",,,,way
+"Deutsche Einheit",,,,way
+"Deutscher Platz",,,,way
+"Deutsches Heim",,,,way
+Diakonissenstraße,,,,way
+Diamantstraße,,,,way
+Diderotstraße,,,,way
+"Die Linie",,,,way
+Dieselstraße,,,,way
+Dieskaustraße,,,,way
+Diesterwegstraße,,,,way
+Diezmannstraße,,,,way
+Dimpfelstraße,,,,way
+Dinkelweg,,,,way
+Dittrichstraße,,,,way
+"Döbelner Straße",,,,way
+Dohnaweg,,,,way
+"Dölitzer Straße",,,,way
+Döllingstraße,,,,way
+"Dölziger Straße",,,,way
+"Dölziger Weg",,,,way
+Dorettenring,,,,way
+Dorfplatz,,,,way
+"Dorfplatz Stünz",,,,relation
+Dorfstraße,,,,way
+Döringstraße,,,,way
+"Dornburger Weg",,,,way
+Dornröschenweg,,,,way
+Dorotheenplatz,,,,way
+Dorotheenring,,,,way
+Dörrienstraße,,,,way
+Dorstigstraße,,,,way
+"Dortmunder Straße",,,,way
+"Dösner Straße",,,,way
+"Dösner Weg",,,,way
+Dr.-Hermann-Duncker-Straße,,,,way
+Dreiecksweg,,,,way
+Dreilindenstraße,,,,way
+Drescherweg,,,,way
+"Dresdner Straße",,,,way
+Drosselgrund,,,,way
+Drosselhang,,,,way
+Drosselnest,,,,way
+Drosselweg,,,,way
+Druckereistraße,,,,way
+"Dübener Landstraße",,,,way
+"Dudweiler Straße",,,,way
+"Durch die Felder",,,,way
+"Dürnsteiner Weg",,,,way
+"Dürrenberger Straße",,,,way
+Ebenholzweg,,,,way
+Ebereschenweg,,,,way
+Eberlestraße,,,,way
+Eberpfad,,,,way
+Edlichstraße,,,,way
+Edmond-Kaiser-Straße,,,,way
+Eduardstraße,,,,way
+"Eferdinger Straße",,,,way
+Egelstraße,,,,way
+"Ehrenberger Straße",,,,way
+Eibenweg,,,,way
+Eichbergstraße,,,,way
+Eichelbaumstraße,,,,way
+Eichhörnchenweg,,,,way
+Eidechsenweg,,,,way
+"Eigene Scholle",,,,way
+Eigenheimstraße,,,,way
+"Eilenburger Straße",,,,way
+Einsteinstraße,,,,way
+"Eisenacher Straße",,,,way
+Eisenbahnstraße,,,,way
+"Eisenberger Ring",,,,way
+Eisenschmidtplatz,,,,way
+Elchweg,,,,way
+Elfenweg,,,,way
+Elisabeth-Schumacher-Straße,,,,way
+Elisabethstraße,,,,way
+Ellernweg,,,,way
+Elli-Voigt-Straße,,,,way
+Elsastraße,,,,way
+Elsbethstraße,,,,way
+Elsteraue,,,,way
+Elsterberg,,,,way
+Elsterblick,,,,way
+Elstergarten,,,,way
+Elstermühlweg,,,,way
+Elsterstraße,,,,way
+Elsterweg,,,,way
+Emil-Altner-Weg,,,,way
+Emil-Fuchs-Straße,,,,way
+Emil-Kluge-Straße,,,,way
+Emil-März-Straße,,,,way
+Emil-Schubert-Straße,,,,way
+Emil-Teich-Straße,,,,way
+Emilienstraße,,,,way
+Emmausstraße,,,,way
+Endersstraße,,,,way
+Endnerstraße,,,,way
+"Engelsdorfer Park",,,,way
+"Engelsdorfer Straße",,,,way
+"Engelsdorfer Weg",,,,way
+Engertstraße,,,,way
+Entenhausen,,,,way
+Entsbergerstraße,,,,way
+Enzianweg,,,,way
+Erdmannstraße,,,,way
+"Erfurter Straße",,,,way
+Erhardstraße,,,,way
+Erich-Köhn-Straße,,,,way
+Erich-Thiele-Straße,,,,way
+Erich-Weinert-Straße,,,,way
+Erich-Zeigner-Allee,,,,way
+Erika-von-Brockdorff-Straße,,,,way
+Erikenbrücke,,,,way
+Erikenstraße,,,,way
+Erkelweg,,,,way
+Erkerhof,,,,way
+"Erlanger Straße",,,,way
+Erlenstraße,,,,way
+Erlenzeisigweg,,,,way
+Erlkönigweg,,,,way
+Ernst-Hasse-Straße,,,,way
+Ernst-Keil-Straße,,,,way
+Ernst-Kießig-Straße,,,,way
+Ernst-Meier-Straße,,,,way
+Ernst-Mey-Straße,,,,way
+"Erweiterungsfläche bei Großveranstaltungen",,,,way
+Eschenweg,,,,way
+"Espenhainer Straße",,,,way
+Espenweg,,,,way
+"Essener Straße",,,,way
+Etzelstraße,,,,way
+Eulenweg,,,,way
+"Eutritzscher Markt",,,,relation
+"Eutritzscher Straße",,,,way
+Exotenweg,,,,way
+Expressweg,,,,way
+"Eythraer Straße",,,,way
+"Eythraer Weg",,,,way
+Eythstraße,,,,way
+Fabrikstraße,,,,way
+Falkensteinstraße,,,,way
+Falkenweg,,,,way
+Falladabrücke,,,,way
+Falladastraße,,,,way
+Falterstraße,,,,way
+Faradaystraße,,,,way
+Färberstraße,,,,way
+Farnweg,,,,way
+Fasanenhöhe,,,,way
+Fasanenhügel,,,,way
+Fasanenpfad,,,,way
+Fasanenweg,,,,way
+Fechnerstraße,,,,way
+"Fehmarner Straße",,,,way
+Feldahornweg,,,,way
+Feldblumenweg,,,,way
+Feldhasenweg,,,,relation
+Feldlerchenweg,,,,way
+Feldstraße,,,,way
+Feldweg,,,,way
+Felsenbirnenstraße,,,,way
+Felsenkellerstraße,,,,way
+Fenchelweg,,,,way
+Ferdinand-Gruner-Straße,,,,way
+Ferdinand-Jost-Straße,,,,way
+Ferdinand-Rhode-Straße,,,,way
+Feuchtwangerstraße,,,,way
+Feuerbachstraße,,,,way
+Fichtenstraße,,,,way
+Fichtesiedlung,,,,way
+Finkengrund,,,,way
+Finkensteig,,,,way
+Finkenweg,,,,way
+Fischersteg,,,,way
+Fliederhof,,,,way
+Fliederweg,,,,way
+"Flöhaer Straße",,,,way
+Florian-Geyer-Platz,,,,way
+Flößenstraße,,,,way
+Floßplatz,,,,way
+Fockestraße,,,,way
+Fontanestraße,,,,way
+"Forchheimer Straße",,,,way
+Forststraße,,,,way
+Forstweg,,,,way
+Fortunabadstraße,,,,way
+"Frankenheimer Weg",,,,way
+Frankenweg,,,,way
+Franz-Schlobach-Straße,,,,way
+Franzosenallee,,,,way
+Franzosenfeld,,,,way
+Frau-Holle-Weg,,,,way
+Fregesteg,,,,way
+Fregestraße,,,,way
+"Freiberger Straße",,,,way
+"Freirodaer Straße",,,,way
+"Freirodaer Weg",,,,way
+"Freisinger Weg",,,,way
+Frettchenweg,,,,way
+Freundschaftsring,,,,way
+Friedensstraße,,,,way
+Friedhofstraße,,,,way
+Friedhofsweg,,,,way
+Friedrich-Bosse-Straße,,,,way
+Friedrich-Ebert-Straße,,,,way
+Friedrich-Kram-Weg,,,,way
+Friedrich-List-Straße,,,,way
+Friedrich-Naumann-Straße,,,,way
+Friedrich-Schmidt-Straße,,,,way
+"Friedrichshafner Straße",,,,way
+Friesensteg,,,,way
+Friesenstraße,,,,way
+Friesenweg,,,,way
+Fritz-Hanschmann-Straße,,,,way
+Fritz-Krebs-Straße,,,,way
+Fritz-Reuter-Straße,,,,way
+Fritz-Schmenkel-Straße,,,,way
+Fritz-Seger-Straße,,,,way
+Fritz-Simonis-Straße,,,,way
+"Frohburger Straße",,,,way
+Froschkönigweg,,,,way
+Froschweg,,,,way
+"Fuchshainer Straße",,,,way
+Fuchspfad,,,,way
+Fucikstraße,,,,way
+Fuggerstraße,,,,way
+Führring,,,,relation
+Funkenburgstraße,,,,way
+Furnierweg,,,,way
+"Fürther Straße",,,,way
+Galileistraße,,,,way
+Gambrinusstraße,,,,way
+Gänseblümchenweg,,,,way
+Garskestraße,,,,way
+Gartenbogen,,,,way
+Gartengrund,,,,way
+Gartenstraße,,,,way
+Gartenweg,,,,way
+Gartenwinkel,,,,way
+Gärtnereiweg,,,,way
+Gärtnergasse,,,,way
+Gärtnerstraße,,,,way
+Gärtnerweg,,,,way
+"Gaschwitzer Straße",,,,way
+Gaswerksweg,,,,way
+Gaudigplatz,,,,way
+Gaußstraße,,,,way
+Gebrüder-Weber-Weg,,,,way
+Gedikestraße,,,,way
+Geibelstraße,,,,way
+Geißblattstraße,,,,way
+"Geithainer Straße",,,,way
+Gellertstraße,,,,way
+Gemeindeamtsstraße,,,,way
+Georg-Fischer-Straße,,,,way
+Georg-Große-Straße,,,,way
+Georg-Herwegh-Straße,,,,way
+Georg-Reichardt-Straße,,,,way
+"Georg-Schumann-/Lindenthaler Straße",,,,way
+Georg-Schumann-Straße,,,,way
+Georg-Schwarz-Straße,,,,way
+"Geraer Straße",,,,way
+Geranienweg,,,,way
+Gerberstraße,,,,way
+Gerhardstraße,,,,way
+Gerichtsweg,,,,way
+Gerlindeweg,,,,way
+Germannstraße,,,,way
+Gerstäckerstraße,,,,way
+Gerstenweg,,,,way
+Gerte,,,,way
+Geschwister-Scholl-Straße,,,,way
+Getreidegasse,,,,way
+"Getzelauer Straße",,,,way
+Gewandgäßchen,,,,way
+Geyerstraße,,,,way
+Giebnerstraße,,,,way
+Gießerstraße,,,,way
+Gimpelweg,,,,way
+Ginsterstraße,,,,way
+Giordano-Bruno-Straße,,,,way
+Girlitzweg,,,,way
+Gladiolenweg,,,,way
+Glafeystraße,,,,way
+Gleisstraße,,,,way
+Gleitsmannstraße,,,,way
+"Glesiener Straße",,,,way
+Gletschersteinstraße,,,,way
+Glockenstraße,,,,way
+Glockenweg,,,,way
+"Gmundener Weg",,,,way
+"Göbschelwitzer Weg",,,,way
+Gockelpfad,,,,way
+Goetheplatz,,,,way
+Goethestraße,,,,way
+Goetheweg,,,,way
+"Gohliser Straße",,,,way
+"Göhrenzer Straße",,,,way
+"Göhrenzer Weg",,,,way
+"Goldacher Straße",,,,way
+Goldammerweg,,,,way
+"Goldene Hufe",,,,way
+Goldglöckchenstraße,,,,way
+Goldpeppingweg,,,,way
+Goldrutenweg,,,,way
+Goldschmidtstraße,,,,way
+Goldsternstraße,,,,way
+Goldulmenweg,,,,way
+Gontardweg,,,,way
+Gontscharowstraße,,,,way
+"Gorbitzer Straße",,,,way
+"Görlitzer Straße",,,,way
+"Goslarer Straße",,,,way
+"Göteborger Straße",,,,way
+Gotenstraße,,,,way
+"Gothaer Straße",,,,way
+Gottfried-Jähnichen-Weg,,,,way
+Gottfried-Rentzsch-Weg,,,,way
+Gottlaßstraße,,,,way
+"Gottleubaer Straße",,,,way
+Gottlieb-Schöne-Weg,,,,way
+Gottschalkstraße,,,,way
+Gottschedstraße,,,,way
+"Gottscheinaer Landstraße",,,,way
+"Gottscheinaer Weg",,,,way
+Gotzkowskystraße,,,,way
+Grabaustraße,,,,way
+Gräfestraße,,,,way
+Graffstraße,,,,way
+Grasmückenweg,,,,way
+Grasweg,,,,way
+"Graßdorfer Straße",,,,way
+Grauwackeweg,,,,way
+Gravensteinerweg,,,,way
+Gregor-Fuchs-Straße,,,,way
+Gregoriusstraße,,,,way
+Grenzstraße,,,,way
+Grenzweg,,,,way
+Gretelweg,,,,way
+Gretschelstraße,wikidata,,,way
+Grillenstraße,,,,way
+"Grimmaische Straße",,,,way
+"Grimmaischer Steinweg",,,,way
+"Groitzscher Straße",,,,way
+Gröpplerstraße,,,,way
+"Großbeerener Straße",,,,way
+"Große Fleischergasse",,,,way
+"Große Gartensiedlung",,,,way
+"Großer Brockhaus",,,,way
+"Großer Joachimsthal",,,,way
+"Großer Marktweg",,,,way
+"Großer Stern",,,,way
+"Großmiltitzer Straße",,,,way
+"Großpösnaer Straße",,,,way
+"Großsteinberger Straße",,,,way
+Grünau-Ost,,,,relation
+"Grünauer Allee",,,,way
+"Grünbacher Weg",,,,way
+Grundstraße,,,,way
+"Grüne Gasse",,,,way
+"Grüner Bogen",,,,way
+"Grüner Weg",,,,way
+"Grüner Winkel",,,,way
+Grunertstraße,,,,way
+Grünfinkenweg,,,,way
+"Grünzug Grüne Gasse",,,,way
+"Güldengossaer Straße",,,,way
+Gundermannstraße,,,,way
+"Gundorfer Kirchweg",,,,way
+"Gundorfer Straße",,,,way
+Gundoweg,,,,way
+Günselstraße,,,,way
+"Güntheritzer Weg",,,,way
+Gustav-Adolf-Allee,,,,way
+Gustav-Esche-Straße,,,,way
+Gustav-Feilotter-Straße,,,,way
+Gustav-Freytag-Straße,,,,way
+Gustav-Kühn-Straße,,,,way
+Gustav-Mahler-Straße,,,,way
+Gustav-Scheibe-Straße,,,,way
+Gustav-Schmoller-Straße,,,,way
+Gutberletstraße,,,,way
+Güterbahnhofstraße,,,,way
+GutsMuthsstraße,,,,way
+Gutshofstraße,,,,way
+Gutsparkstraße,,,,way
+Gypsbergstraße,,,,way
+Hafenstraße,,,,way
+Hafentor,,,,way
+Haferkornstraße,,,,way
+Haferring,,,,way
+Hafisweg,,,,way
+Hagebuttenweg,,,,way
+Hahnekamm,,,,way
+Hähnelstraße,,,,way
+Hainbuchenstraße,,,,way
+"Hainburger Weg",,,,way
+Hainstraße,,,,way
+Hainveilchenweg,,,,way
+Hainweg,,,,way
+"Halberstädter Straße",,,,way
+"Hallbergmooser Straße",,,,way
+"Hallesche Straße",,,,way
+"Hamburger Straße",,,,way
+Hammerstraße,,,,way
+Hammstraße,,,,way
+Handelsring,,,,way
+Handelsstraße,,,,way
+Händelstraße,,,,way
+Handwerker-Passage,,,,way
+Handwerkerhof,,,,way
+Hängebrücke,,,,way
+"Hannoversche Straße",,,,way
+Hanns-Eisler-Straße,,,,way
+Hans-Beimler-Straße,,,,way
+Hans-Driesch-Straße,,,,way
+Hans-Grade-Straße,,,,way
+Hans-Poeche-Straße,,,,way
+Hans-Schlenker-Weg,,,,way
+Hans-Weigel-Straße,,,,way
+Hänselweg,,,,way
+Happweg,,,,way
+Harnischstraße,,,,way
+"Harpstedter Straße",,,,way
+Härtelstraße,,,,way
+"Hartmannsdorfer Straße",,,,way
+Hartriegelstraße,,,,way
+Hartzstraße,,,,way
+Haselnussweg,,,,way
+Haselstraße,,,,way
+Haselweg,,,,way
+Hasenheide,,,,way
+Hasenholzweg,,,,way
+Hasenkopfweg,,,,way
+Hasenpfad,,,,way
+Hasenweg,,,,way
+Hauckstraße,,,,way
+Hauptstraße,,,,way
+Hauptweg,,,,way
+"Hauptweg zur großen Eiche",,,,way
+Hauschildstraße,,,,way
+Häuslergasse,,,,way
+Häußerstraße,,,,way
+Haußmannstraße,,,,way
+Haydnstraße,,,,way
+"Haynaer Weg",,,,way
+Heckenweg,,,,way
+Hedwig-Burgheim-Straße,,,,way
+Heidegraben,,,,way
+Heidelbeerweg,,,,way
+"Heidelberger Straße",,,,way
+Heideweg,,,,way
+"Heilbronner Straße",,,,way
+Heilemannstraße,,,,way
+Heimteichstraße,,,,way
+Heinickestraße,,,,way
+Heinkstraße,,,,way
+Heinrich-Heine-Straße,,,,way
+Heinrich-Kaps-Straße,,,,way
+Heinrich-Mann-Straße,,,,way
+Heinrich-Oelerich-Straße,,,,way
+Heinrich-Schmidt-Straße,,,,way
+Heinrothstraße,,,,way
+Heinz-Kapelle-Straße,,,,way
+Heinzelmannweg,,,,way
+Heiterblickallee,,,,way
+Heiterblickstraße,,,,way
+Helenenstraße,,,,way
+"Helgoländer Weg",,,,way
+Hellerstraße,,,,way
+Helmertstraße,,,,way
+Helmholtzstraße,,,,way
+Hempelstraße,,,,way
+Hendelweg,,,,way
+Henricistraße,,,,way
+Henriettenstraße,,,,way
+Hentschelweg,,,,way
+Herbert-Thiele-Straße,,,,way
+Herloßsohnstraße,,,,way
+Hermann-Brade-Straße,,,,way
+Hermann-Dorner-Straße,,,,way
+Hermann-Keller-Straße,,,,way
+Hermann-Müller-Platz,,,,relation
+Hermann-Sander-Straße,,,,way
+Hermannstraße,,,,way
+Hermelinplatz,,,,way
+Hermelinstraße,,,,way
+Hermundurenstraße,,,,way
+Herrmann-Meyer-Straße,,,,way
+"Herrnhuter Straße",,,,way
+"Hersvelder Straße",,,,way
+Herwigstraße,,,,way
+"Herzberger Straße",,,,way
+Herzliyaplatz,,,,way
+Hessenstraße,,,,way
+Hettelweg,,,,way
+Heuweg,,,,way
+Hickmannstraße,,,,way
+Hildburgstraße,,,,way
+Hildegardstraße,,,,way
+Hildeweg,,,,way
+Hilligerstraße,,,,way
+Himbeerweg,,,,way
+"Hinter dem Dorf",,,,way
+"Hinter dem Zuckelhausener Ring",,,,way
+"Hinter den Gärten",,,,way
+"Hinter der Kirche",,,,way
+Hinterforstweg,,,,way
+"Hirschfelder Flur",,,,way
+"Hirschfelder Straße",,,,way
+Hirschsprung,,,,way
+Hirseweg,,,,way
+Hirtenholzstraße,,,,way
+Hirtenweg,,,,way
+Hirzelstraße,,,,way
+Hoepnerstraße,,,,way
+"Hofer Straße",,,,way
+"Hohe Straße",,,,way
+"Hohenheidaer Straße",,,,way
+"Hohenheidaer Weg",,,,way
+"Hohenossiger Weg",,,,way
+"Hohenrodaer Weg",,,,way
+Hohenthalstraße,,,,way
+Hohentichelnstraße,,,,way
+"Hohle Gasse",,,,way
+Hohmannstraße,,,,way
+Holbergstraße,,,,way
+Holunderbogen,,,,way
+Holunderweg,,,,way
+"Holzhausener Straße",,,,way
+Hopfenbergstraße,,,,way
+Hopfengarten,,,,way
+Hopfenweg,,,,way
+"Horburger Straße",,,,way
+Hornissenwinkel,,,,way
+Hornstraße,,,,way
+Hornweg,,,,way
+Horst-Fritsche-Weg,,,,way
+Horst-Heilmann-Straße,,,,way
+Hortensienweg,,,,way
+Huberstraße,,,,way
+Hubertusstraße,,,,way
+Hubmaierweg,,,,way
+Huchstraße,,,,way
+Hüfferstraße,,,,way
+Hüfnerstraße,,,,way
+Hügelweg,,,,way
+Hugo-Aurig-Straße,,,,way
+Hugo-Junkers-Straße,,,,way
+Hugo-Krone-Platz,,,,way
+Hummelstraße,,,,way
+Hünerfeldstraße,,,,way
+Hussitenstraße,,,,way
+Huttenstraße,,,,way
+Huygensplatz,,,,way
+Huygensstraße,,,,way
+Hyazinthenweg,,,,way
+Idastraße,,,,way
+Igelstraße,,,,way
+Igelweg,,,,way
+"Ilmenauer Weg",,,,way
+Iltispfad,,,,way
+"Im Birkengrund",,,,way
+"Im Blumengrund",,,,way
+"Im Dölitzer Holz",,,,way
+"Im Lindengrund",,,,way
+"Im Tannengrund",,,,way
+"Im Weidengrund",,,,way
+"Im Winkel",,,,way
+"Im Zipfel",,,,way
+Immenstraße,,,,way
+Immischweg,,,,way
+Industriestraße,,,,way
+Ingwerweg,,,,way
+Innenring,,,,way
+Inselstraße,,,,way
+Irisweg,,,,way
+Jack-London-Weg,,,,way
+Jacobstraße,,,,way
+Jadassohnstraße,,,,way
+Jadebogen,,,,way
+Jägerhofpassage,,,,way
+Jägerstraße,,,,way
+Jahnallee,,,,way
+Jakobiwinkel,,,,way
+Jakobspilgerweg,,,,way
+Jasminweg,,,,way
+Jaspisstraße,,,,way
+"Jenaer Straße",,,,way
+Jöcherstraße,,,,way
+Jochmontagestraße,,,,way
+Johann-Adolf-Straße,,,,way
+Johannaparkweg,,,,way
+Johannastraße,,,,way
+Johannes-Kärner-Straße,,,,way
+Johannes-R.-Becher-Straße,,,,way
+Johannes-Weyrauch-Platz,,,,way
+Johannisallee,,,,way
+Johannisgasse,,,,way
+Johannishöhe,,,,way
+Johannisplatz,,,,way
+"Jöhstädter Straße",,,,way
+"Jonsdorfer Straße",,,,way
+Jordanstraße,,,,way
+Jörgen-Schmidtchen-Weg,,,,way
+Josephinenstraße,,,,way
+Josephstraße,,,,way
+"Juister Weg",,,,way
+Julius-Krause-Straße,,,,way
+Juliusstraße,,,,way
+Jungfernstiege,,,,way
+Junghanßstraße,,,,way
+Jungmannstraße,,,,way
+Jupiterstraße,,,,way
+Jupp-Müller-Straße,,,,way
+Juridicum-Passage,,,,way
+Kahlhoffweg,,,,way
+"Kalter Feldweg",,,,way
+Kamelpfad,,,,way
+"Kamenzer Straße",,,,way
+Kamillenweg,,,,way
+Kanalstraße,,,,way
+Kaninchensteig,,,,way
+Kaninchenweg,,,,way
+Kantatenweg,,,,way
+Kantor-Andrä-Straße,,,,way
+Kantor-Hase-Straße,,,,way
+Kantor-Schmidt-Weg,,,,way
+Kapellenstraße,,,,way
+Karl-Ferlemann-Straße,,,,way
+Karl-Friedrich-Straße,,,,way
+Karl-Härting-Straße,,,,way
+Karl-Heft-Straße,,,,way
+Karl-Heine-Straße,,,,way
+Karl-Helbig-Straße,,,,way
+Karl-Liebknecht-Straße,,,,way
+Karl-Mannsfeld-Straße,,,,way
+Karl-Marx-Platz,,,,way
+Karl-Marx-Straße,,,,way
+Karl-Moor-Weg,,,,way
+Karl-Schurz-Straße,,,,way
+Karl-Tauchnitz-Straße,,,,way
+Karl-Vogel-Straße,,,,way
+Karl-Winkler-Straße,,,,way
+"Karlsruher Straße",,,,way
+"Karlstädter Straße",,,,way
+Karlstraße,,,,way
+Karolusstraße,,,,way
+Kärrnerstraße,,,,way
+Kärrnerweg,,,,way
+Karussell,,,,way
+"Kasseler Straße",,,,way
+Kastanienallee,,,,way
+Kastanienring,,,,way
+Kastanienweg,,,,way
+Kastorweg,,,,way
+Katharinenstraße,,,,way
+Käthe-Kollwitz-Straße,,,,way
+Katzenbuckelbrücke,,,,way
+Katzmannstraße,,,,way
+Käuzchenweg,,,,way
+Kehrwieder,,,,way
+Kelbestraße,,,,way
+Keplerstraße,,,,way
+Kerbelweg,,,,way
+Kernstraße,,,,way
+Kesselgrund,,,,way
+Kickerlingsberg,,,,way
+Kiebitzstraße,,,,way
+Kiefernweg,,,,way
+"Kieler Straße",,,,way
+Kiesgrubenstraße,,,,way
+Kiesweg,,,,way
+Kietzstraße,,,,way
+"Kiewer Straße",,,,way
+Kilometerweg,,,,way
+Kindstraße,,,,way
+"Kipsdorfer Weg",,,,way
+Kirchplatz,,,,way
+Kirchstraße,,,,way
+Kirchweg,,,,way
+Kirschbergstraße,,,,way
+Kirschgartenweg,,,,way
+"Kissinger Straße",,,,way
+Klarastraße,,,,way
+Kleeweg,,,,way
+Kleiberweg,,,,way
+"Kleine Bergstraße",,,,way
+"Kleine Fleischergasse",,,,way
+"Kleine Gartensiedlung",,,,way
+"Kleine Gartenstraße",,,,way
+"Kleine Promenade",,,,way
+"Kleiner Poetenweg",,,,way
+"Kleiner Zipfel",,,,way
+"Kleines Joachimsthal",,,,way
+Kleinmesseplatz,,,,way
+"Kleinpösnaer Anger",,,,way
+"Kleinpösnaer Straße",,,,way
+Kleiststraße,,,,way
+Klenaustraße,,,,way
+Klettenstraße,,,,way
+Klingenstraße,,,,way
+"Klingenthaler Straße",,,,way
+Klingerhainbrücke,,,,way
+Klingerweg,,,,way
+Klipphausenstraße,,,,way
+Klopstockstraße,,,,way
+Klostergasse,,,,way
+"Klosterneuburger Weg",,,,way
+Kloßstraße,,,,way
+Klucksgraben,,,,way
+Knaurstraße,,,,way
+"Knauthainer Straße",,,,way
+"Knautnaundorfer Anger",,,,way
+"Knautnaundorfer Straße",,,,way
+Knesebeckstraße,,,,way
+Knöflerstraße,,,,way
+Knopstraße,,,,way
+Knuthstraße,,,,way
+"Koburger Brücke",,,,way
+"Koburger Straße",,,,way
+Kohlenstraße,,,,way
+Kohlgartenstraße,,,,way
+Kohlgartenweg,,,,way
+Kohlweg,,,,way
+"Kohrener Straße",,,,way
+Kolbestraße,,,,way
+Kolmstraße,,,,way
+Koloniestraße,,,,way
+Kolonnadenstraße,,,,way
+Kolpingweg,,,,way
+"Kömmlitzer Weg",,,,way
+Königshauspassage,,,,way
+Königsteinstraße,,,,way
+Könneritzbrücke,,,,way
+Könneritzstraße,,,,way
+Konrad-Hagen-Platz,,,,way
+Konstantinstraße,,,,way
+Kornblumenweg,,,,way
+Körnerplatz,,,,way
+Körnerweg,,,,way
+Kosakenweg,,,,way
+"Kösner Straße",,,,way
+"Kossaer Straße",,,,way
+"Köstritzer Straße",,,,way
+"Kötzschauer Straße",,,,way
+Krähenweg,,,,way
+"Krakauer Straße",,,,way
+Krätzbergstraße,,,,way
+Krautbreite,,,,way
+Krautgartenweg,,,,way
+"Kremser Weg",,,,way
+Kresseweg,,,,way
+"Kretschmanns Hof",,,,way
+Kreuzdornstraße,,,,way
+Kreuzstraße,,,,way
+Kröbelstraße,,,,way
+Krokerstraße,,,,way
+Krokusweg,,,,way
+Krönerstraße,,,,way
+"Krostitzer Weg",,,,way
+Krystallpalaststraße,,,,way
+Kuchengartenstraße,,,,way
+Küchenholzallee,,,,way
+Kuckuckweg,,,,way
+Kuhturmallee,,,,way
+Kuhturmstraße,,,,way
+"Kulkwitzer Straße",,,,way
+"Kulmbacher Straße",,,,way
+Kümmelweg,,,,way
+Kunadstraße,,,,way
+Kuntzschmannstraße,,,,way
+Kunzestraße,,,,way
+Kupfergasse,,,,way
+"Kursdorfer Weg",,,,way
+Kurt-Eisner-Straße,,,,way
+Kurt-Hänselmann-Weg,,,,way
+Kurt-Krah-Straße,,,,way
+Kurt-Kresse-Straße,,,,way
+Kurt-Masur-Platz,,,,way
+"Kurze Straße",,,,way
+Kutschbachweg,,,,way
+Kutscherweg,,,,way
+Kutschweg,,,,way
+"Labyrinth Leipzig",,,,way
+Lagerhofstraße,,,,way
+Lähnestraße,,,,way
+Lampebrücke,,,,way
+Landhausstraße,,,,way
+"Landsberger Straße",,,,way
+Landwaisenhausstraße,,,,way
+"Lange Reihe",,,,way
+"Lange Straße",,,,way
+"Lange Trift",,,,way
+Lärchenweg,,,,way
+Laternenweg,,,,way
+Laubestraße,,,,way
+"Lauchstädter Straße",,,,way
+"Lauerscher Weg",,,,relation
+Laurentiusstraße,,,,way
+"Lauschaer Weg",,,,way
+"Lausener Bogen",,,,way
+"Lausener Dorfplatz",,,,way
+"Lausener Straße",,,,way
+"Lausner Weg",,,,way
+Lautensteg,,,,way
+Lavendelweg,,,,way
+Lehdenweg,,,,way
+Lehrpfad,,,,way
+Leibnitzstraße,,,,way
+Leidholdstraße,,,,way
+Leinestraße,,,,way
+Leinewinkel,,,,way
+"Leipziger Straße",,,,way
+"Leisniger Straße",,,,way
+"Lemseler Weg",,,,way
+"Lengefelder Straße",,,,way
+Leonhard-Frank-Straße,,,,way
+Leonhardtstraße,,,,way
+Leopoldstraße,,,,way
+Leplaystraße,,,,way
+Lerchengrund,,,,way
+Lercheninsel,,,,way
+Lerchenrain,,,,way
+Lerchenweg,,,,way
+Lessingweg,,,,way
+"Leutzscher Allee",,,,way
+"Leutzscher Straße",,,,way
+Lewienstraße,,,,way
+Libellenstraße,,,,way
+Libellenweg,,,,way
+Libertastraße,,,,way
+"Lichtenfelser Straße",,,,way
+Lidicestraße,,,,way
+"Liebensteiner Weg",,,,way
+"Liebertwolkwitzer Markt",,,,way
+"Liebertwolkwitzer Straße",,,,way
+Liebfrauenstraße,,,,way
+Ligusterweg,,,,way
+Liliensteinstraße,,,,way
+Lilienstraße,,,,way
+Lilienweg,,,,way
+Limburgerstraße,,,,way
+Lindenallee,,,,way
+"Lindenauer Markt",,,,way
+"Lindenauer Straße",,,,way
+"Lindennaundorfer Weg",,,,way
+Lindenpark,,,,way
+Lindenstraße,,,,way
+"Lindenthaler Hauptstraße",,,,way
+"Lindenthaler Straße",,,,way
+Linkelstraße,,,,way
+Lintacherstraße,,,,way
+Lionstraße,,,,way
+Lipinskistraße,,,,way
+"Lippendorfer Straße",,,,way
+"Liprandisdorfer Straße",,,,way
+Lise-Meitner-Straße,,,,way
+Liselotte-Herrmann-Straße,,,,way
+"Löbauer Straße",,,,way
+Lobelienweg,,,,way
+"Lobensteiner Straße",,,,way
+"Lobstädter Straße",,,,way
+Lochmannstraße,,,,way
+Loews,,,,way
+Logauweg,,,,way
+Löhrstraße,,,,way
+Lorenzstraße,,,,way
+"Lößniger Straße",,,,way
+Lotzestraße,,,,way
+Louis-Fürnberg-Straße,,,,way
+Louise-Otto-Peters-Allee,,,,way
+Löwenzahnweg,,,,way
+Luchspfad,,,,way
+"Luckaer Straße",,,,way
+Lucknerstraße,,,,way
+Lüderstraße,,,,way
+Ludwig-Hupfeld-Straße,,,,way
+Ludwig-Jahn-Straße,,,,way
+"Ludwigsburger Straße",,,,way
+Ludwigstraße,,,,way
+Luftschiffstraße,,,,way
+Lukasstraße,,,,way
+Lupinenweg,,,,way
+Luppenaue,,,,way
+Luppenstraße,,,,way
+Luppesteg,,,,way
+"Lurgensteins Steg",,,,way
+Lutherstraße,,,,way
+"Lützner Plan",,,,way
+"Lützner Straße",,,,way
+"Lützschenaer Straße",,,,way
+"Lyoner Straße",,,,way
+"Macherner Straße",,,,way
+Mädlerpassage,,,,way
+Magazingasse,,,,way
+Magdalenenstraße,,,,way
+"Magdeborner Straße",,,,way
+"Magdeburger Straße",,,,way
+Magnusstraße,,,,way
+Mahlmannstraße,,,,way
+Maienweg,,,,way
+Maiglöckchenweg,,,,way
+Maikäferweg,,,,way
+"Mainzer Straße",,,,way
+Malachitstraße,,,,way
+Malteserstraße,,,,way
+Malvenweg,,,,way
+"Mannheimer Straße",,,,way
+Marbachstraße,,,,way
+"Marcher Straße",,,,way
+Marcusgasse,,,,way
+Margaretenstraße,,,,way
+Margeritenweg,,,,way
+Maria-Grollmuß-Straße,,,,way
+Mariannenpark,,,,way
+"Marienberger Straße",,,,way
+Marienbrunnenstraße,,,,way
+Marienplatz,,,,way
+Marienweg,,,,way
+Markgrafenstraße,,,,way
+"Markkleeberger Straße",,,,way
+"Markranstädter Straße",,,,way
+Markt,,,,relation
+Marktgalerie,,,,way
+Marktstraße,,,,way
+Marpergerstraße,,,,way
+Marschnerstraße,,,,way
+Marsweg,,,,way
+Martin-Herrmann-Straße,,,,way
+Martinsbogen,,,,way
+Martinshöhe,,,,way
+Mathiesenstraße,,,,way
+Mathildenstraße,,,,way
+Matthäikirchhof,,,,way
+Maulbeerweg,,,,way
+Maulwurfweg,,,,way
+Max-Borsdorf-Straße,,,,way
+Max-Seyfert-Straße,,,,way
+Maximilianallee,,,,way
+Mechlerstraße,,,,way
+"Mecklenburger Straße",,,,way
+"Meininger Ring",,,,way
+Meisenweg,,,,way
+"Meißner Straße",,,,way
+Melanchthonstraße,,,,way
+Melchiorstraße,,,,way
+Melchthalweg,,,,way
+Melissenweg,,,,way
+"Melker Weg",,,,way
+"Melscher Straße",,,,way
+Menckestraße,,,,way
+Mendelejewstraße,,,,way
+Mendelssohnufer,,,,way
+Menzingenweg,,,,way
+"Merkwitzer Landstraße",,,,way
+"Merseburger Straße",,,,way
+Messehofpassage,,,,way
+"Meusdorfer Straße",,,,way
+"Meyer'sche Häuser Kleinzschocher",,,,relation
+Michael-Kazmierczak-Straße,,,,way
+Miekeweg,,,,way
+Mierendorffstraße,,,,way
+Milanweg,,,,way
+Milchgasse,,,,way
+"Miltenberger Straße",,,,way
+"Miltitzer Allee",,,,way
+"Miltitzer Dorfstraße",,,,way
+"Miltitzer Straße",,,,way
+"Mistelbacher Weg",,,,way
+Mistelbogen,,,,way
+Mitschurinring,,,,way
+Mittelgasse,,,,way
+Mittelring,,,,way
+Mittelstraße,,,,way
+Mittelweg,,,,way
+"Mobile 1 S",,,,way
+"Mockauer Ring",,,,way
+"Mockauer Straße",,,,way
+"Möckernsche Allee",,,,way
+"Möckernsche Straße",,,,way
+"Möckernscher Weg",,,,way
+"Modul 10: Bunkerüberfahrten",,,,way
+"Modul 11: Erdstrecke",,,,way
+"Modul 12: Hügellandschaft",,,,way
+"Modul 12: Panzerbrücke",,,,way
+"Modul 13: Schlammweg",,,,way
+"Modul 14: Knüppeldamm",,,,way
+"Modul 1: Schotterstrecke",,,,way
+"Modul 2: Sandstrecke",,,,way
+"Modul 3: Baumstammsimulation",,,,way
+"Modul 4: Extremrampe",,,,way
+"Modul 5: Grabenquerung",,,,way
+"Modul 6: Steintreppe",,,,way
+"Modul 7: Walddurchfahrt",,,,way
+"Modul 8: Schräghangbahn",,,,way
+"Modul 9: Wallüberfahrt",,,,way
+Mohnweg,,,,way
+"Mölkauer Dorfplatz",,,,way
+"Mölkauer Straße",,,,way
+Moltkestraße,,,,way
+Moltrechtstraße,,,,way
+Mommsenstraße,,,,way
+Monarchenhügel,,,,way
+Moosbeerweg,,,,way
+Moränenweg,,,,way
+Morellenweg,,,,way
+Morgensternstraße,,,,way
+Morungenstraße,,,,way
+Moschelesstraße,,,,way
+Mosenthinstraße,,,,way
+Mothesstraße,,,,way
+Mottelerstraße,,,,way
+"Mückenhainer Weg",,,,way
+Mückensteg,,,,way
+Mühlbergsiedlung,,,,way
+Mühlenplatz,,,,way
+Mühlenstraße,,,,way
+Mühlenweg,,,,way
+"Mühlhäuser Ring",,,,way
+Mühlholzgasse,,,,way
+Mühlholzsteg,,,,way
+Mühligstraße,,,,way
+Mühlparkweg,,,,way
+Mühlstraße,,,,way
+Mühlweg,,,,way
+Muldentalstraße,,,,way
+Müllerring,,,,way
+Münzgasse,,,,way
+Nachtigallenhain,,,,way
+Nachtigallenweg,,,,way
+Nagelstraße,,,,way
+Nahlesteg,,,,way
+"Narsdorfer Straße",,,,way
+Narzissenweg,,,,way
+Naschmarkt,,,,relation
+Natalienstraße,,,,way
+Nathanaelstraße,,,,way
+Nathusiusstraße,,,,way
+Natonekstraße,,,,way
+Naturlehrpfad,,,,way
+"Naumburger Straße",,,,way
+Naundörfchen,,,,way
+"Naunhofer Landstraße",,,,way
+Nelkenweg,,,,way
+Neptunweg,,,,way
+"Nerchauer Straße",,,,way
+Nernststraße,,,,way
+Neubauernstraße,,,,way
+"Neuburghausener Weg",,,,way
+Neudorfgasse,,,,way
+"Neue Hallesche Straße",,,,way
+"Neue Leipziger Straße",,,,way
+"Neue Linie",,,,way
+"Neue Straße",,,,way
+"Neuenburger Weg",,,,way
+"Neuer Ring",,,,way
+"Neuer Weg",,,,way
+Neumarkt,,,,way
+"Neunkirchener Straße",,,,way
+"Neuscherbitzer Gasse",,,,way
+"Neustädter Markt",,,,way
+"Neustädter Straße",,,,way
+"Neutzscher Straße",,,,way
+Nibelungenring,,,,way
+Nickelmannweg,,,,way
+Niederkirchnerbrücke,,,,way
+Niemeyerstraße,,,,way
+Nienborgstraße,,,,way
+Nieritzstraße,,,,way
+Nikischstraße,,,,way
+Nikolai-Rumjanzew-Straße,,,,way
+Nikolaikirchhof,,,,relation
+Nikolaistraße,,,,way
+Nimrodstraße,,,,way
+Nixenweg,,,,way
+Nollendorfstraße,,,,way
+Nonnenmühlgasse,,,,way
+Nonnenstraße,,,,way
+Nonnenweg,,,,way
+Nord-Weg,,,,way
+"Norderneyer Weg",,,,way
+"Nordhäuser Weg",,,,way
+Nordplatz,,,,way
+Nordstraße,,,,way
+Nordweg,,,,way
+"Nürnberger Straße",,,,way
+Nußbaumallee,,,,way
+Nußbaumweg,,,,way
+Oberdorfstraße,,,,way
+"Obere Mühlenstraße",,,,way
+"Obere Nordstraße",,,,way
+"Oberhofer Weg",,,,way
+Oberholzstraße,,,,way
+Oberläuterstraße,,,,way
+"Obernaundorfer Straße",,,,way
+Ochsenweg,,,,way
+Odermannstraße,,,,way
+"Oelsnitzer Straße",,,,way
+"Oelßners Hof",,,,way
+Oelßnerstraße,,,,way
+Oertgering,,,,way
+"Offenburger Straße",,,,way
+"Olbernhauer Straße",,,,way
+"Olchinger Straße",,,,way
+"Oldenburger Straße",,,,way
+Oleanderweg,,,,way
+Ölhafenstraße,,,,way
+Onckenstraße,,,,way
+Opalstraße,,,,way
+Opferweg,,,,way
+Orchideenweg,,,,way
+"Orenburger Weg",,,,way
+Ortrunweg,,,,way
+"Oschatzer Straße",,,,way
+Oskar-Calov-Straße,,,,way
+Ost-Weg,,,,way
+Ostende,,,,way
+Österreicherweg,,,,way
+Ostheimstraße,,,,way
+Osthöhe,,,,way
+Ostplatz,,,,way
+Oststraße,,,,way
+Ostwaldstraße,,,,way
+Oswald-Kahnt-Ring,,,,way
+Otterstraße,,,,way
+Otto-Heinze-Straße,,,,way
+Otto-Militzer-Straße,,,,way
+Otto-Schmiedt-Straße,,,,way
+Otto-Thiele-Straße,,,,way
+Packhofstraße,,,,way
+Pahlenweg,,,,way
+Palmengartenbrücke,,,,way
+Panitzstraße,,,,way
+Pansastraße,,,,way
+Papiermühlstraße,,,,way
+"Papitzer Straße",,,,way
+Pappelblick,,,,way
+Pappelhof,,,,way
+Pappelweg,,,,way
+Parabolica,,,,way
+Parkallee,,,,way
+"Parkbogen Ost",,,,way
+Parkring,,,,way
+Parkstraße,,,,way
+Parkweg,,,,way
+Parthenstraße,,,,way
+Pater-Aurelius-Platz,,,,way
+Pater-Gordian-Straße,,,,way
+Paul-Ermler-Weg,,,,way
+Paul-Ernst-Straße,,,,way
+Paul-Flechsig-Straße,,,,way
+Paul-Herbst-Weg,,,,way
+Paul-Klöpsch-Straße,,,,way
+Paul-Küstner-Straße,,,,way
+Paul-Langheinrich-Straße,,,,way
+Paul-Michael-Straße,,,,way
+Paul-Schneider-Straße,,,,way
+Paulinengrund,,,,way
+Paulinenstraße,,,,way
+Paulinerweg,,,,way
+"Paunsdorfer Allee",,,,way
+"Paunsdorfer Straße",,,,way
+Paußnitzsteg,,,,way
+Paußnitzstraße,,,,way
+Peilickestraße,,,,way
+Pelzgasse,,,,way
+Penckstraße,,,,way
+Perlpilzweg,,,,way
+Perrestraße,,,,way
+Pestalozzistraße,,,,way
+Peter-Breuer-Weg,,,,way
+Peterskirchhof,,,,way
+Peterssteg,,,,way
+Peterssteinweg,,,,way
+Petersstraße,,,,way
+Pettenkoferstraße,,,,way
+Petunienweg,,,,way
+"Petzscher Straße",,,,way
+"Pfaffendorfer Straße",,,,way
+Pfaffensteinstraße,,,,way
+Pfaffenweg,,,,way
+Pfarrer-Paul-Straße,,,,way
+Pfarrholzstraße,,,,way
+Pfarrweg,,,,way
+Pfeilstraße,,,,way
+Pferdnerstraße,,,,way
+Pfingstweide,,,,way
+Pflaumenallee,,,,way
+Pflaumestraße,,,,way
+Pflugkstraße,,,,way
+Philipp-Reis-Straße,,,,way
+Phoenixweg,,,,way
+Pilzanger,,,,way
+Pirolweg,,,,way
+Pistorisstraße,,,,way
+Pitschkestraße,,,,way
+Pittlerstraße,,,,way
+Plantagenweg,,,,way
+Platanenstraße,,,,way
+Platanenweg,,,,way
+Platnerstraße,,,,way
+Platostraße,,,,way
+"Plauensche Straße",,,,way
+"Plaußiger Dorfstraße",,,,way
+"Plaußiger Straße",,,,way
+Plautstraße,,,,way
+"Plösener Straße",,,,way
+Ploßstraße,,,,way
+"Plovdiver Straße",,,,way
+"Podelwitzer Straße",,,,way
+Poetenweg,,,,way
+Pögnerstraße,,,,way
+Pohlentzstraße,,,,way
+Pohlestraße,,,,way
+Polenweg,,,,way
+Pölitzstraße,,,,way
+Polluxweg,,,,way
+Polygraphplatz,,,,way
+Pommernstraße,,,,way
+Poniatowskiplan,,,,way
+Ponickaustraße,,,,way
+Popitzweg,,,,way
+Porschestraße,,,,way
+"Pörstener Straße",,,,way
+"Portitzer Allee",,,,way
+"Portitzer Straße",,,,way
+"Portitzer Winkel",,,,way
+Portitzmühlweg,,,,way
+Porzcikstraße,,,,way
+Posadowskyanlagen,,,,way
+Pösgraben,,,,way
+"Pösnaer Straße",,,,way
+Postreitergasse,,,,way
+Poststraße,,,,way
+Potschkaustraße,,,,way
+"Pötzschker Weg",,,,way
+"Prager Straße",,,,way
+Preiselbeerweg,,,,way
+Preußenstraße,,,,way
+Preußergäßchen,,,,way
+Prießnitzstraße,,,,way
+Primavesistraße,,,,way
+Primelweg,,,,way
+Prinzenweg,,,,way
+Probsteistraße,,,,way
+"Probstheidaer Straße",,,,way
+Promenade,,,,way
+"Pröttitzer Weg",,,,way
+Prünstraße,,,,way
+"Püchauer Straße",,,,way
+Pufendorfstraße,,,,way
+Quartiersplatz,,,,way
+"Quasnitzer Höhe",,,,way
+"Quasnitzer Weg",,,,way
+Queckstraße,,,,way
+"Quedlinburger Straße",,,,way
+Querbahnsteig,,,,relation
+Quermaße,,,,way
+Querstraße,,,,way
+Querweg,,,,way
+Quittenweg,,,,way
+Rabenerstraße,,,,way
+Rabensteinplatz,,,,way
+Rabenweg,,,,way
+Rabet,,,,way
+"Rackwitzer Straße",,,,way
+"Radefelder Allee",,,,way
+"Radefelder Straße",,,,way
+"Radefelder Weg",,,,way
+Radiusstraße,,,,way
+Raiffeisenstraße,,,,way
+Raimundstraße,,,,way
+"Ranstädter Steinweg",,,,way
+"Räpitzer Straße",,,,way
+Rapsweg,,,,way
+Rapunzelweg,,,,way
+"Raschwitzer Straße",,,,way
+Rasenweg,,,,way
+Rathausring,,,,way
+Rathausstraße,,,,way
+Rathenaustraße,,,,way
+Ratsfreischulstraße,,,,way
+Ratzelstraße,,,,way
+Raustraße,,,,way
+Rebhuhnsteig,,,,way
+Regenbogen,,,,way
+Reginenstraße,,,,way
+"Rehbacher Anger",,,,way
+"Rehbacher Straße",,,,way
+Rehpfad,,,,way
+Rehwagenstraße,,,,way
+"Reichenberger Straße",,,,way
+Reichsbahnerstraße,,,,way
+Reichsstraße,,,,way
+Reiherweg,,,,way
+Reineckeplatz,,,,way
+Reineckestraße,,,,way
+Reinhardtstraße,,,,way
+Reinhold-Krüger-Straße,,,,way
+Reinhold-Schulze-Straße,,,,way
+Reiterallee,,,,way
+Renetteweg,,,,way
+Renftstraße,,,,way
+Renkwitzstraße,,,,way
+Rennbahnweg,,,,way
+Renoirstraße,,,,way
+Resedaweg,,,,way
+Residenzstraße,,,,way
+"Reudnitzer Straße",,,,way
+Reuningstraße,,,,way
+Richard-Dittrich-Straße,,,,way
+Richard-Lehmann-Straße,,,,way
+Richard-Leisebein-Straße,,,,way
+Richard-Springer-Weg,,,,way
+Richard-Wagner-Platz,,,,relation
+Riebeckstraße,,,,way
+Riemannstraße,,,,way
+"Riesaer Straße",,,,way
+Riesenweg,,,,way
+Rietschelstraße,,,,way
+Rietzschkebogen,,,,way
+Rietzschkegrund,,,,way
+Rietzschkeweg,,,,way
+Rietzschkewiesen,,,,way
+Ringelnatzweg,,,,way
+Ringstraße,,,,way
+Ringweg,,,,way
+Rippachtalstraße,,,,way
+Ritter-Pflugk-Straße,,,,way
+Rittergutsstraße,,,,way
+Ritterlingsweg,,,,way
+Ritterpassage,,,,way
+Ritterspornweg,,,,way
+Ritterstraße,,,,way
+Robert-Hanf-Weg,,,,way
+Robert-Koch-Straße,,,,way
+Robinienweg,,,,way
+Rochlitzstraße,,,,way
+"Röckener Straße",,,,way
+Rodelandstraße,,,,way
+Rodelbahn,,,,way
+Rödelstraße,,,,way
+Roggenring,,,,way
+Rohrteichstraße,,,,way
+Rolf-Axen-Straße,,,,way
+Rollerweg,,,,way
+Romain-Rolland-Weg,,,,way
+"Römhilder Weg",,,,way
+Röntgenstraße,,,,way
+Rosa-Luxemburg-Straße,,,,way
+Roscherstraße,,,,way
+Roseggerweg,,,,way
+Rosenapfelweg,,,,way
+Rosenbaumstraße,,,,way
+Rosenholzweg,,,,way
+Rosenmüllerstraße,,,,way
+Rosenowstraße,,,,way
+Rosenstraße,,,,way
+Rosentalgasse,,,,way
+Rosenweg,,,,way
+Rosestraße,,,,way
+Rosmarinweg,,,,way
+"Rostocker Straße",,,,way
+"Roßlauer Straße",,,,way
+Roßmarkt,,,,way
+Roßmarktstraße,,,,way
+Roßplatz,,,,way
+Roßstraße,,,,way
+Rotbuchenweg,,,,way
+Rotdornstraße,,,,way
+Roteichenallee,,,,way
+Rotfuchsstraße,,,,way
+"Rothenburger Straße",,,,way
+Rotheplatz,,,,way
+"Röthische Straße",,,,way
+Rotkäppchenweg,,,,way
+Rotkehlchenweg,,,,way
+Rotkleeweg,,,,way
+Rotschwänzechenweg,,,,way
+Rousseaustraße,,,,way
+Rübezahlweg,,,,way
+Rubinstraße,,,,way
+Rückertstraße,,,,way
+"Rückmarsdorfer Straße",,,,way
+Rudolf-Breitscheid-Straße,,,,way
+Rudolph-Herrmann-Straße,,,,way
+Rudolph-Sack-Straße,,,,way
+Rudolphstraße,,,,way
+"Rügener Straße",,,,way
+Ruheplatz,,,,way
+Rundkapellenweg,,,,way
+"Rundweg Gondwanaland",,,,way
+Russenstraße,,,,way
+Ruststraße,,,,way
+"S-Bahnhof MDR",,,,relation
+"S-Bahnhof Wahren",,,,relation
+"Saalecker Straße",,,,way
+"Saalfelder Straße",,,,way
+Saarbrückenstraße,,,,way
+"Saarländer Straße",,,,way
+"Saarlouiser Straße",,,,way
+Sabinenstraße,,,,way
+Sachsenbrücke,,,,way
+Sachsenhöhe,,,,way
+Sachsenseite,,,,way
+Sachsenstraße,,,,way
+Safranweg,,,,way
+Salamanderstraße,,,,way
+Salbeiweg,,,,way
+Salomonstraße,,,,way
+Salzhandelsstraße,,,,way
+Salzmannstraße,,,,way
+Salzstraße,,,,way
+Salzweg,,,,way
+Samuel-Lampel-Straße,,,,way
+Sandberg,,,,way
+Sanddornweg,,,,way
+Sandgrube,,,,way
+Sandgrubenweg,,,,way
+Sandmännchenweg,,,,way
+Sandweg,,,,way
+Saphirstraße,,,,way
+Sasstraße,,,,relation
+Sattelhofstraße,,,,way
+Sattlerweg,,,,way
+Saturnstraße,,,,way
+Saxoniastraße,,,,way
+Schacherstraße,,,,way
+Schachtstraße,,,,way
+Schadowstraße,,,,way
+Schäferweg,,,,way
+"Schandauer Weg",,,,way
+Scharnhorststraße,,,,way
+Schatzweg,,,,way
+Schauerstraße,,,,way
+Schenderleinstraße,,,,way
+Scheumannstraße,,,,way
+Schiebestraße,,,,way
+"Schildberger Weg",,,,way
+Schillerplatz,,,,way
+Schillersteg,,,,way
+Schillerweg,,,,way
+Schillingstraße,,,,way
+Schinkelstraße,,,,way
+Schirmerstraße,,,,way
+"Schkeitbarer Weg",,,,way
+"Schkeuditzer Straße",,,,way
+"Schkorlopper Straße",,,,way
+"Schladitzer Straße",,,,way
+Schlehdornweg,,,,way
+Schlehenweg,,,,way
+Schlesierstraße,,,,way
+"Schleußiger Weg",,,,way
+Schlippe,,,,way
+Schlößchenweg,,,,way
+Schloßgasse,,,,way
+Schloßweg,,,,way
+"Schmaler Weg",,,,way
+"Schmalkaldener Weg",,,,way
+Schmetterlingsweg,,,,way
+Schmidstraße,,,,way
+Schmidt-Rühl-Straße,,,,way
+"Schmiedeberger Straße",,,,way
+Schmiedegasse,,,,way
+Schmiedestraße,,,,way
+Schmutzlerstraße,,,,way
+Schneeballweg,,,,way
+"Schneeberger Straße",,,,way
+"Schneedeponie Vorfeld 4",,,,way
+Schneewittchenweg,,,,way
+Schneiderstraße,,,,way
+Schnittergasse,,,,way
+Schomburgkstraße,,,,way
+"Schönauer Landstraße",,,,way
+"Schönauer Ring",,,,way
+"Schönauer Straße",,,,way
+"Schönauer Weg",,,,way
+"Schönauer Welle",,,,way
+Schönauer/Ratzelstraße,,,,way
+Schönbachstraße,,,,way
+Schönbergstraße,,,,way
+"Schönefelder Allee",,,,way
+"Schönefelder Straße",,,,way
+Schongauerstraße,,,,way
+Schorlemmerstraße,,,,way
+"Schorndorfer Weg",,,,way
+Schrägweg,,,,way
+Schrammsteinstraße,,,,way
+Schreberstraße,,,,way
+Schreiberstraße,,,,way
+Schreinerweg,,,,way
+Schröderstraße,,,,way
+Schubarthstraße,,,,way
+Schubertstraße,,,,way
+Schuhmachergäßchen,,,,way
+Schulstraße,,,,way
+Schulweg,,,,way
+Schützenhausstraße,,,,way
+Schützenstraße,,,,way
+Schützstraße,,,,way
+"Schwabacher Straße",,,,way
+Schwägrichenstraße,,,,way
+Schwanenweg,,,,way
+Schwartzestraße,,,,way
+Schwarzackerstraße,,,,way
+Schwarzdornweg,,,,way
+"Schwarze Brücke",,,,way
+"Schwarzer Weg",,,,way
+Schwedenstraße,,,,way
+"Schweinfurter Straße",,,,way
+Schweizerbogen,,,,way
+Schwindstraße,,,,way
+Schwylststraße,,,,way
+Scipiostraße,,,,way
+"Seebenischer Straße",,,,way
+Seebogen,,,,way
+Seeburgweg,,,,way
+"Seegeritzer Straße",,,,way
+"Seegeritzer Weg",,,,way
+"Seehausener Straße",,,,way
+Seelenbinderstraße,,,,way
+Seffnerstraße,,,,way
+Seidengasse,,,,way
+"Seifertshainer Straße",,,,way
+"Seiffener Straße",,,,way
+Seilerweg,,,,way
+Seitengasse,,,,way
+Seitenstraße,,,,way
+Seitenweg,,,,way
+"Sellerhäuser Straße",,,,way
+"Selliner Passage",,,,way
+"Selliner Straße",,,,way
+Senefelderstraße,,,,way
+"Sesenheimer Straße",,,,way
+Seumestraße,,,,way
+Shakespeareplatz,,,,way
+Siedlereck,,,,way
+Siedlerweg,,,,way
+Siemensstraße,,,,way
+Siemeringstraße,,,,way
+Sigebandweg,,,,way
+Sigismundstraße,,,,way
+Silcherstraße,,,,way
+Singdrosselweg,,,,way
+Siriusweg,,,,way
+Sittichweg,,,,way
+Slevogtstraße,,,,way
+Smaragdstraße,,,,way
+"Sommerfelder Straße",,,,way
+"Sommerfelder Weg",,,,way
+Sommerlindenstraße,,,,way
+"Sonneberger Weg",,,,way
+Sonnenblumenweg,,,,way
+Sonnengasse,,,,way
+Sonnenweg,,,,way
+Sonnenwinkel,,,,way
+Sophienstraße,,,,way
+Sorbenstraße,,,,way
+"Sosaer Straße",,,,way
+Spalierweg,,,,way
+Spatzenweg,,,,way
+Spechtweg,,,,way
+Sperlingsgasse,,,,way
+Sperlingsgrund,,,,way
+Sperontesstraße,,,,way
+Spetlakstraße,,,,way
+"Spielplatz Zingster Straße",,,,way
+Spinnereistraße,,,,way
+Spittastraße,,,,way
+Spitzwegstraße,,,,way
+Sporergäßchen,,,,way
+Sportplatzstraße,,,,way
+Sportplatzweg,,,,way
+Sprikkenweg,,,,way
+Sprikkenwinkel,,,,way
+Springerstraße,,,,way
+Staffelsteinstraße,,,,way
+"Stahmelner Allee",,,,way
+"Stahmelner Anger",,,,way
+"Stahmelner Höhe",,,,way
+"Stahmelner Straße",,,,way
+Stallbaumstraße,,,,way
+Stammerstraße,,,,way
+"Stammgleis PX",,,,way
+Stannebeinplatz,,,,way
+Starenweg,,,,way
+Starweg,,,,way
+Stauffacherweg,,,,way
+Stefan-Zweig-Straße,,,,way
+"Steig F",,,,relation
+Steinbachweg,,,,way
+"Steinberger Straße",,,,way
+Steinbergstraße,,,,way
+Steingartenweg,,,,way
+Steinpilzweg,,,,way
+Steinweg,,,,way
+Stentzlerstraße,,,,way
+Sternbachstraße,,,,way
+Sternenstraße,,,,way
+Sternenwinkel,,,,way
+Sterntalerweg,,,,way
+Sternwartenstraße,,,,way
+Sternwartenweg,,,,way
+Steyberweg,,,,way
+Stieglitzweg,,,,way
+Stifterstraße,,,,way
+Stiftsstraße,,,,way
+Stockartstraße,,,,way
+Stöckelstraße,,,,way
+Stockmannstraße,,,,way
+Stockstraße,,,,way
+"Stollberger Straße",,,,way
+Stollestraße,,,,way
+"Störmthaler Straße",,,,way
+"Stötteritzer Landstraße",,,,way
+"Stötteritzer Straße",,,,way
+Stoyestraße,,,,way
+"Stralsunder Straße",,,,way
+"Straße am Park",,,,way
+"Straße am See",,,,way
+"Straße der 53",,,,way
+"Straße der Einheit",,,,way
+"Straße des 17. Juni",,,,relation
+"Straße des 18. Oktober",,,,way
+"Strelitzer Straße",,,,way
+Strohsackpassage,,,,way
+"Stünz-Mölkauer Weg",,,,way
+"Stünzer Straße",,,,way
+"Stünzer Weg",,,,way
+"Stuttgarter Allee",,,,way
+Südblick,,,,way
+Süderhexweg,,,,way
+Südplatz,,,,way
+Südstraße,,,,way
+Südtangente,,,,way
+"Suhler Straße",,,,way
+"Sulzbacher Straße",,,,way
+"Sunset Bend",,,,way
+"Suntory Corner",,,,way
+"Suzuka S",,,,way
+Swiftstraße,,,,way
+"Sylter Straße",,,,way
+Syrakusweg,,,,way
+Talstraße,,,,way
+Talweg,,,,way
+Tannenwaldstraße,,,,way
+Tannenweg,,,,way
+"Täschners Garten",,,,way
+Täschnerstraße,,,,way
+Täubchenweg,,,,way
+Taubenbergweg,,,,way
+"Tauchaer Straße",,,,way
+Taurusweg,,,,way
+Teerosenweg,,,,way
+Teichmannstraße,,,,way
+Teichstraße,,,,way
+Teichweg,,,,way
+Tellweg,,,,way
+"Tennstedter Weg",,,,way
+Thaerstraße,,,,way
+Thärigenstraße,,,,way
+Theaterpassage,,,,way
+"Theklaer Straße",,,,way
+Theobald-Beer-Straße,,,,way
+Theodor-Heuss-Straße,,,,way
+Theodor-Neubauer-Straße,,,,way
+Theodor-Voigt-Straße,,,,way
+Theresienstraße,,,,way
+"Thierbacher Straße",,,,way
+Thieriotstraße,,,,way
+Thietmarstraße,,,,way
+Thomas-Wagner-Straße,,,,way
+Thomasgasse,,,,way
+Thomasiusstraße,,,,way
+Thomaskirchhof,,,,way
+"Thonberger Straße",,,,way
+"Threnaer Straße",,,,way
+Thümmelstraße,,,,way
+Thünenstraße,,,,way
+"Thüringer Straße",,,,way
+Thymianweg,,,,way
+"Tiefe Straße",,,,way
+Tintlingsweg,,,,way
+Tirolerweg,,,,way
+Titaniaweg,,,,way
+Topasstraße,,,,way
+Töpferstraße,,,,way
+Töpferweg,,,,way
+"Torgauer Platz",,,,way
+"Torgauer Straße",,,,way
+Torstensonring,,,,way
+Torweg,,,,way
+Toskastraße,,,,way
+Tränkengraben,,,,way
+"Trattendorfer Weg",,,,way
+Traubengasse,,,,way
+"Travniker Straße",,,,way
+Triftsiedlung,,,,way
+Triftstraße,,,,way
+Triftweg,,,,way
+Trinitatisplatz,,,,way
+Trinitatisstraße,,,,way
+Trögelweg,,,,way
+Tröndlinring,,,,way
+Trötzschelstraße,,,,way
+"Trusetaler Weg",,,,way
+Tschechenbogen,,,,way
+Tucholskystraße,,,,way
+Tulpenweg,,,,way
+Türkisstraße,,,,way
+Turmalinstraße,,,,way
+Turmgutstraße,,,,way
+Turmweg,,,,way
+Turnerstraße,,,,way
+Uferstraße,,,,way
+Uferweg,,,,way
+Uhlandstraße,,,,way
+Uhlandweg,,,,way
+Uhrigstraße,,,,way
+Uhuweg,,,,way
+Ulmenweg,,,,way
+"Ulmer Straße",,,,way
+Ulrichstraße,,,,way
+Undinenweg,,,,way
+Ungerstraße,,,,way
+Universitätsstraße,,,,way
+"Untere Mühlenstraße",,,,way
+"Untere Nordstraße",,,,way
+"Unterer Sandweg",,,,way
+Unterführung,,,,way
+Untergeschoss,,,,relation
+Uranusstraße,,,,way
+"Usedomer Straße",,,,way
+Veilchenweg,,,,way
+Verkehrsgarten,,,,way
+"Verlängerte Max-Liebermann-Straße",,,,way
+"Verlängerte Schwedenstraße",,,,way
+"Verlängerte Wilhelmstraße",,,,way
+"Verlauf der ehem. Start- und Landebahn 07/25",,,,way
+"Verlauf ehem. Parkposition",,,,way
+"Verlauf ehem. Prakposition",,,,way
+"Verlauf ehem. Rollweg",,,,way
+Verrinaweg,,,,way
+"Vetters Hof",,,,way
+Viaduktweg,,,,way
+"Victoria Turn",,,,way
+Vierackerwiesen,,,,way
+Viertelsweg,,,,way
+Vierzehn-Bäume-Weg,,,,way
+Virchowstraße,,,,way
+Vivaldistraße,,,,way
+Vlamenstraße,,,,way
+Voigtstraße,,,,way
+Volbedingstraße,,,,way
+Volckmarstraße,,,,way
+Volksgartenstraße,,,,way
+Vollhardtstraße,,,,way
+Voltairestraße,,,,way
+"Vor dem Hospitaltore",,,,way
+"Vordere Schlobachstraße",,,,way
+"Wachauer Straße",,,,way
+Wachberg,,,,way
+Wachbergallee,,,,way
+Wacholderweg,,,,way
+Wachsmuthstraße,,,,way
+Wachtelsteig,,,,way
+Wächtersteg,,,,way
+"Wahrener Straße",,,,way
+Waldbaurstraße,,,,way
+Waldblick,,,,way
+Waldemar-Götze-Straße,,,,way
+Waldkerbelstraße,,,,way
+Waldmeisterweg,,,,way
+Waldrebenweg,,,,way
+Waldstraße,,,,way
+Waldweg,,,,way
+Waldwinkel,,,,way
+Waldzieststraße,,,,way
+"Wall of fame",,,,way
+Walnußweg,,,,way
+Walter-Albrecht-Weg,,,,way
+Walter-Günther-Weg,,,,way
+Walter-Heinze-Straße,,,,way
+Walter-Heise-Straße,,,,way
+Walter-Markov-Ring,,,,way
+"Wangerooger Weg",,,,way
+Wartenburgstraße,,,,way
+Wärterweg,,,,way
+Wassertorbrücke,,,,way
+Wasserturmstraße,,,,way
+Wasserturmweg,,,,way
+Wasserwerkstraße,,,,way
+"Wasunger Straße",,,,way
+Watestraße,,,,way
+Watzdorfstraße,,,,way
+Weberknechtstraße,,,,way
+"Webers Hof",,,,way
+"Weg der Weisheit",,,,way
+"Weg der alten Kameraden",,,,way
+Wegastraße,,,,way
+Weheweg,,,,way
+Wehrmannstraße,,,,way
+Weidenbachplan,,,,way
+Weidenhof,,,,way
+Weidenhofweg,,,,way
+Weidenweg,,,,way
+Weidlichstraße,,,,way
+Weidmannstraße,,,,way
+Weidmannweg,,,,way
+Weigandtweg,,,,way
+Weigelienstraße,,,,way
+"Weimarer Straße",,,,way
+Weinberg,,,,way
+Weinbergstraße,,,,way
+Weinligstraße,,,,way
+Weißdornstraße,,,,way
+Weißdornweg,,,,way
+"Weiße Brücke",,,,way
+"Weißenfelser Straße",,,,way
+Weizenweg,,,,way
+Wendelin-Hipler-Weg,,,,way
+Wendlerstraße,,,,way
+Werkstättenstraße,,,,way
+Werkstättenweg,,,,way
+Werkstraße,,,,way
+"Wertheimer Straße",,,,way
+West-Weg,,,,way
+Weststraße,,,,way
+"Wettiner Straße",,,,way
+Wetzelweg,,,,way
+Wiebelstraße,,,,way
+"Wiederitzscher Landstraße",,,,way
+"Wiederitzscher Straße",,,,way
+"Wiederitzscher Weg",,,,way
+Wielandstraße,,,,way
+Wieselsteig,,,,way
+Wieselstraße,,,,way
+Wiesenblumenweg,,,,way
+Wiesengrund,,,,way
+Wiesenrain,,,,way
+Wiesenring,,,,way
+Wiesenstraße,,,,way
+Wiesenweg,,,,way
+Wiesenwinkel,,,,way
+Wigandstraße,,,,way
+Wildbuschweg,,,,way
+Wildentensteig,,,,way
+Wildschweinpfad,,,,way
+Wilhelm-Busch-Straße,,,,way
+Wilhelm-Leuschner-Platz,,,,way
+Wilhelm-Michel-Straße,,,,way
+Wilhelm-Pfennig-Straße,,,,way
+Wilhelm-Plesse-Straße,,,,way
+Wilhelm-Sammet-Straße,,,,way
+Wilhelm-Seyfferth-Straße,,,,way
+Wilhelm-Wild-Straße,,,,way
+Wilhelm-Winkler-Straße,,,,way
+Wilhelminenstraße,,,,way
+Wilhelmsteg,,,,way
+Wilhelmstraße,,,,way
+Willi-Bredel-Straße,,,,way
+Willmar-Schwabe-Ring,,,,way
+Willmar-Schwabe-Straße,,,,way
+Willy-Brandt-Platz,,,,way
+"Wilsnacker Straße",,,,way
+Wincklerstraße,,,,way
+Windmühlenstraße,,,,way
+Windmühlenweg,,,,way
+"Windorfer Straße",,,,way
+"Windsheimer Straße",,,,way
+Wingertgasse,,,,way
+Winkelweg,,,,way
+Wintergartenstraße,,,,way
+Winzerweg,,,,way
+Wiprechtstraße,,,,way
+Wiskenstraße,,,,way
+"Wittenberger Straße",,,,way
+Witzgallstraße,,,,way
+Witzlebenstraße,,,,way
+"Wöbbeliner Straße",,,,way
+"Wognaundorfer Gasse",,,,way
+Wohlgemuthstraße,,,,way
+"Wohnkomplex 1",,,,relation
+"Wohnkomplex 2",,,,relation
+"Wohnkomplex 3",,,,relation
+"Wohnkomplex 4",,,,relation
+"Wohnkomplex 5.1",,,,relation
+"Wohnkomplex 7",,,,relation
+"Wohnkomplex 8",,,,relation
+"Wolfener Straße",,,,way
+Wolffstraße,,,,way
+Wolfgang-Heinze-Straße,,,,way
+"Wolfshainer Straße",,,,way
+"Wölkauer Weg",,,,way
+Wolkenweg,,,,way
+Wollkämmereistraße,,,,way
+Wöllnerstraße,,,,way
+"Wolteritzer Weg",,,,way
+"Wörlitzer Straße",,,,way
+Wundtstraße,,,,way
+"Würzburger Straße",,,,way
+"Wurzner Straße",,,,way
+Yorck-Diebitsch-Straße,,,,way
+Yorckstraße,,,,way
+Yuccaweg,,,,way
+Zauberweg,,,,way
+Zaucheblick,,,,way
+Zaucheweg,,,,way
+Zaunkönigweg,,,,way
+Zedernholzweg,,,,way
+Zehmenstraße,,,,way
+Zeisigweg,,,,way
+"Zeitzer Straße",,,,way
+Zentralstraße,,,,way
+Zeppelinweg,,,,way
+"Zerbster Straße",,,,way
+Ziegeleiweg,,,,way
+Ziegelstraße,,,,way
+Ziegensteg,,,,way
+Zillstraße,,,,way
+Zimmerstraße,,,,way
+Zimmerweg,,,,way
+"Zingster Straße",,,,way
+Zinnienweg,,,,way
+Zirkonstraße,,,,way
+"Zittauer Straße",,,,way
+Ziustraße,,,,way
+Zollikoferstraße,,,,way
+Zollschuppenstraße,,,,way
+Zoo-Rundweg,,,,way
+Zschampertaue,,,,way
+"Zschochersche Allee",,,,way
+"Zschochersche Straße",,,,way
+"Zschölkauer Weg",,,,way
+"Zschopauer Straße",,,,way
+"Zschortauer Straße",,,,way
+"Zu den Bruchwiesen",,,,way
+"Zu den Drei Kugeln",,,,way
+"Zu den Gärten",,,,way
+"Zu den Wiesen",,,,way
+"Zuckelhausener Ring",,,,way
+"Zuckelhäuser Straße",,,,way
+"Zugang Parkhaus",,,,way
+"Zugangsweg Kleingarten",,,,way
+"Zum Alten Seebad",,,,way
+"Zum Alten Wasserwerk",,,,way
+"Zum Althener Sportplatz",,,,way
+"Zum Apelstein",,,,way
+"Zum Auwald",,,,way
+"Zum Bahnhof",,,,way
+"Zum Birkenwäldchen",,,,way
+"Zum Denkmal",,,,way
+"Zum Dölitzer Schacht",,,,way
+"Zum Feld",,,,way
+"Zum Förderturm",,,,way
+"Zum Forstgut",,,,way
+"Zum Frischemarkt",,,,way
+"Zum Graben",,,,way
+"Zum Gut",,,,way
+"Zum Haksch",,,,way
+"Zum Harfenacker",,,,way
+"Zum Kalten Born",,,,way
+"Zum Kleewinkel",,,,way
+"Zum Kleingartenpark",,,,way
+"Zum Leutzscher Holz",,,,way
+"Zum Lippenplan",,,,way
+"Zum Rosengarten",,,,way
+"Zum Schwinderplan",,,,way
+"Zum Sonnenblick",,,,way
+"Zum Wald",,,,way
+"Zum Waldbad",,,,way
+"Zum Wäldchen",,,,way
+"Zum Wasserturm",,,,way
+"Zum Winkel",,,,way
+"Zur Alten Bäckerei",,,,way
+"Zur Alten Brauerei",,,,way
+"Zur Alten Mühle",,,,way
+"Zur Alten Schmiede",,,,way
+"Zur Alten Weintraube",,,,way
+"Zur Bauernwiese",,,,way
+"Zur Grünen Ecke",,,,way
+"Zur Heide",,,,way
+"Zur Lehmbahn",,,,way
+"Zur Lindenhöhe",,,,way
+"Zur Loberaue",,,,way
+"Zur Reitbahn",,,,way
+"Zur Rodelbahn",,,,way
+"Zur Sägemühle",,,,way
+"Zur Schule",,,,way
+"Zur Waldenau",,,,way
+"Zur Weißen Mark",,,,way
+"Zur Ziegelei",,,,way
+Zusestraße,,,,way
+"Zweenfurther Straße",,,,way
+Zweifelstraße,,,,way
+"Zweinaundorfer Straße",,,,way
+"Zwenkauer Straße",,,,way
+Zwergasternweg,,,,way
+Zwergenweg,,,,way
+Zwergmispelstraße,,,,way
+Zwetschgenweg,,,,way
+"Zwickauer Straße",,,,way
+Zwiebelweg,,,,way
