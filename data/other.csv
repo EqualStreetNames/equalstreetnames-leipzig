@@ -42,7 +42,6 @@ Heimdallstraße,wikidata,,Q131196,way
 "Holzhäuser Straße",wikidata,,Q1625540,way
 Hotherstraße,wikidata,,Q204900,way
 Idunweg,wikidata,,Q204691,way
-Karl-Helbig-Straße,wikidata,,Q106618274,way
 Kastanienstraße,wikidata,,Q129324,way
 Kastorweg,wikidata,,Q11294144,way
 Kolonnadenstraße,wikidata,,Q657100,way
@@ -914,7 +913,6 @@ Gregoriusstraße,,,,way
 Grenzstraße,,,,way
 Grenzweg,,,,way
 Gretelweg,,,,way
-Gretschelstraße,wikidata,,,way
 Grillenstraße,,,,way
 "Grimmaischer Steinweg",,,,way
 "Groitzscher Straße",,,,way
@@ -1181,6 +1179,7 @@ Kapellenstraße,,,,way
 Karl-Friedrich-Straße,,,,way
 Karl-Härting-Straße,,,,way
 Karl-Heft-Straße,,,,way
+Karl-Helbig-Straße,wikidata,,,way
 Karl-Mannsfeld-Straße,,,,way
 Karl-Marx-Straße,,,,way
 Karl-Moor-Weg,,,,way
@@ -1305,7 +1304,7 @@ Kuntzschmannstraße,,,,way
 "Kursdorfer Weg",,,,way
 Kurt-Hänselmann-Weg,,,,way
 Kurt-Krah-Straße,,,,way
-Kurt-Masur-Platz,,,,way
+Kurt-Masur-Platz,,,,relation
 "Kurze Straße",,,,way
 Kutscherweg,,,,way
 Kutschweg,,,,way
@@ -1513,7 +1512,6 @@ Moosbeerweg,,,,way
 Moränenweg,,,,way
 Morellenweg,,,,way
 Morgensternstraße,,,,way
-Morungenstraße,wikidata,,,way
 Moschelesstraße,,,,way
 Mosenthinstraße,,,,way
 Mottelerstraße,,,,way
