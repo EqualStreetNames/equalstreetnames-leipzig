@@ -100,7 +100,7 @@ Bausestraße,wikidata,M,Q214231,way
 Bautzmannstraße,wikidata,M,Q106017716,way
 Bechsteinweg,wikidata,M,Q66379,way
 Beckerstraße,wikidata,M,Q92525,way
-Beethovenstraße,wikidata,M,Q255,way
+Beethovenstraße,wikidata,M,Q255,relation
 Belterstraße,wikidata,M,Q1608048,way
 Benedixstraße,wikidata,M,Q87176,way
 Berlichingenweg,wikidata,M,Q61839,way
@@ -290,7 +290,7 @@ Gellertplatz,wikidata,M,Q60584,way
 Georg-Fischer-Straße,wikidata,M,Q55165696,way
 Georg-Herwegh-Straße,wikidata,M,Q57945,way
 Georg-Maurer-Straße,wikidata,M,Q78213,way
-Georg-Schumann-Straße,wikidata,M,Q112787,way
+Georg-Schumann-Straße,wikidata,M,Q106459754;Q112787,way
 Georg-Schwarz-Straße,wikidata,M,Q1505958,way
 George-Bähr-Straße,wikidata,M,Q66169,way
 Georgiring,wikidata,M,Q2038882,way
@@ -509,7 +509,7 @@ Kurt-Eisner-Straße,wikidata,M,Q76440,way
 Kurt-Günther-Straße,wikidata,M,Q106040793,way
 Kurt-Huber-Weg,wikidata,M,Q57812,way
 Kurt-Kresse-Straße,wikidata,M,Q1750123,way
-Kurt-Masur-Platz,wikidata,M,Q157921,way
+Kurt-Masur-Platz,wikidata,M,Q157921,relation
 Kurt-Schumacher-Straße,wikidata,M,Q57465,way
 Kurt-Tucholsky-Straße,wikidata,M,Q57386,way
 Kurt-Weill-Straße,wikidata,M,Q55004,way
@@ -736,6 +736,7 @@ Rudolph-Sack-Straße,wikidata,M,Q105419,way
 Ruststraße,wikidata,M,Q455388,way
 Sackestraße,wikidata,M,Q1505810,way
 Salzmannstraße,wikidata,M,Q215060,way
+Sasstraße,wikidata,M,Q2645805,relation
 Schadowstraße,wikidata,M,Q51989,way
 Scharnhorststraße,wikidata,M,Q170340,way
 Schatzweg,wikidata,M,Q1176511,way
