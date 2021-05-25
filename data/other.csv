@@ -1,7 +1,7 @@
 name,source,gender,wikidata,type
 Addis-Abeba-Platz,wikidata,,Q3624,way
 Ahorngasse,wikidata,,Q42292,way
-"Alte Dübener Landstraße",wikidata,,Q12041,relation
+"Alte Dübener Landstraße",wikidata,,Q12041,relation+way
 "Am Mückenschlößchen",wikidata,,Q49238140,way
 Amazonstraße,wikidata,,Q3884,way
 Amselweg,wikidata,,Q25234,way
@@ -20,7 +20,7 @@ Birkengasse,wikidata,,Q25243,way
 Brühl,wikidata,,Q30198,way
 Brunhildstraße,wikidata,,Q850506,way
 Buchengasse,wikidata,,Q25403,way
-Burgplatz,wikidata,,Q880657,relation
+Burgplatz,wikidata,,Q880657,relation+way
 Burgstraße,wikidata,,Q880657,way
 "Delitzscher Straße",wikidata,,Q12052,way
 "Dingolfinger Straße",wikidata,,Q225909,way
@@ -130,7 +130,7 @@ Alfred-Schurig-Straße,,,,way
 "Alte Holzhausener Straße",,,,way
 "Alte Messe",,,,way
 "Alte Parkstraße",,,,way
-"Alte Salzstraße",,,,relation
+"Alte Salzstraße",,,,relation+way
 "Alte Seehausener Straße",,,,way
 "Alte Straße",,,,way
 "Alte Tauchaer Straße",,,,way
@@ -455,7 +455,7 @@ Binsengrund,,,,way
 Birkenpilzweg,,,,way
 Birkenring,,,,way
 Birkenstraße,,,,way
-Birkenwald,,,,relation
+Birkenwald,,,,relation+way
 Birkenwäldchen,,,,way
 Birkenweg,,,,way
 Birkhahnsteig,,,,way
@@ -703,7 +703,7 @@ Espenweg,,,,way
 "Essener Straße",,,,way
 Etzelstraße,,,,way
 Eulenweg,,,,way
-"Eutritzscher Markt",,,,relation
+"Eutritzscher Markt",,,,relation+way
 "Eutritzscher Straße",,,,way
 Exotenweg,,,,way
 Expressweg,,,,way
@@ -1234,7 +1234,7 @@ Landwaisenhausstraße,,,,way
 Lärchenweg,,,,way
 Laternenweg,,,,way
 "Lauchstädter Straße",,,,way
-"Lauerscher Weg",,,,relation
+"Lauerscher Weg",,,,relation+way
 Laurentiusstraße,,,,way
 "Lauschaer Weg",,,,way
 "Lausener Bogen",,,,way
@@ -1303,7 +1303,6 @@ Löwenzahnweg,,,,way
 Luchspfad,,,,way
 "Luckaer Straße",,,,way
 Lucknerstraße,,,,way
-Ludwig-Jahn-Straße,,,,way
 "Ludwigsburger Straße",,,,way
 Ludwigstraße,,,,way
 Luftschiffstraße,,,,way
@@ -1437,7 +1436,7 @@ Nagelstraße,,,,way
 Nahlesteg,,,,way
 "Narsdorfer Straße",,,,way
 Narzissenweg,,,,way
-Naschmarkt,,,,relation
+Naschmarkt,,,,relation+way
 Natalienstraße,,,,way
 Naturlehrpfad,,,,way
 "Naumburger Straße",,,,way
@@ -1574,7 +1573,6 @@ Plantagenweg,,,,way
 Platanenstraße,,,,way
 Platanenweg,,,,way
 Platnerstraße,,,,way
-Platostraße,,,,way
 "Plaußiger Dorfstraße",,,,way
 "Plaußiger Straße",,,,way
 "Plösener Straße",,,,way
@@ -1680,7 +1678,6 @@ Ritterlingsweg,,,,way
 Ritterpassage,,,,way
 Ritterspornweg,,,,way
 Robert-Hanf-Weg,,,,way
-Robert-Koch-Straße,,,,way
 Robinienweg,,,,way
 "Röckener Straße",,,,way
 Rodelandstraße,,,,way
@@ -1930,7 +1927,7 @@ Strohsackpassage,,,,way
 "Stünz-Mölkauer Weg",,,,way
 "Stünzer Straße",,,,way
 "Stünzer Weg",,,,way
-"Stuttgarter Allee",,,,relation
+"Stuttgarter Allee",,,,relation+way
 Südblick,,,,way
 Süderhexweg,,,,way
 Südplatz,,,,way

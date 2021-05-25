@@ -84,7 +84,7 @@ Auerbachstraße,wikidata,M,Q108668,way
 August-Bebel-Platz,wikidata,M,Q76520,way
 August-Bebel-Siedlung,wikidata,M,Q76520,way
 August-Bebel-Straße,wikidata,M,Q76520,way
-Augustusplatz,wikidata,M,Q53444,relation
+Augustusplatz,wikidata,M,Q53444,relation+way
 "Äußere Friedrich-Naumann-Straße",wikidata,M,Q76811,way
 "Äußere Raustraße",wikidata,M,Q216111,way
 Baaderstraße,wikidata,M,Q76512,way
@@ -100,7 +100,7 @@ Bausestraße,wikidata,M,Q214231,way
 Bautzmannstraße,wikidata,M,Q106017716,way
 Bechsteinweg,wikidata,M,Q66379,way
 Beckerstraße,wikidata,M,Q92525,way
-Beethovenstraße,wikidata,M,Q255,relation
+Beethovenstraße,wikidata,M,Q255,relation+way
 Belterstraße,wikidata,M,Q1608048,way
 Benedixstraße,wikidata,M,Q87176,way
 Berlichingenweg,wikidata,M,Q61839,way
@@ -510,7 +510,7 @@ Kurt-Eisner-Straße,wikidata,M,Q76440,way
 Kurt-Günther-Straße,wikidata,M,Q106040793,way
 Kurt-Huber-Weg,wikidata,M,Q57812,way
 Kurt-Kresse-Straße,wikidata,M,Q1750123,way
-Kurt-Masur-Platz,wikidata,M,Q157921,relation
+Kurt-Masur-Platz,wikidata,M,Q157921,relation+way
 Kurt-Schumacher-Straße,wikidata,M,Q57465,way
 Kurt-Tucholsky-Straße,wikidata,M,Q57386,way
 Kurt-Weill-Straße,wikidata,M,Q55004,way
@@ -555,6 +555,7 @@ Ludolf-Colditz-Straße,wikidata,M,Q1250038,way
 Ludwig-Beck-Straße,wikidata,M,Q57170,way
 Ludwig-Erhard-Straße,wikidata,M,Q2496,way
 Ludwig-Hupfeld-Straße,wikidata,M,Q107754,way
+Ludwig-Jahn-Straße,wikidata,M,Q77098,way
 Ludwig-Thoma-Weg,wikidata,M,Q45309,way
 Lumumbastraße,wikidata,M,Q161672,way
 Lützowstraße,wikidata,M,Q63965,way
@@ -668,6 +669,7 @@ Pfeilstraße,wikidata,M,Q1598479,way
 Philipp-Reis-Straße,wikidata,M,Q77124,way
 Philipp-Rosenthal-Straße,wikidata,M,Q125081,way
 Pittlerstraße,wikidata,M,Q1524897,way
+Platostraße,wikidata,M,Q1731281,way
 Plautstraße,wikidata,M,Q19965472,way
 Pöppelmannstraße,wikidata,M,Q62637,way
 Pöppigstraße,wikidata,M,Q61501,way
@@ -704,7 +706,7 @@ Renoirstraße,wikidata,M,Q39931,way
 Reuningstraße,wikidata,M,Q2418169,way
 Richard-Lehmann-Straße,wikidata,M,Q2150067,way
 Richard-Springer-Weg,wikidata,M,Q94822107,way
-Richard-Wagner-Platz,wikidata,M,Q1511,relation
+Richard-Wagner-Platz,wikidata,M,Q1511,relation+way
 Richard-Wagner-Straße,wikidata,M,Q1511,way
 Richterstraße,wikidata,M,Q1692863,way
 Riedelstraße,wikidata,M,Q882883,way
@@ -713,6 +715,7 @@ Rietschelstraße,wikidata,M,Q515914,way
 Rinckartstraße,wikidata,M,Q78323,way
 Robert-Blum-Platz,wikidata,M,Q214977,way
 Robert-Blum-Straße,wikidata,M,Q214977,way
+Robert-Koch-Straße,wikidata,M,Q37193,way
 Robert-Koch-Weg,wikidata,M,Q37193,way
 Robert-Mayer-Straße,wikidata,M,Q57171,way
 Robert-Schumann-Brücke,wikidata,M,Q7351,way
