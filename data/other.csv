@@ -503,7 +503,6 @@ Brandvorwerkstraße,,,,way
 Brauereistraße,,,,way
 "Braunschweiger Straße",,,,way
 Braustraße,,,,way
-Braustraßenbrücke,,,,way
 Brehmestraße,,,,way
 Breisgaustraße,,,,way
 "Breite Allee",,,,way
@@ -666,6 +665,7 @@ Eigenheimstraße,,,,way
 Eisenbahnstraße,,,,way
 "Eisenberger Ring",,,,way
 Eisenschmidtplatz,,,,way
+Eisvogelweg,,,,way
 Elchweg,,,,way
 Elfenweg,,,,way
 Elisabethstraße,,,,way
@@ -691,6 +691,7 @@ Endersstraße,,,,way
 "Engelsdorfer Straße",,,,way
 "Engelsdorfer Weg",,,,way
 Entenhausen,,,,way
+Entenweg,,,,way
 Entsbergerstraße,,,,way
 Enzianweg,,,,way
 "Erfurter Straße",,,,way
@@ -789,6 +790,7 @@ Führring,,,,relation
 Furnierweg,,,,way
 "Fürther Straße",,,,way
 Gänseblümchenweg,,,,way
+Gänseweg,,,,way
 Gartenbogen,,,,way
 Gartengrund,,,,way
 Gartenstraße,,,,way
@@ -1147,7 +1149,7 @@ Kiefernweg,,,,way
 Kiesgrubenstraße,,,,way
 Kiesweg,,,,way
 Kietzstraße,,,,way
-"Kiewer Straße",,,,way
+"Kiewer Straße",,,,relation+way
 Kilometerweg,,,,way
 "Kipsdorfer Weg",,,,way
 Kirchplatz,,,,way
@@ -1167,13 +1169,11 @@ Kleiberweg,,,,way
 "Kleiner Poetenweg",,,,way
 "Kleiner Zipfel",,,,way
 "Kleines Joachimsthal",,,,way
-Kleinmesseplatz,,,,way
 "Kleinpösnaer Anger",,,,way
 "Kleinpösnaer Straße",,,,way
 Klettenstraße,,,,way
 Klingenstraße,,,,way
 "Klingenthaler Straße",,,,way
-Klingerhainbrücke,,,,way
 Klipphausenstraße,,,,way
 Klostergasse,,,,way
 "Klosterneuburger Weg",,,,way
@@ -1378,6 +1378,7 @@ Mechlerstraße,,,,way
 "Mecklenburger Straße",,,,way
 "Meininger Ring",,,,way
 Meisenweg,,,,way
+Meissenweg,,,,way
 "Meißner Straße",,,,way
 Melanchthonstraße,,,,way
 Melchiorstraße,,,,way
@@ -1435,6 +1436,7 @@ Moränenweg,,,,way
 Morellenweg,,,,way
 Morgensternstraße,,,,way
 Mosenthinstraße,,,,way
+Möwenweg,,,,way
 "Mückenhainer Weg",,,,way
 Mückensteg,,,,way
 Mühlbergsiedlung,,,,way
@@ -1543,6 +1545,7 @@ Packhofstraße,,,,way
 Palmengartenbrücke,,,,way
 Panitzstraße,,,,way
 Pansastraße,,,,way
+Papageienweg,,,,way
 Papiermühlstraße,,,,way
 "Papitzer Straße",,,,way
 Pappelblick,,,,way
@@ -1589,6 +1592,7 @@ Pflaumestraße,,,,way
 Pflugkstraße,,,,way
 Phoenixweg,,,,way
 Pilzanger,,,,way
+Pinguinweg,,,,way
 Pirolweg,,,,way
 Pistorisstraße,,,,way
 Pitschkestraße,,,,way
@@ -1919,7 +1923,6 @@ Staffelsteinstraße,,,,way
 Stallbaumstraße,,,,way
 Stammerstraße,,,,way
 "Stammgleis PI",,,,way
-"Stammgleis PX",,,,way
 Starenweg,,,,way
 Starweg,,,,way
 Stauffacherweg,,,,way
@@ -1978,6 +1981,7 @@ Tannenweg,,,,way
 Täschnerstraße,,,,way
 Täubchenweg,,,,way
 Taubenbergweg,,,,way
+Taubenweg,,,,way
 "Tauchaer Straße",,,,way
 Taurusweg,,,,way
 Teerosenweg,,,,way
@@ -1985,7 +1989,6 @@ Teichmannstraße,,,,way
 Teichstraße,,,,way
 Teichweg,,,,way
 "Tennstedter Weg",,,,way
-"Thallwitzer Straße",,,,way
 Thärigenstraße,,,,way
 Theaterpassage,,,,way
 "Theklaer Straße",,,,way
@@ -2071,6 +2074,7 @@ Wachberg,,,,way
 Wachbergallee,,,,way
 Wacholderweg,,,,way
 Wachtelsteig,,,,way
+Wachtelweg,,,,way
 Wächtersteg,,,,way
 "Wahrener Straße",,,,way
 Waldbaurstraße,,,,way
@@ -2087,6 +2091,7 @@ Walnußweg,,,,way
 Walter-Albrecht-Weg,,,,way
 Walter-Günther-Weg,,,,way
 Walter-Heise-Straße,,,,way
+Wanderweg,,,,way
 "Wangerooger Weg",,,,way
 Wartenburgstraße,,,,way
 Wärterweg,,,,way
@@ -2277,4 +2282,7 @@ Zwergenweg,,,,way
 Zwergmispelstraße,,,,way
 Zwetschgenweg,,,,way
 Zwiebelweg,,,,way
-"ehem. Bahnstrecke Connewitz–Plagwitz, sä. LP",,,,way
+"ehem. Bahnstrecke Connewitz–Plagwitz",,,,way
+"ehem. Stammgleis PVI",,,,way
+"ehem. Stammgleis PVIII",,,,way
+"ehem. Stammgleis PX",,,,way
