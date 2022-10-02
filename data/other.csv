@@ -45,7 +45,6 @@ Heimdallstraße,wikidata,,Q131196,way
 "Holzhäuser Straße",wikidata,,Q1625540,way
 Hotherstraße,wikidata,,Q204900,way
 Idunweg,wikidata,,Q204691,way
-Karl-Helbig-Straße,wikidata,,,way
 Karl-Moor-Weg,wikidata,,Q55618403,way
 Kastanienstraße,wikidata,,Q129324,way
 Kastorweg,wikidata,,Q11294144,way
@@ -91,7 +90,7 @@ Schuhmachergäßchen,wikidata,,Q152355,way
 Schulgasse,wikidata,,Q3914,way
 Schwalbenweg,wikidata,,Q39861,way
 "Seehausener Allee",wikidata,,Q2264934,way
-Seeweg,wikidata,,Q85842470,way
+Seeweg,wikidata,,Q3253281,way
 Siegfriedplatz,wikidata,,Q537554,way
 Siegfriedstraße,wikidata,,Q537554,way
 Storchenweg,wikidata,,Q28507,way
@@ -192,6 +191,7 @@ Alfred-Schurig-Straße,,,,way
 "Am Hallischen Tor",,,,way
 "Am Hasenberg",,,,way
 "Am Hasengraben",,,,way
+"Am Hegeanger",,,,way
 "Am Hirtenhaus",,,,way
 "Am Hohen Graben",,,,way
 "Am Hohlweg",,,,way
@@ -203,10 +203,12 @@ Alfred-Schurig-Straße,,,,way
 "Am Klosterfeld",,,,way
 "Am Klucksgraben",,,,way
 "Am Künstlerbogen",,,,way
+"Am Lindeneck",,,,way
 "Am Lindenhof",,,,way
 "Am Lösegraben",,,,way
 "Am Luppedeich",,,,way
 "Am Meilenstein",,,,way
+"Am Mühlengrund",,,,way
 "Am Mühlgraben",,,,way
 "Am Niederholz",,,,way
 "Am Ochsenwinkel",,,,way
@@ -252,6 +254,7 @@ Alfred-Schurig-Straße,,,,way
 "Am Wasserwerk",,,,way
 "Am Wegekreuz",,,,way
 "Am Wiesenblick",,,,way
+"Am Wiesengrund",,,,way
 "Am Wolfswinkel",,,,way
 "Am Zuckmantel",,,,way
 "Am alten Flughafen",,,,way
@@ -437,6 +440,7 @@ Begonienweg,,,,way
 "Bei der Krähenhütte",,,,way
 Beipertstraße,,,,way
 Benediktusstraße,,,,way
+Bennigasse,,,,way
 Bennigsenstraße,,,,way
 Berberitzenstraße,,,,way
 Bergahornstraße,,,,way
@@ -550,7 +554,6 @@ Büttnerweg,,,,way
 Cäcilienstraße,,,,way
 Calaustraße,,,,way
 Cannaweg,,,,way
-Carl-Hampel-Platz,,,,way
 Carl-Hinné-Straße,,,,way
 Carl-Meyer-Straße,,,,way
 Carl-Munde-Straße,,,,way
@@ -742,6 +745,8 @@ Felsenkellerstraße,,,,way
 Fenchelweg,,,,way
 Ferdinand-Gruner-Straße,,,,way
 Ferdinand-Jost-Straße,,,,way
+Festplatz,,,,way
+"Festplatz KGV ""Kultur""",,,,way
 Feuchtwangerstraße,,,,way
 Fichtenstraße,,,,way
 Fichtesiedlung,,,,way
@@ -768,6 +773,7 @@ Fregestraße,,,,way
 "Freirodaer Straße",,,,way
 "Freirodaer Weg",,,,way
 "Freisinger Weg",,,,way
+Freisitz,,,,way
 Frettchenweg,,,,way
 Freundschaftsring,,,,way
 Friedensstraße,,,,way
@@ -808,7 +814,6 @@ Geißblattstraße,,,,way
 Gellertstraße,,,,way
 Gemeindeamtsstraße,,,,way
 Georg-Große-Straße,,,,way
-Georg-Lehmann-Bogen,,,,way
 Georg-Reichardt-Straße,,,,way
 "Georg-Schumann-/Lindenthaler Straße",,,,way
 "Geraer Straße",,,,way
@@ -846,6 +851,7 @@ Goldammerweg,,,,way
 "Goldene Hufe",,,,way
 Goldglöckchenstraße,,,,way
 Goldhähnchenweg,,,,way
+Goldhammerweg,,,,way
 Goldpeppingweg,,,,way
 Goldrutenweg,,,,way
 Goldsternstraße,,,,way
@@ -917,6 +923,7 @@ Güterbahnhofstraße,,,,way
 Gutshofstraße,,,,way
 Gutsparkstraße,,,,way
 Gypsbergstraße,,,,way
+Habichtweg,,,,way
 Hafenstraße,,,,way
 Hafentor,,,,way
 Haferkornstraße,,,,way
@@ -1009,7 +1016,6 @@ Hildeweg,,,,way
 Hilligerstraße,,,,way
 Himbeerweg,,,,way
 "Hinter dem Dorf",,,,way
-"Hinter dem Zuckelhausener Ring",,,,way
 "Hinter den Gärten",,,,way
 "Hinter der Kirche",,,,way
 Hinterforstweg,,,,way
@@ -1042,7 +1048,6 @@ Hornstraße,,,,way
 Hornweg,,,,way
 Horst-Fritsche-Weg,,,,way
 Hortensienweg,,,,way
-Huberstraße,,,,way
 Huchstraße,,,,way
 Hüfferstraße,,,,way
 Hüfnerstraße,,,,way
@@ -1053,6 +1058,7 @@ Hummelstraße,,,,way
 Hünerfeldstraße,,,,way
 Hussitenstraße,,,,way
 Huygensplatz,,,,way
+Hyazintenweg,,,,way
 Hyazinthenweg,,,,way
 Idastraße,,,,way
 Igelstraße,,,,way
@@ -1120,8 +1126,8 @@ Kapellenstraße,,,,way
 Karl-Friedrich-Straße,,,,way
 Karl-Härting-Straße,,,,way
 Karl-Heft-Straße,,,,way
+Karl-Helbig-Straße,,,,way
 Karl-Mannsfeld-Straße,,,,way
-Karl-Marx-Straße,,,,way
 Karl-Winkler-Straße,,,,way
 "Karlsruher Straße",,,,way
 "Karlstädter Straße",,,,way
@@ -1144,6 +1150,7 @@ Kernbeißerweg,,,,way
 Kesselgrund,,,,way
 Kickerlingsberg,,,,way
 Kiebitzstraße,,,,way
+Kiebitzweg,,,,way
 Kiefernweg,,,,way
 "Kieler Straße",,,,way
 Kiesgrubenstraße,,,,way
@@ -1192,6 +1199,7 @@ Kohlgartenweg,,,,way
 Kohlmeisenweg,,,,way
 Kohlweg,,,,way
 "Kohrener Straße",,,,way
+Kolibriweg,,,,way
 Kolmstraße,,,,way
 Koloniestraße,,,,way
 "Kömmlitzer Weg",,,,way
@@ -1244,6 +1252,7 @@ Lähnestraße,,,,way
 Lampebrücke,,,,way
 Landhausstraße,,,,way
 "Landsberger Straße",,,,way
+"Landsberger Straßel",,,,way
 Landwaisenhausstraße,,,,way
 "Lange Reihe",,,,way
 "Lange Straße",,,,way
@@ -1290,6 +1299,7 @@ Lidicestraße,,,,way
 "Liebensteiner Weg",,,,way
 "Liebertwolkwitzer Markt",,,,way
 "Liebertwolkwitzer Straße",,,,way
+"Lieberwolkwitzer Markt",,,,way
 Liebfrauenstraße,,,,way
 Ligusterweg,,,,way
 Liliensteinstraße,,,,way
@@ -1351,7 +1361,6 @@ Malvenweg,,,,way
 "Marcher Straße",,,,way
 Marcusgasse,,,,way
 Margaretenstraße,,,,way
-Margaretha-Rothe-Straße,,,,way
 Margeritenweg,,,,way
 Mariannenpark,,,,way
 "Marienberger Straße",,,,way
@@ -1390,7 +1399,6 @@ Menzingenweg,,,,way
 "Merkwitzer Landstraße",,,,way
 Messehofpassage,,,,way
 "Meusdorfer Straße",,,,way
-"Meyer'sche Häuser Kleinzschocher",,,,relation
 Miekeweg,,,,way
 Milanweg,,,,way
 Milchgasse,,,,way
@@ -1477,6 +1485,7 @@ Neudorfgasse,,,,way
 "Neue Straße",,,,way
 "Neuenburger Weg",,,,way
 "Neuer Weg",,,,way
+"Neues Rathaus",,,,relation
 Neumarkt,,,,way
 "Neunkirchener Straße",,,,way
 "Neuscherbitzer Gasse",,,,way
@@ -1509,6 +1518,7 @@ Oberdorfstraße,,,,way
 Oberholzstraße,,,,way
 Oberläuterstraße,,,,way
 "Obernaundorfer Straße",,,,way
+Oberweg,,,,way
 Ochsenweg,,,,way
 "Oelsnitzer Straße",,,,way
 "Oelßners Hof",,,,way
@@ -1560,7 +1570,6 @@ Parkweg,,,,way
 Parthenstraße,,,,way
 Paul-Beiersdorf-Straße,,,,way
 Paul-Ermler-Weg,,,,way
-Paul-Flechsig-Straße,,,,way
 Paul-Herbst-Weg,,,,way
 Paul-Klöpsch-Straße,,,,way
 Paul-Küstner-Straße,,,,way
@@ -1630,6 +1639,7 @@ Postreitergasse,,,,way
 Potschkaustraße,,,,way
 "Pötzschker Weg 2 - 4",,,,way
 Preiselbeerweg,,,,way
+Preußenseite,,,,way
 Preußenstraße,,,,way
 Preußergäßchen,,,,way
 Primavesistraße,,,,way
@@ -1659,6 +1669,7 @@ Rabet,,,,way
 "Radefelder Weg",,,,way
 Radiusstraße,,,,way
 "Ranstädter Steinweg",,,,way
+Ranunkelweg,,,,way
 "Räpitzer Straße",,,,way
 Rapsweg,,,,way
 Rapunzelweg,,,,way
@@ -1696,7 +1707,6 @@ Rietzschkebogen,,,,way
 Rietzschkegrund,,,,way
 Rietzschkeweg,,,,way
 Rietzschkewiesen,,,,way
-Ringelnatzweg,,,,way
 Ringstraße,,,,way
 Ringweg,,,,way
 Rippachtalstraße,,,,way
@@ -1737,7 +1747,7 @@ Rotheplatz,,,,way
 "Röthische Straße",,,,way
 Rotkäppchenweg,,,,way
 Rotkehlchenweg,,,,way
-Rotkelchenweg,,,,way
+Rotkelhchenweg,,,,way
 Rotkleeweg,,,,way
 Rotschwänzchenweg,,,,way
 Rotschwanzweg,,,,way
@@ -1751,7 +1761,6 @@ Ruheplatz,,,,way
 Rundkapellenweg,,,,way
 "Rundweg Gondwanaland",,,,way
 Russenstraße,,,,way
-"S-Bahnhof MDR",,,,relation
 "S-Bahnhof Wahren",,,,relation
 "Saalecker Straße",,,,way
 "Saalfelder Straße",,,,way
@@ -1824,11 +1833,11 @@ Schneeballweg,,,,way
 Schneewittchenweg,,,,way
 Schneiderstraße,,,,way
 Schnittergasse,,,,way
+"Schönau, Weißdornstraße",,,,relation
 "Schönauer Landstraße",,,,way
 "Schönauer Ring",,,,way
 "Schönauer Weg",,,,way
 "Schönauer Welle",,,,way
-Schönauer/Ratzelstraße,,,,way
 Schönbachstraße,,,,way
 "Schönefelder Allee",,,,way
 "Schönefelder Straße",,,,way
@@ -1989,10 +1998,10 @@ Teichmannstraße,,,,way
 Teichstraße,,,,way
 Teichweg,,,,way
 "Tennstedter Weg",,,,way
+"Thallwitzer Straße",,,,way
 Thärigenstraße,,,,way
 Theaterpassage,,,,way
 "Theklaer Straße",,,,way
-Theobald-Beer-Straße,,,,way
 Theodor-Voigt-Straße,,,,way
 Theresienstraße,,,,way
 "Thierbacher Straße",,,,way
@@ -2101,8 +2110,13 @@ Wasserturmweg,,,,way
 Wasserwerkstraße,,,,way
 "Wasunger Straße",,,,way
 Watestraße,,,,way
+"Web IV",,,,way
 Weberknechtstraße,,,,way
 "Webers Hof",,,,way
+"Weg I",,,,way
+"Weg II",,,,way
+"Weg III",,,,way
+"Weg X",,,,way
 "Weg der Weisheit",,,,way
 "Weg der alten Kameraden",,,,way
 Wegastraße,,,,way
@@ -2130,6 +2144,7 @@ Werkstättenweg,,,,way
 Werkstraße,,,,way
 "Wertheimer Straße",,,,way
 West-Weg,,,,way
+Westbad,,,,way
 Weststraße,,,,way
 Wetzelweg,,,,way
 Wiebelstraße,,,,way
@@ -2251,6 +2266,7 @@ Zschampertaue,,,,way
 "Zum Rosengarten",,,,way
 "Zum Schwinderplan",,,,way
 "Zum Sonnenblick",,,,way
+"Zum Täubchenweg",,,,way
 "Zum Wald",,,,way
 "Zum Waldbad",,,,way
 "Zum Wäldchen",,,,way
@@ -2282,6 +2298,7 @@ Zwergenweg,,,,way
 Zwergmispelstraße,,,,way
 Zwetschgenweg,,,,way
 Zwiebelweg,,,,way
+dampfaffweg,,,,way
 "ehem. Bahnstrecke Connewitz–Plagwitz",,,,way
 "ehem. Stammgleis PVI",,,,way
 "ehem. Stammgleis PVIII",,,,way

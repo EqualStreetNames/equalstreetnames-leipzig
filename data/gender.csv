@@ -37,6 +37,7 @@ Liselotte-Herrmann-Straße,wikidata,F,Q110098,way
 Liviastraße,wikidata,F,Q110946,way
 Louise-Otto-Peters-Allee,wikidata,F,Q71507,way
 Margarete-von-Wrangell-Straße,wikidata,F,Q539172,way
+Margaretha-Rothe-Straße,wikidata,F,Q105965,way
 Maria-Grollmuß-Straße,wikidata,F,Q106533,way
 Mariannenstraße,wikidata,F,Q106041157,way
 Neuberinstraße,wikidata,F,Q68316,way
@@ -290,6 +291,7 @@ Geißlerstraße,wikidata,M,Q1079892,way
 Gellertplatz,wikidata,M,Q60584,way
 Georg-Fischer-Straße,wikidata,M,Q55165696,way
 Georg-Herwegh-Straße,wikidata,M,Q57945,way
+Georg-Lehmann-Bogen,wikidata,M,Q94927794,way
 Georg-Maurer-Straße,wikidata,M,Q78213,way
 Georg-Schumann-Straße,wikidata,M,Q106459754;Q112787,way
 Georg-Schwarz-Straße,wikidata,M,Q1505958,way
@@ -418,6 +420,7 @@ Höltystraße,wikidata,M,Q71456,way
 Hommelweg,wikidata,M,Q96411,way
 Horst-Heilmann-Straße,wikidata,M,Q101486,way
 Hoyerstraße,wikidata,M,Q1174777,way
+Huberstraße,wikidata,M,Q1927905,way
 Hubertusstraße,wikidata,M,Q159834,way
 Hubmaierweg,wikidata,M,Q62532,way
 Hugo-Junkers-Straße,wikidata,M,Q60363,way
@@ -457,6 +460,7 @@ Karl-Heine-Straße,wikidata,M,Q98236,way
 Karl-Jungbluth-Straße,wikidata,M,Q1731858,way
 Karl-Liebknecht-Straße,wikidata,M,Q75886,way
 Karl-Marx-Platz,wikidata,M,Q9061,way
+Karl-Marx-Straße,wikidata,M,Q9061,way
 Karl-Rothe-Straße,wikidata,M,Q1578628,way
 Karl-Schurz-Straße,wikidata,M,Q127437,way
 Karl-Siegismund-Straße,wikidata,M,Q55675295,way
@@ -593,6 +597,7 @@ Melchthalweg,wikidata,M,Q117410,way
 Menckestraße,wikidata,M,Q1769273,way
 Mendelejewstraße,wikidata,M,Q9106,way
 Mendelssohnstraße,wikidata,M,Q46096,way
+"Meyer'sche Häuser Kleinzschocher",wikidata,M,Q96012,relation
 Michael-Kazmierczak-Straße,wikidata,M,Q1928131,way
 Mierendorffstraße,wikidata,M,Q1042305,way
 Mitschurinring,wikidata,M,Q311499,way
@@ -649,6 +654,7 @@ Palmstraße,wikidata,M,Q67162,way
 Pater-Aurelius-Platz,wikidata,M,Q110928,way
 Pater-Gordian-Straße,wikidata,M,Q94643460,way
 Paul-Ernst-Straße,wikidata,M,Q72557,way
+Paul-Flechsig-Straße,wikidata,M,Q102372843,way
 Paul-Gerhardt-Weg,wikidata,M,Q76331,way
 Paul-Gruner-Straße,wikidata,M,Q1305296,way
 Paul-Heyse-Straße,wikidata,M,Q76487,way
@@ -686,7 +692,7 @@ Pufendorfstraße,wikidata,M,Q57186,way
 Puschkinstraße,wikidata,M,Q7200,way
 Puschstraße,wikidata,M,Q2033923,way
 Rabenerstraße,wikidata,M,Q72691,way
-"Rackwitzer Straße",wikidata,M,Q150726,way
+"Rackwitzer Straße",wikidata,M,Q150726,relation+way
 Raiffeisenstraße,wikidata,M,Q45141,way
 Raimundstraße,wikidata,M,Q45025,way
 "Ranftsche Gasse",wikidata,M,Q106018579,way
@@ -714,6 +720,7 @@ Riedelstraße,wikidata,M,Q882883,way
 Riemannstraße,wikidata,M,Q213539,way
 Rietschelstraße,wikidata,M,Q515914,way
 Rinckartstraße,wikidata,M,Q78323,way
+Ringelnatzweg,wikidata,M,Q552038,way
 Robert-Blum-Platz,wikidata,M,Q214977,way
 Robert-Blum-Straße,wikidata,M,Q214977,way
 Robert-Koch-Straße,wikidata,M,Q37193,way
@@ -829,6 +836,7 @@ Teschstraße,wikidata,M,Q108170,way
 Teslastraße,wikidata,M,Q9036,way
 Teubnerstraße,wikidata,M,Q216319,way
 Thaerstraße,wikidata,M,Q63032,way
+Theobald-Beer-Straße,wikidata,M,Q2417053,way
 Theodor-Heuss-Straße,wikidata,M,Q2594,way
 Theodor-Kunz-Ring,wikidata,M,Q1733163,way
 Theodor-Neubauer-Straße,wikidata,M,Q121509,way
