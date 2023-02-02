@@ -21,6 +21,7 @@ Brunhildstraße,wikidata,,Q850506,way
 Buchengasse,wikidata,,Q25403,way
 Burgplatz,wikidata,,Q880657,relation+way
 Burgstraße,wikidata,,Q880657,way
+Cheruskerstraße,wikidata,,Q268307,way
 "Delitzscher Straße",wikidata,,Q12052,way
 "Dingolfinger Straße",wikidata,,Q225909,way
 Dohlenweg,wikidata,,Q25345384,way
@@ -36,6 +37,7 @@ Funkenburgstraße,wikidata,,Q1474350,way
 Gambrinusstraße,wikidata,,Q772978,way
 Gewandgäßchen,wikidata,,Q519613,way
 "Göbschelwitzer Straße",wikidata,,Q1559171,way
+Gotenstraße,wikidata,,Q42193,way
 "Grimmaische Straße",wikidata,,Q10780,way
 Grimmweg,wikidata,,Q2793;Q6701;Q6714,way
 Gudrunstraße,wikidata,,Q1257834,way
@@ -70,6 +72,7 @@ Michaelisstraße,wikidata,,Q45581,way
 Mühlgrabenweg,wikidata,,Q736691,way
 Nachtigallenweg,wikidata,,Q25393,way
 "Naunhofer Straße",wikidata,,Q10771,way
+Nikolaikirchhof,wikidata,,Q694286,relation
 Nikolaistraße,wikidata,,Q694286,way
 Petersstraße,wikidata,,Q436073,way
 "Platz des 20. Juli 1944",wikidata,,Q105570,way
@@ -566,7 +569,6 @@ Carusstraße,,,,way
 Charlottenstraße,,,,way
 Charlottenweg,,,,way
 "Chemnitzer Straße",,,,way
-Cheruskerstraße,,,,way
 Christian-Schmid-Straße,,,,way
 Christian-Wille-Weg,,,,way
 Christianstraße,,,,way
@@ -863,7 +865,6 @@ Gontardweg,,,,way
 "Görlitzer Straße",,,,way
 "Goslarer Straße",,,,way
 "Göteborger Straße",,,,way
-Gotenstraße,,,,way
 "Gothaer Straße",,,,way
 Gottfried-Jähnichen-Weg,,,,way
 Gottfried-Rentzsch-Weg,,,,way
@@ -1499,7 +1500,6 @@ Nickelmannweg,,,,way
 Niederkirchnerbrücke,,,,way
 Niemeyerstraße,,,,way
 Nikolai-Rumjanzew-Straße,,,,way
-Nikolaikirchhof,,,,relation
 Nixenweg,,,,way
 Nonnenmühlgasse,,,,way
 Nonnenstraße,,,,way
