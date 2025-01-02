@@ -18,6 +18,7 @@ Blaumeisenweg,wikidata,,Q25404,way
 "Bornaische Straße",wikidata,,Q10744,way
 "Brandenburger Straße",wikidata,,Q3931,way
 "Breitenfelder Straße",wikidata,,Q873362,way
+"Breslauer Straße",wikidata,,Q1799,way
 Brühl,wikidata,,Q30198,way
 Brunhildstraße,wikidata,,Q850506,way
 Buchengasse,wikidata,,Q25403,way
@@ -25,6 +26,7 @@ Buchfinkenweg,wikidata,,Q25383,way
 Buntspechtweg,wikidata,,Q26209,way
 Burgplatz,wikidata,,Q880657,relation+way
 Burgstraße,wikidata,,Q880657,way
+Burgundenstraße,wikidata,,Q150412,way
 Cheruskerstraße,wikidata,,Q268307,way
 "Delitzscher Straße",wikidata,,Q12052,way
 "Dingolfinger Straße",wikidata,,Q225909,way
@@ -128,8 +130,10 @@ Storchenweg,wikidata,,Q28507,way
 Tellweg,wikidata,,Q30908,way
 "Torgauer Straße",wikidata,,Q12062,way
 Universitätsstraße,wikidata,,Q154804,way
+"Wachauer Straße",wikidata,,Q2538299,way
 Waldstraße,wikidata,,Q2541972,way
 "Wettiner Straße",wikidata,,Q152909,way
+Wilhelmsteg,wikidata,,Q99738941,way
 Wodanstraße,wikidata,,Q43610,way
 Zaunkönigweg,wikidata,,Q25740,way
 Zeisigweg,wikidata,,Q5261336,way
@@ -139,6 +143,7 @@ Ziustraße,wikidata,,Q172713,way
 "Abtnaundorfer Straße",,,,way
 Achatstraße,,,,way
 Ackerweg,,,,way
+Adlershelmstraße,,,,way
 Adolf-Koppe-Straße,,,,way
 Agnesstraße,,,,way
 Agricolastraße,,,,way
@@ -289,6 +294,7 @@ Alfred-Schurig-Straße,,,,way
 "Am Zuckmantel",,,,way
 "Am alten Flughafen",,,,way
 "Am alten Gasthof",,,,way
+"Am alten Zollamt",,,,way
 "Am kleinen Feld",,,,way
 "Am krummen Graben",,,,way
 "Am langen Felde",,,,way
@@ -376,7 +382,6 @@ Angersiedlung,,,,way
 Angerstraße,,,,way
 "Anhalter Straße",,,,way
 "Anlage 3 - Mittelgang",,,,way
-Anna-Heinicke-Platz,,,,way
 "Annaberger Straße",,,,way
 Annenstraße,,,,way
 "Ansbacher Straße",,,,way
@@ -541,7 +546,6 @@ Breitschuhstraße,,,,way
 "Bremer Straße",,,,way
 "Bremer Weg",,,,way
 Brentanostraße,,,,way
-"Breslauer Straße",,,,way
 Breunsdorffstraße,,,,way
 "Brodauer Weg",,,,way
 Brombeerweg,,,,way
@@ -564,7 +568,6 @@ Bünaustraße,,,,way
 Burgauenstraße,,,,way
 "Burghausener Straße",,,,way
 "Burgstädter Straße",,,,way
-Burgundenstraße,,,,way
 "Bus Stop",,,,way
 Buschenaustraße,,,,way
 Bussardweg,,,,way
@@ -572,7 +575,6 @@ Buttergasse,,,,way
 Büttnerstraße,,,,way
 Büttnerweg,,,,way
 Cäcilienstraße,,,,way
-Calaustraße,,,,way
 Cannaweg,,,,way
 Carl-Hinné-Straße,,,,way
 Carl-Meyer-Straße,,,,way
@@ -973,7 +975,6 @@ Hauptweg,,,,way
 Hauschildstraße,,,,way
 Häuslergasse,,,,way
 Häußerstraße,,,,way
-Haußmannstraße,,,,way
 "Haynaer Weg",,,,way
 Heckenweg,,,,way
 Heidegraben,,,,way
@@ -1051,7 +1052,6 @@ Hornweg,,,,way
 Horst-Fritsche-Weg,,,,way
 Hortensienweg,,,,way
 Huchstraße,,,,way
-Hüfferstraße,,,,way
 Hüfnerstraße,,,,way
 Hügelweg,,,,way
 Hugo-Aurig-Straße,,,,way
@@ -1166,6 +1166,7 @@ Kirchstraße,,,,way
 Kirchweg,,,,way
 Kirschbergstraße,,,,way
 Kirschgartenweg,,,,way
+Kirschweg,,,,way
 "Kissinger Straße",,,,way
 Klarastraße,,,,way
 Kleeweg,,,,way
@@ -1189,7 +1190,6 @@ Knaurstraße,,,,way
 "Knauthainer Straße",,,,way
 "Knautnaundorfer Anger",,,,way
 "Knautnaundorfer Straße",,,,way
-Knesebeckstraße,,,,way
 Knöflerstraße,,,,way
 Knuthstraße,,,,way
 "Koburger Straße",,,,way
@@ -1226,6 +1226,7 @@ Kresseweg,,,,way
 "Kretschmanns Hof",,,,way
 Kreuzdornstraße,,,,way
 Kreuzstraße,,,,way
+Krimlindenallee,,,,way
 Kröbelstraße,,,,way
 Krokusweg,,,,way
 "Krostitzer Weg",,,,way
@@ -1363,7 +1364,7 @@ Marienplatz,,,,way
 Marienweg,,,,way
 "Markkleeberger Straße",,,,way
 "Markranstädter Straße",,,,way
-Markt,,,,relation
+Markt,,,,relation+way
 Marktgalerie,,,,way
 Markthallenstraße,,,,way
 Marktstraße,,,,way
@@ -1820,7 +1821,6 @@ Schneeballweg,,,,way
 Schneewittchenweg,,,,way
 Schneiderstraße,,,,way
 Schnittergasse,,,,way
-"Schönau, Weißdornstraße",,,,relation
 "Schönauer Landstraße",,,,way
 "Schönauer Ring",,,,way
 "Schönauer Weg",,,,way
@@ -2060,13 +2060,11 @@ Volckmarstraße,,,,way
 Volksgartenstraße,,,,way
 Vollhardtstraße,,,,way
 "Vor dem Hospitaltore",,,,way
-"Wachauer Straße",,,,way
 Wachberg,,,,way
 Wachbergallee,,,,way
 Wacholderweg,,,,way
 Wachtelsteig,,,,way
 Wachtelweg,,,,way
-Wächtersteg,,,,way
 "Wahrener Straße",,,,way
 Waldbaurstraße,,,,way
 Waldblick,,,,way
@@ -2151,7 +2149,6 @@ Wilhelm-Sammet-Straße,,,,way
 Wilhelm-Wild-Straße,,,,way
 Wilhelm-Winkler-Straße,,,,way
 Wilhelminenstraße,,,,way
-Wilhelmsteg,,,,way
 Wilhelmstraße,,,,way
 Willmar-Schwabe-Straße,,,,way
 "Wilsnacker Straße",,,,way
